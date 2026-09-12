@@ -1,13 +1,15 @@
 import { Link, Navigate, useParams } from 'react-router-dom'
 import { getScenarioById, getNextScenario } from '../data/scenarios'
 import { useProgress } from '../hooks/useProgress'
-import Quiz from '../components/Quiz'
+import { useReflections } from '../hooks/useReflections'
+import ScenarioQuiz from '../components/ScenarioQuiz'
 import ScenarioWarningBanner from '../components/ScenarioWarningBanner'
 
 export default function ScenarioPage() {
   const { scenarioId } = useParams()
   const scenario = getScenarioById(scenarioId)
   const { progress, markScenarioComplete } = useProgress()
+  const { addReflection } = useReflections()
 
   if (!scenario) {
     return <Navigate to="/escenarios" replace />
@@ -39,10 +41,23 @@ export default function ScenarioPage() {
 
       <hr className="border-slate-200" />
 
-      <Quiz
+      <ScenarioQuiz
         title="Practica el razonamiento"
         questions={scenario.questions}
         onComplete={(score, total) => markScenarioComplete(scenario.id, score, total)}
+        onReflection={(questionIndex, questionText, payload) =>
+          addReflection({
+            scenarioId: scenario.id,
+            scenarioTitle: scenario.title,
+            scenarioTag: scenario.tag,
+            questionIndex,
+            questionText,
+            userReflection: payload.reflectionText,
+            selectedOptionText: payload.selectedOptionText,
+            isCorrect: payload.isCorrect,
+            feedbackText: payload.feedbackText,
+          })
+        }
       />
 
       {savedProgress?.completed && (

@@ -10,6 +10,10 @@ import LegalNotice from './pages/LegalNotice'
 import Sources from './pages/Sources'
 import MarketScenarios from './pages/MarketScenarios'
 import ScenarioPage from './pages/ScenarioPage'
+import Glossary from './pages/Glossary'
+import Reflections from './pages/Reflections'
+import Checklists from './pages/Checklists'
+import ChecklistDetail from './pages/ChecklistDetail'
 
 const Calculator = lazy(() => import('./pages/Calculator'))
 const PortfolioSimulator = lazy(() => import('./pages/PortfolioSimulator'))
@@ -47,6 +51,10 @@ export default function App() {
           <Route path="/fuentes" element={<Sources />} />
           <Route path="/escenarios" element={<MarketScenarios />} />
           <Route path="/escenarios/:scenarioId" element={<ScenarioPage />} />
+          <Route path="/reflexiones" element={<Reflections />} />
+          <Route path="/glosario" element={<Glossary />} />
+          <Route path="/checklist" element={<Checklists />} />
+          <Route path="/checklist/:checklistId" element={<ChecklistDetail />} />
           <Route path="/aviso-legal" element={<LegalNotice />} />
         </Route>
       </Routes>

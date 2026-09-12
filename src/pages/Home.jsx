@@ -35,6 +35,24 @@ const SECTIONS = [
     description: 'Consulta las lecciones completadas y los resultados de tus tests.',
   },
   {
+    to: '/reflexiones',
+    icon: '📝',
+    title: 'Mis reflexiones',
+    description: 'Relee lo que escribiste al practicar cada escenario de mercado, junto al feedback recibido.',
+  },
+  {
+    to: '/checklist',
+    icon: '☑️',
+    title: 'Checklist antes de invertir',
+    description: 'Organiza qué revisar (comisiones, réplica, liquidez...) en un fondo real que estés evaluando.',
+  },
+  {
+    to: '/glosario',
+    icon: '🔤',
+    title: 'Glosario',
+    description: 'Busca cualquier término explicado en la app, con enlace directo a su lección.',
+  },
+  {
     to: '/fuentes',
     icon: '🔗',
     title: 'Fuentes fiables',
