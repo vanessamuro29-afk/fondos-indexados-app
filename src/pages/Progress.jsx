@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { LESSONS } from '../data/lessons'
+import { SCENARIOS } from '../data/scenarios'
 import { useProgress } from '../hooks/useProgress'
 import ProgressBar from '../components/ProgressBar'
 
@@ -9,6 +10,7 @@ export default function Progress() {
   const [confirmingReset, setConfirmingReset] = useState(false)
 
   const completedLessons = LESSONS.filter((l) => progress.lessons[l.id]?.completed)
+  const completedScenarios = SCENARIOS.filter((s) => progress.scenarios[s.id]?.completed)
 
   const handleReset = () => {
     resetProgress()
@@ -59,6 +61,37 @@ export default function Progress() {
         })}
       </div>
 
+      <div className="rounded-xl border border-slate-200 bg-white p-4">
+        <ProgressBar
+          value={completedScenarios.length}
+          max={SCENARIOS.length}
+          label={`Escenarios de mercado completados: ${completedScenarios.length} de ${SCENARIOS.length}`}
+        />
+      </div>
+
+      <div className="flex flex-col gap-2">
+        <h2 className="font-semibold text-slate-900">Detalle por escenario</h2>
+        {SCENARIOS.map((scenario) => {
+          const sp = progress.scenarios[scenario.id]
+          return (
+            <Link
+              key={scenario.id}
+              to={`/escenarios/${scenario.id}`}
+              className="flex items-center justify-between rounded-lg border border-slate-200 bg-white px-4 py-3 text-sm hover:bg-slate-50"
+            >
+              <span className="font-medium text-slate-800">{scenario.title}</span>
+              {sp?.completed ? (
+                <span className="text-emerald-700">
+                  ✅ {sp.score}/{sp.total}
+                </span>
+              ) : (
+                <span className="text-slate-400">Pendiente</span>
+              )}
+            </Link>
+          )
+        })}
+      </div>
+
       <div className="rounded-lg border border-slate-200 bg-white px-4 py-3">
         <h2 className="font-semibold text-slate-900">Test final</h2>
         {progress.finalQuiz ? (
@@ -76,8 +109,8 @@ export default function Progress() {
       <div className="rounded-xl border border-rose-200 bg-rose-50 p-4">
         <h2 className="font-semibold text-rose-900">Borrar progreso</h2>
         <p className="mt-1 text-sm text-rose-800">
-          Esto eliminará permanentemente tus lecciones completadas y resultados de tests
-          guardados en este navegador.
+          Esto eliminará permanentemente tus lecciones completadas, escenarios practicados y
+          resultados de tests guardados en este navegador.
         </p>
         {confirmingReset ? (
           <div className="mt-3 flex gap-2">

@@ -7,6 +7,9 @@ import LessonPage from './pages/LessonPage'
 import FinalQuiz from './pages/FinalQuiz'
 import Progress from './pages/Progress'
 import LegalNotice from './pages/LegalNotice'
+import Sources from './pages/Sources'
+import MarketScenarios from './pages/MarketScenarios'
+import ScenarioPage from './pages/ScenarioPage'
 
 const Calculator = lazy(() => import('./pages/Calculator'))
 const PortfolioSimulator = lazy(() => import('./pages/PortfolioSimulator'))
@@ -41,6 +44,9 @@ export default function App() {
             }
           />
           <Route path="/progreso" element={<Progress />} />
+          <Route path="/fuentes" element={<Sources />} />
+          <Route path="/escenarios" element={<MarketScenarios />} />
+          <Route path="/escenarios/:scenarioId" element={<ScenarioPage />} />
           <Route path="/aviso-legal" element={<LegalNotice />} />
         </Route>
       </Routes>

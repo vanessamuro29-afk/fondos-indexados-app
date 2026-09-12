@@ -169,4 +169,59 @@ export const FINAL_QUIZ = [
     correctIndex: 1,
     explanation: 'Falso. Reducen ciertos riesgos (concentración, desviación del objetivo), pero ninguna inversión está libre de riesgo.',
   },
+  {
+    question: 'El KID (Documento de Datos Fundamentales) es...',
+    options: [
+      'Un documento opcional que casi nadie usa',
+      'Un documento breve y obligatorio que resume objetivo, riesgo (SRI), costes y horizonte de un fondo',
+      'El folleto completo de cientos de páginas',
+      'Un informe interno solo para el gestor',
+    ],
+    correctIndex: 1,
+    explanation: 'El KID es un resumen breve y estandarizado, obligatorio por normativa, para comparar productos antes de contratarlos.',
+  },
+  {
+    question: 'En la réplica sintética de un fondo indexado...',
+    options: [
+      'El fondo compra directamente todos los activos del índice',
+      'El fondo usa un swap con una contraparte para obtener la rentabilidad del índice',
+      'No existe ningún tipo de riesgo adicional',
+      'Es idéntica a comprar acciones una a una',
+    ],
+    correctIndex: 1,
+    explanation: 'La réplica sintética depende de un contrato (swap) con una contraparte, lo que añade riesgo de contraparte frente a la réplica física.',
+  },
+  {
+    question: 'La tracking difference, a diferencia del tracking error, mide...',
+    options: [
+      'La volatilidad diaria de la diferencia fondo-índice',
+      'La diferencia acumulada de rentabilidad entre fondo e índice en un periodo',
+      'El riesgo de contraparte',
+      'El nivel de riesgo SRI',
+    ],
+    correctIndex: 1,
+    explanation: 'El tracking error mide dispersión/volatilidad de la diferencia; la tracking difference resume el resultado acumulado en un periodo.',
+  },
+  {
+    question: 'Sobre el régimen de traspasos entre fondos en España (información general, no asesoramiento fiscal)...',
+    options: [
+      'Genera tributación inmediata siempre',
+      'Permite, en general, cambiar de fondo sin tributar en ese momento, difiriendo la tributación al reembolso final',
+      'Solo aplica a los ETFs',
+      'Ha sido siempre igual e inmutable en cualquier país',
+    ],
+    correctIndex: 1,
+    explanation: 'Es una característica estructural del sistema español para fondos tradicionales, aunque la normativa puede cambiar: conviene verificarla en fuentes oficiales.',
+  },
+  {
+    question: 'La liquidez de una inversión se refiere a...',
+    options: [
+      'Su rentabilidad esperada',
+      'La facilidad para convertirla en dinero disponible sin penalización relevante',
+      'Su nivel de riesgo SRI',
+      'El tipo de réplica que usa',
+    ],
+    correctIndex: 1,
+    explanation: 'La liquidez mide cuán fácil y rápido es convertir una inversión en efectivo disponible, sin malvenderla ni esperar demasiado.',
+  },
 ]

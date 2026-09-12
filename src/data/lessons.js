@@ -590,6 +590,290 @@ export const LESSONS = [
       },
     ],
   },
+  {
+    id: 'kid',
+    order: 12,
+    title: 'El KID: Documento de Datos Fundamentales',
+    description: 'El documento breve y obligatorio que resume un fondo antes de contratarlo, y cómo leerlo.',
+    estimatedMinutes: 8,
+    quiz: [
+      {
+        question: '¿Qué es el KID (Documento de Datos Fundamentales)?',
+        options: [
+          'Un contrato opcional que solo piden algunos bancos',
+          'Un documento breve y obligatorio que resume objetivo, riesgo, costes y horizonte de un fondo',
+          'El folleto completo de cientos de páginas del fondo',
+          'Un informe que solo ven los gestores del fondo',
+        ],
+        correctIndex: 1,
+        explanation:
+          'El KID (o Documento de Datos Fundamentales) es un resumen breve y estandarizado, obligatorio por normativa, para que puedas conocer y comparar lo esencial de un producto antes de contratarlo.',
+      },
+      {
+        question: '¿Qué indica el indicador SRI que aparece en el KID?',
+        options: [
+          'El nombre del gestor del fondo',
+          'Una escala de riesgo del 1 (menor) al 7 (mayor)',
+          'El país donde se registró el fondo',
+          'El número de partícipes del fondo',
+        ],
+        correctIndex: 1,
+        explanation:
+          'El SRI (Summary Risk Indicator) resume, en una escala del 1 al 7, el nivel de riesgo del producto de forma simplificada y comparable entre fondos.',
+      },
+      {
+        question:
+          'En el ejemplo ficticio de la lección, el fondo mostraba un SRI de 5/7 y un TER de 0,25%. ¿Qué interpretación es razonable?',
+        options: [
+          'Es un fondo de bajísimo riesgo y comisiones muy altas',
+          'Es un fondo de riesgo medio-alto (coherente con renta variable) y coste bajo típico de gestión pasiva',
+          'El dato es imposible, un fondo no puede tener esos dos valores a la vez',
+          'El SRI y el TER miden exactamente lo mismo',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Un SRI de 5/7 sugiere un riesgo medio-alto, propio de renta variable, mientras que un TER de 0,25% es un coste bajo, típico de fondos de gestión pasiva/indexada. Son dos datos distintos e independientes.',
+      },
+      {
+        question: '¿Los escenarios de rentabilidad del KID son una promesa de lo que ganarás?',
+        options: [
+          'Sí, están garantizados por el regulador',
+          'No, son cálculos estandarizados sobre datos pasados, no una garantía de resultados futuros',
+          'Sí, siempre se cumplen exactamente',
+          'El KID no incluye escenarios de rentabilidad',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Igual que cualquier otro dato histórico, los escenarios de rentabilidad del KID no garantizan resultados futuros: son una estimación calculada con una metodología estándar, no una promesa.',
+      },
+    ],
+  },
+  {
+    id: 'replica-fisica-sintetica',
+    order: 13,
+    title: 'Réplica física vs. sintética',
+    description: 'Dos formas distintas de construir un fondo indexado por dentro, y qué riesgos añade cada una.',
+    estimatedMinutes: 7,
+    quiz: [
+      {
+        question: 'En la réplica física, ¿cómo consigue el fondo seguir al índice?',
+        options: [
+          'Firmando un swap con una entidad financiera',
+          'Comprando directamente los activos del índice (de forma completa o por muestreo)',
+          'Prediciendo qué activos subirán más',
+          'No compra ningún activo',
+        ],
+        correctIndex: 1,
+        explanation:
+          'La réplica física consiste en comprar los activos reales del índice, ya sea todos ellos (completa) o una muestra representativa (por muestreo).',
+      },
+      {
+        question: '¿Qué caracteriza a la réplica sintética?',
+        options: [
+          'El fondo compra todas las acciones del índice físicamente',
+          'El fondo usa un contrato (swap) con una contraparte para obtener la rentabilidad del índice',
+          'El fondo no tiene ningún tipo de riesgo',
+          'Es idéntica a la réplica física por muestreo',
+        ],
+        correctIndex: 1,
+        explanation:
+          'En la réplica sintética, el fondo mantiene otros activos y usa un swap con una contraparte que le paga la rentabilidad del índice a cambio de la rentabilidad de esa cartera.',
+      },
+      {
+        question: '¿Qué riesgo adicional introduce la réplica sintética que la física no tiene?',
+        options: [
+          'Riesgo de tipo de cambio siempre',
+          'Riesgo de contraparte',
+          'Riesgo de inflación',
+          'Ningún riesgo adicional',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Al depender de un swap con una entidad (la contraparte), la réplica sintética añade el riesgo de que esa entidad no pueda cumplir su compromiso, algo que la réplica física no tiene.',
+      },
+      {
+        question: '¿Cuándo puede ser especialmente útil la réplica sintética?',
+        options: [
+          'Nunca, es siempre peor que la física',
+          'Cuando replicar físicamente un índice es costoso o complicado (por ejemplo, mercados de difícil acceso)',
+          'Solo en fondos de renta fija a corto plazo',
+          'Solo quiere usarla si el fondo es muy pequeño',
+        ],
+        correctIndex: 1,
+        explanation:
+          'La réplica sintética puede facilitar seguir índices donde comprar los activos directamente es difícil, costoso o está sujeto a restricciones de acceso.',
+      },
+    ],
+  },
+  {
+    id: 'tracking-difference',
+    order: 14,
+    title: 'Tracking difference (y su diferencia con el tracking error)',
+    description: 'Dos métricas distintas para evaluar qué tan bien un fondo sigue a su índice.',
+    estimatedMinutes: 6,
+    quiz: [
+      {
+        question: '¿Qué mide la tracking difference?',
+        options: [
+          'La volatilidad diaria de la diferencia entre fondo e índice',
+          'La diferencia acumulada de rentabilidad entre el fondo y el índice al final de un periodo',
+          'El riesgo de contraparte del fondo',
+          'El número de activos del índice',
+        ],
+        correctIndex: 1,
+        explanation:
+          'La tracking difference resume, al cabo de un periodo (por ejemplo, un año), cuánto ha rendido de más o de menos el fondo respecto a su índice en total.',
+      },
+      {
+        question: '¿En qué se diferencia del tracking error?',
+        options: [
+          'Son exactamente lo mismo con distinto nombre',
+          'El tracking error mide la dispersión/volatilidad de la diferencia; la tracking difference mide la diferencia acumulada en un periodo',
+          'El tracking error solo se usa en renta fija',
+          'La tracking difference solo aplica a fondos sintéticos',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Son complementarios: el tracking error habla de cuánto varía la diferencia día a día, mientras que la tracking difference resume el resultado acumulado de esa diferencia en un periodo.',
+      },
+      {
+        question:
+          '(Ejemplo ilustrativo) Si el índice rinde 9,00% en un año y el fondo rinde 8,75%, ¿cuál es la tracking difference de ese año?',
+        options: ['+0,25 puntos porcentuales', '-0,25 puntos porcentuales', '9,00 puntos porcentuales', '0 puntos porcentuales'],
+        correctIndex: 1,
+        explanation: '8,75% − 9,00% = −0,25 puntos porcentuales: el fondo rindió un poco menos que el índice ese año.',
+      },
+      {
+        question: '¿Por qué la tracking difference suele ser negativa en la mayoría de fondos indexados?',
+        options: [
+          'Porque los índices siempre bajan',
+          'Principalmente por el TER y otros costes de gestión, que el índice (al ser solo una referencia teórica) no paga',
+          'Porque los fondos indexados están mal gestionados por norma',
+          'Es imposible que sea negativa',
+        ],
+        correctIndex: 1,
+        explanation:
+          'El índice es una referencia teórica sin comisiones; el fondo sí las paga, por lo que lo habitual es un pequeño rendimiento inferior al índice, cercano al TER, y esto es normal y esperable.',
+      },
+    ],
+  },
+  {
+    id: 'fiscalidad-basica',
+    order: 15,
+    title: 'Fiscalidad básica de los fondos (España)',
+    description: 'Una idea general de los traspasos entre fondos y cuándo se tributa — no es asesoramiento fiscal.',
+    estimatedMinutes: 7,
+    quiz: [
+      {
+        question: '¿Qué es, en líneas generales, el "régimen de traspasos" de los fondos en España?',
+        options: [
+          'Un impuesto adicional al comprar un fondo',
+          'La posibilidad de mover dinero entre fondos de inversión sin tributar en ese momento por la ganancia acumulada',
+          'Una comisión que cobra el banco al cambiar de fondo',
+          'Una obligación de vender el fondo cada año',
+        ],
+        correctIndex: 1,
+        explanation:
+          'El régimen de traspasos permite, en general, cambiar de un fondo a otro sin que ese movimiento genere en ese momento una tributación sobre la ganancia: la tributación se difiere hasta el reembolso final en efectivo.',
+      },
+      {
+        question:
+          '¿Los ETFs listados en bolsas españolas suelen tener, en general, este mismo régimen de traspasos?',
+        options: [
+          'Sí, exactamente igual que los fondos tradicionales',
+          'En general no; cada venta de un ETF puede considerarse un evento fiscal en el momento en que ocurre',
+          'Los ETFs nunca tributan',
+          'No existe diferencia alguna entre fondos y ETFs a efectos fiscales',
+        ],
+        correctIndex: 1,
+        explanation:
+          'A diferencia de los fondos tradicionales, los ETFs cotizados en bolsa generalmente no se han beneficiado de este régimen de traspasos cuando cotizan en mercados españoles.',
+      },
+      {
+        question:
+          '¿Puedes fiarte de un porcentaje exacto de impuestos sobre plusvalías que hayas leído hace tiempo?',
+        options: [
+          'Sí, los tipos impositivos nunca cambian',
+          'No necesariamente: los tramos y tipos del IRPF se actualizan periódicamente, conviene verificar la normativa vigente',
+          'Solo si lo dice un amigo',
+          'Da igual, el fondo lo calcula todo automáticamente sin que importe la ley',
+        ],
+        correctIndex: 1,
+        explanation:
+          'La normativa fiscal, incluidos los tramos y tipos aplicables, puede cambiar con el tiempo. Antes de dar por buena una cifra concreta, conviene comprobarla en la fuente oficial actualizada.',
+      },
+      {
+        question: '¿Esta lección constituye asesoramiento fiscal personalizado?',
+        options: [
+          'Sí, puedes aplicarla directamente a tu declaración de la renta',
+          'No, es información general simplificada; para tu caso concreto hay que consultar fuentes oficiales o un profesional',
+          'Sí, sustituye a la Agencia Tributaria',
+          'No tiene ninguna utilidad ni siquiera como introducción',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Esta lección da solo una idea general simplificada. Para decisiones reales sobre tu situación fiscal, consulta la Agencia Tributaria o un asesor fiscal cualificado.',
+      },
+    ],
+  },
+  {
+    id: 'liquidez',
+    order: 16,
+    title: 'Liquidez',
+    description: 'Qué tan fácil es convertir tu inversión en dinero disponible, y por qué importa.',
+    estimatedMinutes: 6,
+    quiz: [
+      {
+        question: '¿Qué describe el concepto de "liquidez" de una inversión?',
+        options: [
+          'La rentabilidad media esperada',
+          'La facilidad para convertir la inversión en dinero disponible sin penalización relevante',
+          'El nivel de riesgo del emisor',
+          'El coste de gestión del fondo',
+        ],
+        correctIndex: 1,
+        explanation:
+          'La liquidez mide cuán fácil y rápido es convertir una inversión en efectivo disponible, sin tener que malvenderla ni esperar demasiado.',
+      },
+      {
+        question: '¿Cómo se compra/vende habitualmente un fondo de inversión tradicional?',
+        options: [
+          'Cotiza en bolsa en tiempo real, como una acción',
+          'A un único precio diario (valor liquidativo), calculado normalmente al cierre de la sesión',
+          'Solo se puede vender una vez al año',
+          'No tiene ningún mecanismo de compra o venta',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Los fondos tradicionales operan con un valor liquidativo (VL) calculado normalmente una vez al día, a diferencia de los ETFs, que cotizan en bolsa de forma continua durante el horario de mercado.',
+      },
+      {
+        question: '¿Qué distingue a un ETF de un fondo tradicional en cuanto a liquidez del vehículo?',
+        options: [
+          'El ETF solo se puede vender una vez al mes',
+          'El ETF cotiza y se negocia en bolsa en tiempo real durante el horario de mercado',
+          'No hay ninguna diferencia',
+          'El fondo tradicional cotiza en bolsa y el ETF no',
+        ],
+        correctIndex: 1,
+        explanation:
+          'A diferencia del VL diario de los fondos tradicionales, un ETF se compra y vende en bolsa en cualquier momento durante el horario de mercado, con un precio que puede variar continuamente.',
+      },
+      {
+        question:
+          '¿Por qué puede ser relevante la liquidez de los activos que hay dentro de un fondo, no solo la del propio fondo?',
+        options: [
+          'No tiene ninguna relevancia',
+          'Porque en momentos de mucho estrés de mercado, activos poco líquidos pueden ser más difíciles de vender rápido y sin afectar su precio',
+          'Porque determina el color de la interfaz del bróker',
+          'Porque cambia el nombre legal del fondo',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Si un fondo mantiene una parte relevante en activos poco líquidos, podría tener más dificultades para atender reembolsos masivos en momentos de mucha inestabilidad, sin afectar el precio de esos activos.',
+      },
+    ],
+  },
 ]
 
 export function getLessonById(id) {

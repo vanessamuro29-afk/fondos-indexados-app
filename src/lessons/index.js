@@ -9,6 +9,11 @@ import RentabilidadHistoricaVsFutura from './rentabilidadHistoricaVsFutura'
 import AsignacionActivos from './asignacionActivos'
 import Rebalanceo from './rebalanceo'
 import HorizontePerfilRiesgo from './horizontePerfilRiesgo'
+import Kid from './kid'
+import ReplicaFisicaSintetica from './replicaFisicaSintetica'
+import TrackingDifference from './trackingDifference'
+import FiscalidadBasica from './fiscalidadBasica'
+import Liquidez from './liquidez'
 
 export const LESSON_CONTENT = {
   'que-es-fondo-indexado': QueEsFondoIndexado,
@@ -22,4 +27,9 @@ export const LESSON_CONTENT = {
   'asignacion-activos': AsignacionActivos,
   rebalanceo: Rebalanceo,
   'horizonte-perfil-riesgo': HorizontePerfilRiesgo,
+  kid: Kid,
+  'replica-fisica-sintetica': ReplicaFisicaSintetica,
+  'tracking-difference': TrackingDifference,
+  'fiscalidad-basica': FiscalidadBasica,
+  liquidez: Liquidez,
 }

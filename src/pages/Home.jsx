@@ -8,7 +8,13 @@ const SECTIONS = [
     to: '/teoria',
     icon: '📘',
     title: 'Teoría',
-    description: '11 lecciones cortas, de básico a intermedio, con ejemplos numéricos y tests.',
+    description: '16 lecciones cortas, de básico a intermedio, con ejemplos numéricos y tests.',
+  },
+  {
+    to: '/escenarios',
+    icon: '🧭',
+    title: 'Escenarios de mercado',
+    description: 'Practica cómo razonar ante situaciones típicas: subidas de tipos, inflación, correcciones bursátiles.',
   },
   {
     to: '/calculadora',
@@ -27,6 +33,12 @@ const SECTIONS = [
     icon: '✅',
     title: 'Tu progreso',
     description: 'Consulta las lecciones completadas y los resultados de tus tests.',
+  },
+  {
+    to: '/fuentes',
+    icon: '🔗',
+    title: 'Fuentes fiables',
+    description: 'Enlaces curados a Morningstar, CNMV, Banco de España, BCE y educación financiera oficial.',
   },
 ]
 

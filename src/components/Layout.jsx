@@ -1,13 +1,23 @@
 import { NavLink, Outlet } from 'react-router-dom'
 import DisclaimerBanner from './DisclaimerBanner'
 
-const NAV_ITEMS = [
+// Nav principal: se muestra tanto en escritorio como en la barra inferior móvil.
+const PRIMARY_NAV_ITEMS = [
   { to: '/', label: 'Inicio', icon: '🏠', end: true },
   { to: '/teoria', label: 'Teoría', icon: '📘' },
   { to: '/calculadora', label: 'Calculadora', icon: '🧮' },
   { to: '/simulador', label: 'Simulador', icon: '📊' },
   { to: '/progreso', label: 'Progreso', icon: '✅' },
 ]
+
+// Nav secundario: solo en la barra de escritorio (hay sitio de sobra);
+// en móvil se llega a estas secciones desde la portada.
+const SECONDARY_NAV_ITEMS = [
+  { to: '/escenarios', label: 'Escenarios', icon: '🧭' },
+  { to: '/fuentes', label: 'Fuentes', icon: '🔗' },
+]
+
+const NAV_ITEMS = [...PRIMARY_NAV_ITEMS, ...SECONDARY_NAV_ITEMS]
 
 function navLinkClass({ isActive }) {
   return `flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium transition-colors ${
@@ -48,7 +58,7 @@ export default function Layout() {
       </main>
 
       <nav className="fixed inset-x-0 bottom-0 z-10 flex border-t border-slate-200 bg-white sm:hidden">
-        {NAV_ITEMS.map((item) => (
+        {PRIMARY_NAV_ITEMS.map((item) => (
           <NavLink key={item.to} to={item.to} end={item.end} className={mobileNavLinkClass}>
             <span aria-hidden="true" className="text-lg">
               {item.icon}
