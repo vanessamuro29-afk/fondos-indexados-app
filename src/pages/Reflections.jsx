@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useReflections } from '../hooks/useReflections'
+import { downloadCsv } from '../utils/csv'
 
 function formatDate(iso) {
   return new Date(iso).toLocaleString('es-ES', {
@@ -27,6 +28,34 @@ export default function Reflections() {
     setConfirmingReset(false)
   }
 
+  const handleDownload = () => {
+    const headers = [
+      'Fecha',
+      'Tipo de escenario',
+      'Escenario',
+      'Pregunta',
+      'Tu razonamiento',
+      'Opción que elegiste',
+      '¿Coincidía con la correcta?',
+      'Feedback de la app',
+    ]
+    const rows = reflections
+      .slice()
+      .sort((a, b) => new Date(a.date) - new Date(b.date))
+      .map((r) => [
+        formatDate(r.date),
+        r.scenarioTag,
+        r.scenarioTitle,
+        r.questionText,
+        r.userReflection || '(no escribió nada)',
+        r.selectedOptionText,
+        r.isCorrect ? 'Sí' : 'No',
+        r.feedbackText,
+      ])
+    const today = new Date().toISOString().slice(0, 10)
+    downloadCsv(`mis-reflexiones-${today}.csv`, rows, headers)
+  }
+
   return (
     <div className="flex flex-col gap-6">
       <div>
@@ -47,6 +76,16 @@ export default function Reflections() {
         </div>
       ) : (
         <>
+          <div className="flex justify-end">
+            <button
+              type="button"
+              onClick={handleDownload}
+              className="flex items-center gap-2 rounded-lg bg-indigo-600 px-4 py-2 text-sm font-semibold text-white hover:bg-indigo-700"
+            >
+              ⬇ Descargar historial (CSV)
+            </button>
+          </div>
+
           <div className="grid gap-3 sm:grid-cols-3">
             <div className="rounded-xl border border-slate-200 bg-white p-4">
               <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Ejercicios respondidos</p>

@@ -224,4 +224,26 @@ export const FINAL_QUIZ = [
     correctIndex: 1,
     explanation: 'La liquidez mide cuán fácil y rápido es convertir una inversión en efectivo disponible, sin malvenderla ni esperar demasiado.',
   },
+  {
+    question: 'El dollar-cost averaging (DCA) consiste en...',
+    options: [
+      'Invertir todo el capital disponible de una sola vez',
+      'Invertir una cantidad fija de forma periódica en vez de todo de golpe',
+      'Un tipo de comisión',
+      'Vender activos cada vez que suben',
+    ],
+    correctIndex: 1,
+    explanation: 'El DCA reparte las aportaciones en el tiempo, en lugar de invertir todo el capital en un único momento.',
+  },
+  {
+    question: 'A diferencia de un bono individual mantenido hasta vencimiento, un fondo de renta fija...',
+    options: [
+      'Vence en una fecha fija como el bono',
+      'Nunca vence: gestiona continuamente su cartera para mantener características como la duración media',
+      'Garantiza siempre devolver el capital invertido',
+      'No tiene relación con los tipos de interés',
+    ],
+    correctIndex: 1,
+    explanation: 'El fondo se gestiona de forma continua sin fecha de vencimiento propia, a diferencia de un bono individual que devuelve un importe pactado al vencer.',
+  },
 ]

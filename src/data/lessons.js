@@ -874,6 +874,148 @@ export const LESSONS = [
       },
     ],
   },
+  {
+    id: 'estrategias-aportacion',
+    order: 17,
+    title: 'Estrategias de aportación: buy & hold, DCA y rebalanceo',
+    description: 'Comprar y mantener frente a reequilibrar, y aportar poco a poco frente a invertir todo de golpe.',
+    estimatedMinutes: 8,
+    quiz: [
+      {
+        question: 'La estrategia "buy and hold" consiste en...',
+        options: [
+          'Comprar y vender activos constantemente según el precio del día',
+          'Definir una cartera inicial y no volver a tocar sus pesos, dejando que cada activo evolucione libremente',
+          'Invertir solo un día al año',
+          'Lo mismo que el rebalanceo periódico',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Buy and hold significa mantener la cartera inicial sin reequilibrarla, a diferencia del rebalanceo periódico, que sí ajusta los pesos con el tiempo.',
+      },
+      {
+        question:
+          'Con el paso de los años, si un activo de la cartera sube mucho más que el resto y no se rebalancea, ¿qué ocurre con su peso en la cartera?',
+        options: [
+          'Se mantiene exactamente igual siempre',
+          'Aumenta, pudiendo alejar la cartera del riesgo originalmente planeado',
+          'Disminuye automáticamente',
+          'No tiene ningún efecto sobre el riesgo de la cartera',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Sin rebalanceo, el activo que más crece va ganando peso, lo que puede hacer que la cartera termine asumiendo más riesgo del que se planeó inicialmente.',
+      },
+      {
+        question: '¿Qué es el dollar-cost averaging (DCA)?',
+        options: [
+          'Invertir todo el capital disponible de una sola vez',
+          'Invertir una cantidad fija de forma periódica, en vez de todo de golpe',
+          'Una estrategia exclusiva de la renta fija',
+          'Un tipo de comisión bancaria',
+        ],
+        correctIndex: 1,
+        explanation:
+          'El DCA consiste en aportar una cantidad fija periódicamente (por ejemplo, cada mes), en lugar de invertir todo el capital disponible en un único momento.',
+      },
+      {
+        question:
+          'Según el ejemplo de la lección, en un escenario donde el precio de un fondo sube de forma constante y sostenida, ¿qué tiende a ocurrir con el precio medio de compra usando DCA frente a la aportación única inicial?',
+        options: [
+          'El DCA siempre logra un precio medio mejor en cualquier escenario',
+          'El DCA puede acabar con un precio medio peor, porque las aportaciones posteriores se hacen a precios cada vez más altos',
+          'No hay ninguna diferencia entre ambas estrategias',
+          'La aportación única es ilegal en algunos países',
+        ],
+        correctIndex: 1,
+        explanation:
+          'En un mercado que sube de forma sostenida, ir aportando poco a poco significa comprar a precios crecientes, lo que puede dar un precio medio peor que haber invertido todo al principio. Ninguna estrategia garantiza mejor resultado en todos los escenarios.',
+      },
+      {
+        question: '¿Es correcto decir que buy and hold, rebalanceo, DCA o aportación única tienen una que es "la mejor" para todo el mundo?',
+        options: [
+          'Sí, siempre es mejor el rebalanceo periódico',
+          'No, cada una tiene ventajas e inconvenientes según el perfil, el capital disponible y el horizonte de cada persona',
+          'Sí, siempre es mejor la aportación única',
+          'Sí, siempre es mejor el DCA',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Ninguna de estas estrategias es universalmente superior: la elección depende de la situación personal, la tolerancia al riesgo y las preferencias de cada persona.',
+      },
+    ],
+  },
+  {
+    id: 'estrategias-horizonte',
+    order: 18,
+    title: 'Estrategias según el horizonte: glide path, bonos y escalera de bonos',
+    description: 'Cómo se suele ajustar el riesgo con el tiempo, y dos formas distintas de usar la renta fija.',
+    estimatedMinutes: 8,
+    quiz: [
+      {
+        question: '¿Qué es un "glide path"?',
+        options: [
+          'Una fórmula matemática obligatoria para todas las carteras',
+          'Una trayectoria de asignación cada vez más conservadora, reduciendo renta variable según se acerca el horizonte',
+          'Un tipo de fondo de renta fija',
+          'Un sinónimo de rebalanceo',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Un glide path es el patrón de ir reduciendo el peso de renta variable (aumentando renta fija) a medida que se acerca el momento en que se necesitará el dinero.',
+      },
+      {
+        question:
+          'Las heurísticas populares como "resta tu edad de 100 para saber el % en renta variable", según esta lección...',
+        options: [
+          'Son fórmulas científicas validadas para cualquier persona',
+          'Son simplificaciones genéricas que no sustituyen un análisis de la situación personal de cada uno',
+          'Son obligatorias por ley',
+          'No tienen ninguna relación con el concepto de glide path',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Son simplificaciones genéricas y populares, no fórmulas validadas científicamente para cada individuo: la pendiente adecuada depende del perfil de cada persona.',
+      },
+      {
+        question:
+          'Si mantienes un bono individual hasta su vencimiento (y el emisor no incumple), ¿qué ocurre con las oscilaciones de precio que tuvo mientras tanto?',
+        options: [
+          'Determinan definitivamente cuánto dinero recuperas',
+          'No afectan al importe pactado que recuperas al vencimiento, siempre que lo mantengas hasta el final',
+          'Se multiplican por el TER',
+          'Hacen que el bono deje de pagar cupones',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Si mantienes el bono hasta el vencimiento, recuperas el importe pactado y los cupones acordados, independientemente de cómo haya oscilado su precio de mercado mientras tanto (salvo impago del emisor).',
+      },
+      {
+        question: 'A diferencia de un bono individual, un fondo de renta fija...',
+        options: [
+          'Vence en una fecha concreta como un bono',
+          'Nunca "vence": compra y vende bonos continuamente para mantener unas características objetivo, como una duración media',
+          'No tiene ninguna duración',
+          'Siempre devuelve exactamente el capital invertido',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Un fondo de renta fija se gestiona de forma continua, sin una fecha de vencimiento propia, manteniendo características como la duración media relativamente estables en el tiempo.',
+      },
+      {
+        question: '¿Qué logra una escalera de bonos (bond laddering)?',
+        options: [
+          'Concentrar todo el capital en un único vencimiento para maximizar el riesgo',
+          'Repartir el riesgo de reinversión escalonando los vencimientos de varios bonos en el tiempo',
+          'Eliminar por completo el riesgo de tipos de interés',
+          'Evitar tener que declarar impuestos',
+        ],
+        correctIndex: 1,
+        explanation:
+          'Al escalonar los vencimientos, cada año vence una parte del capital que puede reinvertirse a los tipos vigentes en ese momento, repartiendo el riesgo de reinversión en el tiempo.',
+      },
+    ],
+  },
 ]
 
 export function getLessonById(id) {

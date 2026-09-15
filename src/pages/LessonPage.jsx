@@ -1,5 +1,5 @@
 import { Link, Navigate, useParams } from 'react-router-dom'
-import { getLessonById, getNextLesson } from '../data/lessons'
+import { getLessonById, getNextLesson, LESSONS } from '../data/lessons'
 import { LESSON_CONTENT } from '../lessons'
 import { useProgress } from '../hooks/useProgress'
 import Quiz from '../components/Quiz'
@@ -24,7 +24,7 @@ export default function LessonPage() {
           ← Volver a Teoría
         </Link>
         <p className="mt-2 text-xs font-semibold uppercase tracking-wide text-indigo-600">
-          Lección {lesson.order} de 11 · ⏱ {lesson.estimatedMinutes} min
+          Lección {lesson.order} de {LESSONS.length} · ⏱ {lesson.estimatedMinutes} min
         </p>
         <h1 className="text-2xl font-bold text-slate-900">{lesson.title}</h1>
       </div>

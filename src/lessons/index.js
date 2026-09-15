@@ -14,6 +14,8 @@ import ReplicaFisicaSintetica from './replicaFisicaSintetica'
 import TrackingDifference from './trackingDifference'
 import FiscalidadBasica from './fiscalidadBasica'
 import Liquidez from './liquidez'
+import EstrategiasAportacion from './estrategiasAportacion'
+import EstrategiasHorizonte from './estrategiasHorizonte'
 
 export const LESSON_CONTENT = {
   'que-es-fondo-indexado': QueEsFondoIndexado,
@@ -32,4 +34,6 @@ export const LESSON_CONTENT = {
   'tracking-difference': TrackingDifference,
   'fiscalidad-basica': FiscalidadBasica,
   liquidez: Liquidez,
+  'estrategias-aportacion': EstrategiasAportacion,
+  'estrategias-horizonte': EstrategiasHorizonte,
 }

@@ -8,7 +8,7 @@ const SECTIONS = [
     to: '/teoria',
     icon: '📘',
     title: 'Teoría',
-    description: '16 lecciones cortas, de básico a intermedio, con ejemplos numéricos y tests.',
+    description: '18 lecciones cortas, de básico a intermedio, con ejemplos numéricos y tests.',
   },
   {
     to: '/escenarios',
