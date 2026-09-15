@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:09:46.568Z",
+  "generatedAt": "2026-09-15T20:14:47.691Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,9 +11,9 @@
   ],
   "articles": [
     {
-      "id": "n106",
+      "id": "n105",
       "headline": "Bitcoin Core v32.0 cambia protocolos de wallet y arriesga fallos temporales en apps populares",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWlVlY1g3M2tFaEk4a3J2M2JlRXhiYWVVUlVfczlKcnNjM3ZWZllvemFhSjY2WTUzMU5oenF6SndJSzlrUHJJSlFFMzNGbThzTzJvWGlpclVhZ29PNFp2VGxXcjRGaXg5YjN0Rjc0Y0h2UFp5d3AxaGJkWWlqU1FUS3BiWDEzWnpINDhz?oc=5\" target=\"_blank\">Bitcoin Core v32.0 cambia protocolos de wallet y arriesga fallos temporales en apps populares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Criptotendencias</font>",
+      "summary": "Bitcoin Core v32.0 cambia protocolos de wallet y arriesga fallos temporales en apps populares",
       "source": "Criptotendencias",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWlVlY1g3M2tFaEk4a3J2M2JlRXhiYWVVUlVfczlKcnNjM3ZWZllvemFhSjY2WTUzMU5oenF6SndJSzlrUHJJSlFFMzNGbThzTzJvWGlpclVhZ29PNFp2VGxXcjRGaXg5YjN0Rjc0Y0h2UFp5d3AxaGJkWWlqU1FUS3BiWDEzWnpINDhz?oc=5",
       "datetime": "2026-09-15T20:01:22.000Z",
@@ -29,9 +29,9 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n45",
+      "id": "n46",
       "headline": "Ante la incertidumbre, las stablecoins vuelven a los exchanges: ¿qué implica para bitcoin?",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3NCWDBRTWJud19OQk9HWWtQeThUWWloY2tzaHFPSUhVZlc2eTVWcjZzWk03eVBZRDNiRlpvX0F3MW04VzFXRVFrcFRFT0gzeEZfSk1ZbXVLRkM1MkxLNlI1ejU1LUx5ZWtsUmZuTklBaEdQb3djbVZSa2NXbEJZVGRtMGxJM01CVVNMbQ?oc=5\" target=\"_blank\">Ante la incertidumbre, las stablecoins vuelven a los exchanges: ¿qué implica para bitcoin?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CriptoNoticias</font>",
+      "summary": "Ante la incertidumbre, las stablecoins vuelven a los exchanges: ¿qué implica para bitcoin?",
       "source": "CriptoNoticias",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3NCWDBRTWJud19OQk9HWWtQeThUWWloY2tzaHFPSUhVZlc2eTVWcjZzWk03eVBZRDNiRlpvX0F3MW04VzFXRVFrcFRFT0gzeEZfSk1ZbXVLRkM1MkxLNlI1ejU1LUx5ZWtsUmZuTklBaEdQb3djbVZSa2NXbEJZVGRtMGxJM01CVVNMbQ?oc=5",
       "datetime": "2026-09-15T19:58:00.000Z",
@@ -47,9 +47,27 @@
       "isNewScenarioCandidate": true
     },
     {
+      "id": "n68",
+      "headline": "Clarity Act se frena en EEUU y Bitcoin reacciona a la baja",
+      "summary": "Clarity Act se frena en EEUU y Bitcoin reacciona a la baja",
+      "source": "iProUP",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0o2LVY1NHI5cHlkN0s5M2hLVUwxM0NrUks0SG1MRzJ5cEhJV3JvMzE4XzNYZFpkckRzZUN1U0hPbUFuYVdQNkNLcXFTQkxSWDBKOTZqZVBRUXFoeXFoUmlpMHdOWEVGZjFZa2JJdHBtNjhsS0VEQWo1aHFwY3pOTndtR3FNYUFPVFJabkxxazd6ZGJxdHUycjhsQTZBS05pR0tuY2puUDBud2NkRGpTeVV3YlB1aHVPWGUxazZkNXlqM03SAcgBQVVfeXFMTlBnU1VDdGlGOU16NmV5MTdocWhMZzc4M2t2aUpOX3JldzNPZWxnQ2lFWXZFTHdYSS1VX0JPb1ZXQlN3azIwNmM5dkpOWGZzdzhfUjc0WThtS3JSRXRtSHVNRmd5WmtnNVZYUXdiM1oxRUg1VWduZ1RTelNxSFVTSDRmR3JYUkZWUUx2WGlGeTBUOGdTVjdaQlpQQV9hU2h4MG5oMEhTZlNoRnI3NDdjclctb3BFeHBXNXZqazlFWDE3YXEyN3pieno?oc=5",
+      "datetime": "2026-09-15T19:48:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
       "id": "n29",
       "headline": "Las acciones relacionadas con el bitcoin y las criptomonedas siguen a la baja después de que el Senado de EEUU no haya logrado sacar adelante el proyecto de ley regulador",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBQV3ZmWkp6dEtRY1Y5MVBLWlRzbnF6SjJaQ0pqWXp1NUZDbXBNMldKdFhuQllUX0RYMGxQMVdIUnJLM283UkRyRjZiVVBlUHg2LXZlOGF0d1FtS3lPdi05eERjSXVobVZ4bHVGbXRHeENjVFZIVEUw?oc=5\" target=\"_blank\">Las acciones relacionadas con el bitcoin y las criptomonedas siguen a la baja después de que el Senado de EEUU no haya logrado sacar adelante el proyecto de ley regulador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "summary": "Las acciones relacionadas con el bitcoin y las criptomonedas siguen a la baja después de que el Senado de EEUU no haya logrado sacar adelante el proyecto de ley regulador",
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQV3ZmWkp6dEtRY1Y5MVBLWlRzbnF6SjJaQ0pqWXp1NUZDbXBNMldKdFhuQllUX0RYMGxQMVdIUnJLM283UkRyRjZiVVBlUHg2LXZlOGF0d1FtS3lPdi05eERjSXVobVZ4bHVGbXRHeENjVFZIVEUw?oc=5",
       "datetime": "2026-09-15T19:35:18.000Z",
@@ -75,10 +93,10 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n95",
+      "id": "n97",
       "headline": "Bitcoin, Ethereum y otras criptomonedas importantes se desploman tras fracaso de Ley CLARITY",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmtIbzgxbFhmakZfREJNR0JUVTlEMkx6WVdTblU0OWpaeEltU0l2bk5Fc0JYSkIyS3p1OHdia045QWlkbjBRZ29hU2xYa2E0ODlzaGYtYzlVV2xFRElIOTk0YUJ3UEhYY2YxYTBpUWhoWk9xM1hxRWFsMUZORGstck9mcGdHRjFPT2hmbFNKeThDQ0oyM21KSlhhekRNdXc1R2J3a1RjSDNlWm8xSXl3NVVlWUs?oc=5\" target=\"_blank\">Bitcoin, Ethereum y otras criptomonedas importantes se desploman tras fracaso de Ley CLARITY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">forbes.com.mx</font>",
-      "source": "forbes.com.mx",
+      "summary": "Bitcoin, Ethereum y otras criptomonedas importantes se desploman tras fracaso de Ley CLARITY",
+      "source": "Forbes México",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmtIbzgxbFhmakZfREJNR0JUVTlEMkx6WVdTblU0OWpaeEltU0l2bk5Fc0JYSkIyS3p1OHdia045QWlkbjBRZ29hU2xYa2E0ODlzaGYtYzlVV2xFRElIOTk0YUJ3UEhYY2YxYTBpUWhoWk9xM1hxRWFsMUZORGstck9mcGdHRjFPT2hmbFNKeThDQ0oyM21KSlhhekRNdXc1R2J3a1RjSDNlWm8xSXl3NVVlWUs?oc=5",
       "datetime": "2026-09-15T19:32:00.000Z",
       "topics": [
@@ -93,9 +111,9 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n51",
+      "id": "n53",
       "headline": "Charles Hoskinson defiende el futuro de Cardano y Midnight",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHpHb2NVTzZaY1pBODBhRW1Hbk5CTTJjMGp6MUNvbGw4SVBOVWYtTHB0U1JXUGE5dTlVWjljQy1rZHMxdlBZZWRucVRWRlZSX25aQkoya01EX3VMQUxBbVo5dUJWd0xQMGYwQW1PWnNhNVg3bVRXVWlpRmNkMmxkMHNYRzMyRFZXU19tUExsanppRlhyQ2Y4dGs5QzZkc25J?oc=5\" target=\"_blank\">Charles Hoskinson defiende el futuro de Cardano y Midnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews</font>",
+      "summary": "Charles Hoskinson defiende el futuro de Cardano y Midnight",
       "source": "Cryptonews",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHpHb2NVTzZaY1pBODBhRW1Hbk5CTTJjMGp6MUNvbGw4SVBOVWYtTHB0U1JXUGE5dTlVWjljQy1rZHMxdlBZZWRucVRWRlZSX25aQkoya01EX3VMQUxBbVo5dUJWd0xQMGYwQW1PWnNhNVg3bVRXVWlpRmNkMmxkMHNYRzMyRFZXU19tUExsanppRlhyQ2Y4dGs5QzZkc25J?oc=5",
       "datetime": "2026-09-15T19:31:46.000Z",
@@ -111,9 +129,9 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n73",
+      "id": "n75",
       "headline": "Bitcoin a 20 000 billones: El audaz escenario que podría revolucionar las criptos",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNa0g5N0ZVQkhaVzVOajQtUnY4alpQRW1QVlA4bkY4aW9keWFET0w4MS1YemRRdXdITnRVVld5Z1V3VE5yNVVzdi0yZ1RvNU9QNmtaZW9oVEptNjZyY0JzWTB2Y0d1R2xldy1RT3NibE1JbUoxUVM3VUZMWVpBeDZ5RmVqNHRJSGhLa1ZHaTRfbjk5OWlDa0xSbDlicXBHR1pKSzNYUHpR?oc=5\" target=\"_blank\">Bitcoin a 20 000 billones: El audaz escenario que podría revolucionar las criptos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cointribune</font>",
+      "summary": "Bitcoin a 20 000 billones: El audaz escenario que podría revolucionar las criptos",
       "source": "Cointribune",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa0g5N0ZVQkhaVzVOajQtUnY4alpQRW1QVlA4bkY4aW9keWFET0w4MS1YemRRdXdITnRVVld5Z1V3VE5yNVVzdi0yZ1RvNU9QNmtaZW9oVEptNjZyY0JzWTB2Y0d1R2xldy1RT3NibE1JbUoxUVM3VUZMWVpBeDZ5RmVqNHRJSGhLa1ZHaTRfbjk5OWlDa0xSbDlicXBHR1pKSzNYUHpR?oc=5",
       "datetime": "2026-09-15T19:19:42.000Z",
@@ -129,28 +147,10 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n103",
-      "headline": "La Argentina intercambiará datos fiscales de criptomonedas",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGpWamZBbVJ6SXNZbXk1ZHFadk12WGZ2RXNlVHpYT2hndVdCdUJmQjJVRU81WW5mYzlFRkRMUzJuUVRLTFBRMXpNOXhEYkJsUnZEOUFieFBRQ0VwRzgzREE3akM3ZnZvZWtqTzdfTlB3OHdwdkVaeEppM2phUFcwNzRhZ1VnNXZLamxtMjk4c1Y2YTFRRzVpcFQ4MUxPY3E4ODdHdklxZ9IBrAFBVV95cUxPcG9pdnZmWGF4eFpTSWxZTVFrcy1jUThiN2t0U2YtamNlVDljbTlJbTZtMEZSeUpWYWk1cWNkb0xYcGZmQ0haZVFJRE4xQmNRRnd3eG8wbEVTUDE0VU52VGNZd1VoU1VjUVQ1ckhUbHYxN01CYVAzS2ZwQVExOF9NZ1haUk1KWm9vb18wUXplb3RtSUtDY3otblQzRFhjT3ZFVzh4d0FGNGVoc2M1?oc=5\" target=\"_blank\">La Argentina intercambiará datos fiscales de criptomonedas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iProUP</font>",
-      "source": "iProUP",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUGpWamZBbVJ6SXNZbXk1ZHFadk12WGZ2RXNlVHpYT2hndVdCdUJmQjJVRU81WW5mYzlFRkRMUzJuUVRLTFBRMXpNOXhEYkJsUnZEOUFieFBRQ0VwRzgzREE3akM3ZnZvZWtqTzdfTlB3OHdwdkVaeEppM2phUFcwNzRhZ1VnNXZLamxtMjk4c1Y2YTFRRzVpcFQ4MUxPY3E4ODdHdklxZ9IBrAFBVV95cUxPcG9pdnZmWGF4eFpTSWxZTVFrcy1jUThiN2t0U2YtamNlVDljbTlJbTZtMEZSeUpWYWk1cWNkb0xYcGZmQ0haZVFJRE4xQmNRRnd3eG8wbEVTUDE0VU52VGNZd1VoU1VjUVQ1ckhUbHYxN01CYVAzS2ZwQVExOF9NZ1haUk1KWm9vb18wUXplb3RtSUtDY3otblQzRFhjT3ZFVzh4d0FGNGVoc2M1?oc=5",
-      "datetime": "2026-09-15T19:15:00.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
       "id": "n4",
       "headline": "Canarias se suma al caliente crecimiento de la inflación en toda España, pero con el IPC anual más reducido",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFdYeDRzb2xOQWV3WHg2d0YxeVRRdWJGbXdKLWFoaWhWcC1XbkliaDNfc1FoczlIMU1tdUJnM05JNk9QUEhqTWc0N240algtVDlwb285YURnNkJzSUlyZjB2V3BjZHhRZVlkMWxZNVpLQUFnckVTZmhXdDB4ZG9Md2g3NC1LaGxQOVJLSTdqRWpsc3RUdWI3NjlqNnBhUnRoSWdncDEwNjJJMGtyajVCRTF4MTFQNElWSlFINFZnbUNDREhMOUFBc2xsVUNUQdIB0wFBVV95cUxNOGNBY3UtVlAyYWw3RU1iTjI2dFVxYWNTY1EtNnlfRTZWREM4dm1hOEVNbHlRZjBmTHkwUjdVQkJUODFsSTY2NjhfS05NT29peHRhc01iNlNjaFZ3NHlISzJDS3FkLUEyTWJOZkxGVjV6R3hoOEIwTjhUT05HRTVIRVB5ZDBFVlBXaE1EejR2cnNRS3dnZDAxNXMtRGNpblh0amk4MUpQVnFFblMxZFc1ZDRfNDlvYTYwakFlZFMwNEJIaGFWZG05aTZsblJ6OS16T2tR?oc=5\" target=\"_blank\">Canarias se suma al caliente crecimiento de la inflación en toda España, pero con el IPC anual más reducido</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eldiario.es</font>",
-      "source": "eldiario.es",
+      "summary": "Canarias se suma al caliente crecimiento de la inflación en toda España, pero con el IPC anual más reducido",
+      "source": "elDiario.es",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFdYeDRzb2xOQWV3WHg2d0YxeVRRdWJGbXdKLWFoaWhWcC1XbkliaDNfc1FoczlIMU1tdUJnM05JNk9QUEhqTWc0N240algtVDlwb285YURnNkJzSUlyZjB2V3BjZHhRZVlkMWxZNVpLQUFnckVTZmhXdDB4ZG9Md2g3NC1LaGxQOVJLSTdqRWpsc3RUdWI3NjlqNnBhUnRoSWdncDEwNjJJMGtyajVCRTF4MTFQNElWSlFINFZnbUNDREhMOUFBc2xsVUNUQdIB0wFBVV95cUxNOGNBY3UtVlAyYWw3RU1iTjI2dFVxYWNTY1EtNnlfRTZWREM4dm1hOEVNbHlRZjBmTHkwUjdVQkJUODFsSTY2NjhfS05NT29peHRhc01iNlNjaFZ3NHlISzJDS3FkLUEyTWJOZkxGVjV6R3hoOEIwTjhUT05HRTVIRVB5ZDBFVlBXaE1EejR2cnNRS3dnZDAxNXMtRGNpblh0amk4MUpQVnFFblMxZFc1ZDRfNDlvYTYwakFlZFMwNEJIaGFWZG05aTZsblJ6OS16T2tR?oc=5",
       "datetime": "2026-09-15T19:08:54.000Z",
       "topics": [
@@ -167,9 +167,9 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n36",
+      "id": "n37",
       "headline": "Bitcoin ante el CLARITY Act: ¿Reseteo de apalancamiento?",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3J4b0VzUFhxQmo0LVlfRm9iYmk4UWVGMGxYZjE5RE9NcmxOMXBRd3EzVURFeHBsbDVDRmxyRlZ5dUdVM1B6NUR1TWtkMEJsNGVUMkYxN2t1Ul9TTGxFZDRIUHdmRE9GTktwLVdxS3psWDlVc1hQUTdlckt0bnJtbXpQajE?oc=5\" target=\"_blank\">Bitcoin ante el CLARITY Act: ¿Reseteo de apalancamiento?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews</font>",
+      "summary": "Bitcoin ante el CLARITY Act: ¿Reseteo de apalancamiento?",
       "source": "Cryptonews",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3J4b0VzUFhxQmo0LVlfRm9iYmk4UWVGMGxYZjE5RE9NcmxOMXBRd3EzVURFeHBsbDVDRmxyRlZ5dUdVM1B6NUR1TWtkMEJsNGVUMkYxN2t1Ul9TTGxFZDRIUHdmRE9GTktwLVdxS3psWDlVc1hQUTdlckt0bnJtbXpQajE?oc=5",
       "datetime": "2026-09-15T19:08:40.000Z",
@@ -185,9 +185,9 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n48",
+      "id": "n49",
       "headline": "Mercado cripto en rojo: bitcoin pierde fuerza tras el rechazo a la contrapropuesta demócrata sobre el CLARITY Act",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZVBMTGNiVzdBRTNuZ1hjZFdHSHJyWTJZS1J1Z3RwYTh4bEw1SE1xZS1ZS180T1Vab0RiTmZLSy1OZDNrd1RhSXBjX2lNMXVMMXBLNXJUU2M5M0xFNWVIeUIyOEhjNDNpa0VHelN2dnlIME9QOFdia2FJbE4ycUpOY2g2SWc1TDV3bmd1ZXk3XzFFNVdZX0lDbWNxLWNzc3QxVENvRFNsaHBjU1hYVEZlVkdtc2FMUVlyWUxzbU94X21YVXZ6N2RrN2dxRExTZF9PV1oxZjlaVVBNaUpCZi0yZWdFOWFmUGlwaUl0dDdhUEtLZw?oc=5\" target=\"_blank\">Mercado cripto en rojo: bitcoin pierde fuerza tras el rechazo a la contrapropuesta demócrata sobre el CLARITY Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cripto247</font>",
+      "summary": "Mercado cripto en rojo: bitcoin pierde fuerza tras el rechazo a la contrapropuesta demócrata sobre el CLARITY Act",
       "source": "Cripto247",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZVBMTGNiVzdBRTNuZ1hjZFdHSHJyWTJZS1J1Z3RwYTh4bEw1SE1xZS1ZS180T1Vab0RiTmZLSy1OZDNrd1RhSXBjX2lNMXVMMXBLNXJUU2M5M0xFNWVIeUIyOEhjNDNpa0VHelN2dnlIME9QOFdia2FJbE4ycUpOY2g2SWc1TDV3bmd1ZXk3XzFFNVdZX0lDbWNxLWNzc3QxVENvRFNsaHBjU1hYVEZlVkdtc2FMUVlyWUxzbU94X21YVXZ6N2RrN2dxRExTZF9PV1oxZjlaVVBNaUpCZi0yZWdFOWFmUGlwaUl0dDdhUEtLZw?oc=5",
       "datetime": "2026-09-15T19:06:45.000Z",
@@ -203,9 +203,9 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n52",
+      "id": "n54",
       "headline": "Etiopía recorta suministro eléctrico a mineros de Bitcoin",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlAyZjcyVmF4S1hkUU94aG9NczJlQ21HYUo2Vk9OS1MxMzUwaXM2U0pwY1M0WERHRHRwUkJyMFVMUWlqOGtVREFLZm9zRF9KWFQwSmFpbDVSdnAtZzFuODhHa0h5cklGclFXWXhEVjlwTWRXYWtuSTdnRno3bUtiUm9ubVB5SGFMOURxZ2F6Nzlrdw?oc=5\" target=\"_blank\">Etiopía recorta suministro eléctrico a mineros de Bitcoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cryptonews</font>",
+      "summary": "Etiopía recorta suministro eléctrico a mineros de Bitcoin",
       "source": "Cryptonews",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlAyZjcyVmF4S1hkUU94aG9NczJlQ21HYUo2Vk9OS1MxMzUwaXM2U0pwY1M0WERHRHRwUkJyMFVMUWlqOGtVREFLZm9zRF9KWFQwSmFpbDVSdnAtZzFuODhHa0h5cklGclFXWXhEVjlwTWRXYWtuSTdnRno3bUtiUm9ubVB5SGFMOURxZ2F6Nzlrdw?oc=5",
       "datetime": "2026-09-15T19:05:22.000Z",
@@ -223,7 +223,7 @@
     {
       "id": "n108",
       "headline": "Criptomonedas hoy: cotización de las principales divisas digitales al 15 de septiembre",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFdlR0JMbUxuaXNxQXVTUXl3MXljMGw3TTRmdWdVNFpHSEZJaHBuSUozSU5jWHhUUllCb3JScDJ1NUowSHJTYVdRNEV5WFhlSlhqb094MFhkSnFjQmE1VlJZR3VILTU3YVFPWkRQV1RLa3FrLUZXS0RJY0hObWo5UUh1OEo1SFhSRGxtZXpOUXpJRXIxa3RJUlZYNmdGS0h2amxZc25VNFlTM3pLdGU2dENFYVpOQnhsMUxCRTZ5ZUtHMHRlNzF5ZF9STFJJbU9TS0hlZw?oc=5\" target=\"_blank\">Criptomonedas hoy: cotización de las principales divisas digitales al 15 de septiembre</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Nación</font>",
+      "summary": "Criptomonedas hoy: cotización de las principales divisas digitales al 15 de septiembre",
       "source": "La Nación",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFdlR0JMbUxuaXNxQXVTUXl3MXljMGw3TTRmdWdVNFpHSEZJaHBuSUozSU5jWHhUUllCb3JScDJ1NUowSHJTYVdRNEV5WFhlSlhqb094MFhkSnFjQmE1VlJZR3VILTU3YVFPWkRQV1RLa3FrLUZXS0RJY0hObWo5UUh1OEo1SFhSRGxtZXpOUXpJRXIxa3RJUlZYNmdGS0h2amxZc25VNFlTM3pLdGU2dENFYVpOQnhsMUxCRTZ5ZUtHMHRlNzF5ZF9STFJJbU9TS0hlZw?oc=5",
       "datetime": "2026-09-15T19:00:00.000Z",
@@ -239,9 +239,36 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n71",
+      "id": "n111",
+      "headline": "El petróleo retoma su escalada y vuelve a superar los 109 dólares",
+      "summary": "El petróleo retoma su escalada y vuelve a superar los 109 dólares",
+      "source": "Expansión",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkl1QVhqalRuQ015ZEtPQjJKa3dQM0htLTJwQ21pM0FoOW5XakhubWJ0WDBEQnIyTlhlNWxHb1BMaVcyVEFyQWtsc2dYdXdQdV9GWkdLVzBlZGVVOHVhVGpJMW84UW03aktaam9DUWUxLU9wVUpCQlRMWkRuQU5XV0J6azVBWWZGbjl2TTBnR0Zic3Q4Q25naDhTcWFXczh6ZW5TTzNQUTQ?oc=5",
+      "datetime": "2026-09-15T18:52:08.000Z",
+      "topics": [
+        {
+          "id": "materias-primas",
+          "label": "Materias primas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n73",
       "headline": "Cuánto vale Bitcoin hoy, 15 de septiembre de 2026",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTTNpc01RNndhendSeXdoT3NkV0FsZ1R2am5JQUUyLUVrZ1plWGh6d2JqQ3RWSmJ1Qld1N2d4TFhuVmZIMGtMMGNOU2ozMmJvbVQxck1jRGZJSElDZkx1N2J1SkdDTlpFbzA0SjU0dS0yeWZuazZIODVzV1hpMEI4SXhUX1FhYlNsTmlJN2ZzNTIxaVIzWDAzcks1TGJRYXdfTWx4SUV3WnFaejVrUWFWVmJYU3hBN0xMazhScjduX1NRd9IBxwFBVV95cUxOQzR0SWFzYnAyeW1QOHVzZElUNXpVYlhlcTltc3BIUG9nZ0xIMmpneHR6a0FDZ3A3U0dnaG11cS1JYVJ2b18tcEo2QXBUV0tPYzlLbzhNSUNpLWlrSlRZUnZudmowQnozTmFmSURCc2tJUTZZSjdBU3AxU3lJU09TbzhTY1BtZ1ItQkdZY2xuVTk3eGszdHk4SThxTzc3WE9fYW5jY3ByM2ZJYzhzZjFwc1E4aGFCSkJ1RGppbUxXa3ZldUlFcC1Z?oc=5\" target=\"_blank\">Cuánto vale Bitcoin hoy, 15 de septiembre de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iProUP</font>",
+      "summary": "Cuánto vale Bitcoin hoy, 15 de septiembre de 2026",
       "source": "iProUP",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTTNpc01RNndhendSeXdoT3NkV0FsZ1R2am5JQUUyLUVrZ1plWGh6d2JqQ3RWSmJ1Qld1N2d4TFhuVmZIMGtMMGNOU2ozMmJvbVQxck1jRGZJSElDZkx1N2J1SkdDTlpFbzA0SjU0dS0yeWZuazZIODVzV1hpMEI4SXhUX1FhYlNsTmlJN2ZzNTIxaVIzWDAzcks1TGJRYXdfTWx4SUV3WnFaejVrUWFWVmJYU3hBN0xMazhScjduX1NRd9IBxwFBVV95cUxOQzR0SWFzYnAyeW1QOHVzZElUNXpVYlhlcTltc3BIUG9nZ0xIMmpneHR6a0FDZ3A3U0dnaG11cS1JYVJ2b18tcEo2QXBUV0tPYzlLbzhNSUNpLWlrSlRZUnZudmowQnozTmFmSURCc2tJUTZZSjdBU3AxU3lJU09TbzhTY1BtZ1ItQkdZY2xuVTk3eGszdHk4SThxTzc3WE9fYW5jY3ByM2ZJYzhzZjFwc1E4aGFCSkJ1RGppbUxXa3ZldUlFcC1Z?oc=5",
       "datetime": "2026-09-15T18:42:00.000Z",
@@ -257,9 +284,9 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n43",
+      "id": "n45",
       "headline": "CLARITY Act: por qué la cripto de EE. UU. gana aunque fracase la ley",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8ybEN5QzRmSlFQUUN1UjRRWDhFRWwzczF0Rnh4cVdkeWdqd2ZELTZrSXlXS21zMHlrTHFRN0x5MmxWLVIxSkdHckhjZHpRc240blBnaVlEejQ5S21ZU1F4MmNXWHZLUThyU1Z3R3hySGN1ZF9oT3gwM3ZB?oc=5\" target=\"_blank\">CLARITY Act: por qué la cripto de EE. UU. gana aunque fracase la ley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoTicker</font>",
+      "summary": "CLARITY Act: por qué la cripto de EE. UU. gana aunque fracase la ley",
       "source": "CryptoTicker",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8ybEN5QzRmSlFQUUN1UjRRWDhFRWwzczF0Rnh4cVdkeWdqd2ZELTZrSXlXS21zMHlrTHFRN0x5MmxWLVIxSkdHckhjZHpRc240blBnaVlEejQ5S21ZU1F4MmNXWHZLUThyU1Z3R3hySGN1ZF9oT3gwM3ZB?oc=5",
       "datetime": "2026-09-15T18:11:19.000Z",
@@ -275,9 +302,9 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n44",
+      "id": "n47",
       "headline": "Bitcoin Core prepara una defensa contra un viejo ataque al ajuste de dificultad",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVM0elBoalNtY1V0allsdVVSMUdMT0pNbkV1QkJtVDhHUmVtbHJIUXdNckFvZ0Y1MFdvVGpNb0FWT0pBUUlwbmF2d3lwUjYzd0FkWjdIamdnMmpMdHRPV2E4aEtPYms0RUUzTUJEdHF0a29YVUZ2bVR0aFp0N0MxSW1JcnV6djFqajMtcU43ZGdGYlh1dzUyZXNtTEJQcWpJZ294MmJVdnVMZ09RSGc?oc=5\" target=\"_blank\">Bitcoin Core prepara una defensa contra un viejo ataque al ajuste de dificultad</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CriptoNoticias</font>",
+      "summary": "Bitcoin Core prepara una defensa contra un viejo ataque al ajuste de dificultad",
       "source": "CriptoNoticias",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVM0elBoalNtY1V0allsdVVSMUdMT0pNbkV1QkJtVDhHUmVtbHJIUXdNckFvZ0Y1MFdvVGpNb0FWT0pBUUlwbmF2d3lwUjYzd0FkWjdIamdnMmpMdHRPV2E4aEtPYms0RUUzTUJEdHF0a29YVUZ2bVR0aFp0N0MxSW1JcnV6djFqajMtcU43ZGdGYlh1dzUyZXNtTEJQcWpJZ294MmJVdnVMZ09RSGc?oc=5",
       "datetime": "2026-09-15T18:08:00.000Z",
@@ -293,12 +320,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n104",
+      "id": "n35",
       "headline": "Bitcoin cae 1,45% a USD $76.496 ante la votación de la CLARITY Act y el FOMC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3JkeUlpTXZlNmZFdEE2NndpOG5BUUg0XzZieTZqWmJ3c05CTUZ1U3ItX0RvSGt6c3NEMlVZT2xwVURLNXdmb1ZlUDIxZkdqb2xCNURCN3F1V0I2N1VubkZ5YUVSa1NFV1UwZy14Q1IzMms1b1ZsWGF3T3gyOHctb01rR19PNWxUYWJxN2ZMT1pnTUR5YVkwTlF1VzUzWkdKQjQ5OHlCdzI2bXNRZjNGU2tpa2stQQ?oc=5\" target=\"_blank\">Bitcoin cae 1,45% a USD $76.496 ante la votación de la CLARITY Act y el FOMC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">diariobitcoin.com</font>",
-      "source": "diariobitcoin.com",
+      "summary": "Bitcoin cae 1,45% a USD $76.496 ante la votación de la CLARITY Act y el FOMC",
+      "source": "DiarioBitcoin",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3JkeUlpTXZlNmZFdEE2NndpOG5BUUg0XzZieTZqWmJ3c05CTUZ1U3ItX0RvSGt6c3NEMlVZT2xwVURLNXdmb1ZlUDIxZkdqb2xCNURCN3F1V0I2N1VubkZ5YUVSa1NFV1UwZy14Q1IzMms1b1ZsWGF3T3gyOHctb01rR19PNWxUYWJxN2ZMT1pnTUR5YVkwTlF1VzUzWkdKQjQ5OHlCdzI2bXNRZjNGU2tpa2stQQ?oc=5",
-      "datetime": "2026-09-15T16:07:30.000Z",
+      "datetime": "2026-09-15T16:07:43.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -311,10 +338,10 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n87",
+      "id": "n89",
       "headline": "Bitcoin [BTC] se mantiene firme a la espera de la decisión de la Fed y la votación CLARITY",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFlCcGZscXFmcmpRXzlESmQ1dW9KM1hCb2dpQ0VTUDN6TGhLR2k1TzJYRXI5aFRGaVZnR0RlLWg5ZUZEYmVqaElQVUZhWTI0SzBSem95akRGTUxEanhhM0MtSXVaWGVINjJZWUc5ckZpci1vZXdnRGt6WUoyRWswN0prY2dXMzQyNm52VjFLMEN5ekJ1SUR4dFVNeW1jVDNONkVPSTNpekpRNW5wNkZuNS1WZDRRUWZHemNUQnNSMzVfbk14YlNKY0RaVzJxU3M?oc=5\" target=\"_blank\">Bitcoin [BTC] se mantiene firme a la espera de la decisión de la Fed y la votación CLARITY</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">diariobitcoin.com</font>",
-      "source": "diariobitcoin.com",
+      "summary": "Bitcoin [BTC] se mantiene firme a la espera de la decisión de la Fed y la votación CLARITY",
+      "source": "DiarioBitcoin",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFlCcGZscXFmcmpRXzlESmQ1dW9KM1hCb2dpQ0VTUDN6TGhLR2k1TzJYRXI5aFRGaVZnR0RlLWg5ZUZEYmVqaElQVUZhWTI0SzBSem95akRGTUxEanhhM0MtSXVaWGVINjJZWUc5ckZpci1vZXdnRGt6WUoyRWswN0prY2dXMzQyNm52VjFLMEN5ekJ1SUR4dFVNeW1jVDNONkVPSTNpekpRNW5wNkZuNS1WZDRRUWZHemNUQnNSMzVfbk14YlNKY0RaVzJxU3M?oc=5",
       "datetime": "2026-09-15T16:06:20.000Z",
       "topics": [
@@ -329,9 +356,9 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n67",
+      "id": "n70",
       "headline": "Arbitrum superará a Bitcoin, según Standard Chartered",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBEVnBNX201b1pBQ0VFSVk5d0dWR3ZESC01R0t2WHREZkk2aXBCaWRLUU1PV2VNRjRSWnBOdjZyWXg5RXRhQlV3cHdPR2ZpV3lobFplVUwwVEtKOWxMczRuREhfVmp3ZlozNUxRV3NoZEVISHk0UHJPX2hR?oc=5\" target=\"_blank\">Arbitrum superará a Bitcoin, según Standard Chartered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Criptotendencias</font>",
+      "summary": "Arbitrum superará a Bitcoin, según Standard Chartered",
       "source": "Criptotendencias",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEVnBNX201b1pBQ0VFSVk5d0dWR3ZESC01R0t2WHREZkk2aXBCaWRLUU1PV2VNRjRSWnBOdjZyWXg5RXRhQlV3cHdPR2ZpV3lobFplVUwwVEtKOWxMczRuREhfVmp3ZlozNUxRV3NoZEVISHk0UHJPX2hR?oc=5",
       "datetime": "2026-09-15T16:01:17.000Z",
@@ -347,9 +374,9 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n70",
+      "id": "n40",
       "headline": "Mercado de bitcoin pasó de cautela a euforia días antes de la votación de Ley Clarity",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdncwTUdZVmFnd0VIcG9OazVYQUlDMkNNajh0T1ZlVHJWM3d6VWVPTU1OR3hxM0lDSE94amI2akIybkRLU2otTXczRlpLWGVkQ0M5OWhSYmlmVVNEOHZDUy1VcUh6TnBwNm13X2dGQklpVkR5Rm9raXZwNHBuS3EycFhBLW9DVmNscWdhcA?oc=5\" target=\"_blank\">Mercado de bitcoin pasó de cautela a euforia días antes de la votación de Ley Clarity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CriptoNoticias</font>",
+      "summary": "Mercado de bitcoin pasó de cautela a euforia días antes de la votación de Ley Clarity",
       "source": "CriptoNoticias",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdncwTUdZVmFnd0VIcG9OazVYQUlDMkNNajh0T1ZlVHJWM3d6VWVPTU1OR3hxM0lDSE94amI2akIybkRLU2otTXczRlpLWGVkQ0M5OWhSYmlmVVNEOHZDUy1VcUh6TnBwNm13X2dGQklpVkR5Rm9raXZwNHBuS3EycFhBLW9DVmNscWdhcA?oc=5",
       "datetime": "2026-09-15T15:52:00.000Z",
@@ -360,33 +387,6 @@
           "scenarioTag": null,
           "glossaryTerms": [],
           "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n55",
-      "headline": "¿Por qué se desploma el mercado cripto hoy? Bitcoin cae a 76.000 dólares",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTF1S3RBU0FoZlluWGxWR2hvOUM0VndOVk9zWDNZdnFxUi00b2IxUFRVT29zZTMxWTN1NFFaNndTTVRKT1pseEJCbkowRzFOMXcxZ0tadGJCOGRIX05ZTG9ydGNTLWowMG1iOXNZSGt5SDhaRFNOY0lwYkYyajI5T0JqRG9lNlVT?oc=5\" target=\"_blank\">¿Por qué se desploma el mercado cripto hoy? Bitcoin cae a 76.000 dólares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CryptoTicker</font>",
-      "source": "CryptoTicker",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYTF1S3RBU0FoZlluWGxWR2hvOUM0VndOVk9zWDNZdnFxUi00b2IxUFRVT29zZTMxWTN1NFFaNndTTVRKT1pseEJCbkowRzFOMXcxZ0tadGJCOGRIX05ZTG9ydGNTLWowMG1iOXNZSGt5SDhaRFNOY0lwYkYyajI5T0JqRG9lNlVT?oc=5",
-      "datetime": "2026-09-15T15:47:17.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
         }
       ],
       "isNewScenarioCandidate": true
