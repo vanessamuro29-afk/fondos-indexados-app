@@ -35,6 +35,8 @@ jobs:
         run: npm ci
 
       - name: Obtener noticias de mercado
+        env:
+          DEBUG_RSS: 'true'
         run: node scripts/fetch-market-news.mjs
 
       - name: Guardar el resumen de noticias en el repositorio

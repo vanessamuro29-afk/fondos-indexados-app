@@ -106,6 +106,10 @@ async function fetchFeed(feed) {
   })
   if (!res.ok) throw new Error(`${feed.url} respondió ${res.status}`)
   const xml = await res.text()
+  if (process.env.DEBUG_RSS) {
+    const firstItem = (xml.match(/<item[^>]*>[\s\S]*?<\/item>/i) || [])[0]
+    console.log(`--- DEBUG_RSS raw item from ${feed.url} ---\n${firstItem}\n--- fin ---`)
+  }
   const items = parseRss(xml)
   return items.map((item) => {
     const source = item.sourceFromFeed || feed.sourceLabel || 'Fuente desconocida'
