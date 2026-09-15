@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useReflections } from '../hooks/useReflections'
+import { downloadCsv } from '../utils/csv'
 
 function formatDate(iso) {
   return new Date(iso).toLocaleString('es-ES', {
@@ -27,6 +28,34 @@ export default function Reflections() {
     setConfirmingReset(false)
   }
 
+  const handleDownload = () => {
+    const headers = [
+      'Fecha',
+      'Tipo de escenario',
+      'Escenario',
+      'Pregunta',
+      'Tu razonamiento',
+      'Opción que elegiste',
+      '¿Coincidía con la correcta?',
+      'Feedback de la app',
+    ]
+    const rows = reflections
+      .slice()
+      .sort((a, b) => new Date(a.date) - new Date(b.date))
+      .map((r) => [
+        formatDate(r.date),
+        r.scenarioTag,
+        r.scenarioTitle,
+        r.questionText,
+        r.userReflection || '(no escribió nada)',
+        r.selectedOptionText || '(sin opción, reflexión sobre noticia real)',
+        r.isCorrect === null ? 'N/A (evento real, sin respuesta correcta objetiva)' : r.isCorrect ? 'Sí' : 'No',
+        r.feedbackText,
+      ])
+    const today = new Date().toISOString().slice(0, 10)
+    downloadCsv(`mis-reflexiones-${today}.csv`, rows, headers)
+  }
+
   return (
     <div className="flex flex-col gap-6">
       <div>
@@ -47,6 +76,16 @@ export default function Reflections() {
         </div>
       ) : (
         <>
+          <div className="flex justify-end">
+            <button
+              type="button"
+              onClick={handleDownload}
+              className="flex items-center gap-2 rounded-lg bg-indigo-600 px-4 py-2 text-sm font-semibold text-white hover:bg-indigo-700"
+            >
+              ⬇ Descargar historial (CSV)
+            </button>
+          </div>
+
           <div className="grid gap-3 sm:grid-cols-3">
             <div className="rounded-xl border border-slate-200 bg-white p-4">
               <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Ejercicios respondidos</p>
@@ -90,14 +129,18 @@ export default function Reflections() {
                     </p>
                   </div>
                   <div
-                    className={`rounded-lg p-3 ${r.isCorrect ? 'bg-emerald-50' : 'bg-rose-50'}`}
+                    className={`rounded-lg p-3 ${
+                      r.isCorrect === null ? 'bg-slate-50' : r.isCorrect ? 'bg-emerald-50' : 'bg-rose-50'
+                    }`}
                   >
                     <p
                       className={`mb-1 text-xs font-semibold uppercase tracking-wide ${
-                        r.isCorrect ? 'text-emerald-600' : 'text-rose-600'
+                        r.isCorrect === null ? 'text-slate-500' : r.isCorrect ? 'text-emerald-600' : 'text-rose-600'
                       }`}
                     >
-                      Feedback de la app {r.isCorrect ? '(tu opción coincidía con la correcta)' : '(tu opción no era la correcta)'}
+                      {r.isCorrect === null
+                        ? 'Nota de contexto (sin respuesta correcta objetiva)'
+                        : `Feedback de la app ${r.isCorrect ? '(tu opción coincidía con la correcta)' : '(tu opción no era la correcta)'}`}
                     </p>
                     <p className="text-sm text-slate-700">{r.feedbackText}</p>
                   </div>

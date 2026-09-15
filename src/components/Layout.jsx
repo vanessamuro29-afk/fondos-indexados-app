@@ -13,6 +13,7 @@ const PRIMARY_NAV_ITEMS = [
 // Nav secundario: solo en la barra de escritorio (hay sitio de sobra);
 // en móvil se llega a estas secciones desde la portada.
 const SECONDARY_NAV_ITEMS = [
+  { to: '/mercado-hoy', label: 'Mercado hoy', icon: '📰' },
   { to: '/escenarios', label: 'Escenarios', icon: '🧭' },
   { to: '/reflexiones', label: 'Reflexiones', icon: '📝' },
   { to: '/checklist', label: 'Checklist', icon: '☑️' },

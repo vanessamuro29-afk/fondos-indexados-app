@@ -14,6 +14,7 @@ import Glossary from './pages/Glossary'
 import Reflections from './pages/Reflections'
 import Checklists from './pages/Checklists'
 import ChecklistDetail from './pages/ChecklistDetail'
+import MarketNews from './pages/MarketNews'
 
 const Calculator = lazy(() => import('./pages/Calculator'))
 const PortfolioSimulator = lazy(() => import('./pages/PortfolioSimulator'))
@@ -55,6 +56,7 @@ export default function App() {
           <Route path="/glosario" element={<Glossary />} />
           <Route path="/checklist" element={<Checklists />} />
           <Route path="/checklist/:checklistId" element={<ChecklistDetail />} />
+          <Route path="/mercado-hoy" element={<MarketNews />} />
           <Route path="/aviso-legal" element={<LegalNotice />} />
         </Route>
       </Routes>
