@@ -57,13 +57,6 @@ export default function MarketNews() {
         <p className="text-center text-sm text-slate-400">Cargando...</p>
       )}
 
-      {data && data.status === 'sin_clave_configurada' && (
-        <div className="rounded-xl border border-dashed border-slate-300 p-6 text-center text-sm text-slate-500">
-          Esta sección todavía no tiene configurada una fuente de noticias. En cuanto se active, el
-          resumen aparecerá aquí automáticamente.
-        </div>
-      )}
-
       {data && data.status === 'error_al_obtener_noticias' && (
         <div className="rounded-xl border border-dashed border-rose-300 p-6 text-center text-sm text-rose-500">
           No se pudieron obtener noticias en la última actualización programada. Se reintentará en

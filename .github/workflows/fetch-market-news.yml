@@ -2,8 +2,8 @@ name: Actualizar noticias de mercado
 
 on:
   schedule:
-    # Cada 6 horas. La API key nunca llega al navegador: se usa solo aquí,
-    # dentro de este job, como secreto de GitHub Actions.
+    # Cada 6 horas. Usa solo fuentes RSS públicas (BCE, Fed, Google News):
+    # no requiere ninguna clave ni cuenta.
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
@@ -35,8 +35,6 @@ jobs:
         run: npm ci
 
       - name: Obtener noticias de mercado
-        env:
-          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: node scripts/fetch-market-news.mjs
 
       - name: Guardar el resumen de noticias en el repositorio
