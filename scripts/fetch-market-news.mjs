@@ -22,6 +22,9 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const OUTPUT_PATH = path.join(__dirname, '..', 'public', 'market-news.json')
 const MAX_ARTICLES = 20
 const MAX_AGE_HOURS = 48
+// Evita que un tema con mucha actividad puntual (p. ej. una noticia viral de
+// criptomonedas) acapare todos los huecos y deje fuera al resto de temas.
+const MAX_PER_TOPIC = 5
 
 function topicById(id) {
   const topic = NEWS_TOPICS.find((t) => t.id === id)
@@ -231,12 +234,38 @@ async function main() {
 
   relevant.sort((a, b) => new Date(b.datetime) - new Date(a.datetime))
 
+  // Selección con diversidad de temas: si un tema concreto tiene muchas más
+  // noticias que el resto en este momento (p. ej. un pico de criptomonedas),
+  // no debe ocupar todos los huecos y dejar fuera temas menos frecuentes.
+  const topicCounts = new Map()
+  const selected = []
+  const leftover = []
+  for (const article of relevant) {
+    const underCap = article.topics.some((t) => (topicCounts.get(t.id) || 0) < MAX_PER_TOPIC)
+    if (underCap && selected.length < MAX_ARTICLES) {
+      selected.push(article)
+      for (const t of article.topics) {
+        topicCounts.set(t.id, (topicCounts.get(t.id) || 0) + 1)
+      }
+    } else {
+      leftover.push(article)
+    }
+  }
+  // Si aplicar el límite por tema deja huecos libres (pocos temas distintos
+  // en las últimas horas), se rellenan con las noticias restantes por orden
+  // de fecha para no mostrar menos de MAX_ARTICLES sin necesidad.
+  for (const article of leftover) {
+    if (selected.length >= MAX_ARTICLES) break
+    selected.push(article)
+  }
+  selected.sort((a, b) => new Date(b.datetime) - new Date(a.datetime))
+
   const output = {
     generatedAt: new Date().toISOString(),
     status: 'ok',
     feedFailures: failures,
     coveredScenarioTags: [...new Set(SCENARIOS.map((s) => s.tag))],
-    articles: relevant.slice(0, MAX_ARTICLES),
+    articles: selected,
   }
 
   await writeFile(OUTPUT_PATH, JSON.stringify(output, null, 2))
