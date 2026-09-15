@@ -62,15 +62,26 @@ function stripHtml(text) {
   return (text || '').replace(/<[^>]+>/g, '').trim()
 }
 
-function decodeEntities(text) {
+// Google News (y otros feeds) escapan el HTML como texto XML normal (sin
+// CDATA): el "&" de un "&nbsp;" que hay dentro del HTML original se
+// convierte en "&amp;nbsp;". Hay que revertir ESE escapado XML primero
+// para recuperar el HTML original, y solo después limpiar las etiquetas
+// y decodificar entidades como &nbsp; que quedan al descubierto.
+function decodeXmlEscapes(text) {
   return (text || '')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
     .replace(/&apos;/g, "'")
+    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)))
+    .replace(/&amp;/g, '&')
+}
+
+function decodeRemainingEntities(text) {
+  return (text || '')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
     .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)))
     .replace(/\s+/g, ' ')
     .trim()
@@ -81,12 +92,13 @@ function extractTag(block, tag) {
   if (!match) return ''
   const raw = match[1].trim()
   const cdataMatch = raw.match(/^<!\[CDATA\[([\s\S]*?)\]\]>$/)
-  return decodeEntities(stripHtml(cdataMatch ? cdataMatch[1] : raw))
+  const inner = cdataMatch ? cdataMatch[1] : decodeXmlEscapes(raw)
+  return decodeRemainingEntities(stripHtml(inner))
 }
 
 function extractSourceAttr(block) {
   const match = block.match(/<source[^>]*url="([^"]*)"[^>]*>([\s\S]*?)<\/source>/i)
-  return match ? decodeEntities(match[2].trim()) : null
+  return match ? decodeRemainingEntities(decodeXmlEscapes(match[2].trim())) : null
 }
 
 function parseRss(xml) {
@@ -106,26 +118,36 @@ async function fetchFeed(feed) {
   })
   if (!res.ok) throw new Error(`${feed.url} respondió ${res.status}`)
   const xml = await res.text()
-  if (process.env.DEBUG_RSS) {
-    const firstItem = (xml.match(/<item[^>]*>[\s\S]*?<\/item>/i) || [])[0]
-    console.log(`--- DEBUG_RSS raw item from ${feed.url} ---\n${firstItem}\n--- fin ---`)
-  }
   const items = parseRss(xml)
   return items.map((item) => {
     const source = item.sourceFromFeed || feed.sourceLabel || 'Fuente desconocida'
-    // Google News añade " - Nombre de la fuente" al final del titular; lo
-    // quitamos para no repetirlo, ya que la fuente se muestra por separado.
+    // Google News añade " - Nombre de la fuente" al final del titular y
+    // del resumen; lo quitamos para no repetirlo, ya que la fuente se
+    // muestra por separado en la app.
     const suffix = ` - ${source}`
     const headline = item.title.endsWith(suffix) ? item.title.slice(0, -suffix.length) : item.title
+    const descriptionWithoutSource = item.description.endsWith(` ${source}`)
+      ? item.description.slice(0, -source.length).trim()
+      : item.description
     return {
       headline,
-      summary: item.description,
+      // Google News a veces agrupa varias noticias relacionadas en una
+      // sola descripción muy larga ("full coverage"): la acortamos para
+      // que se muestre bien en la app.
+      summary: truncate(descriptionWithoutSource, 220),
       source,
       url: item.link,
       datetime: item.pubDate ? new Date(item.pubDate) : null,
       forcedTopicId: feed.forcedTopicId,
     }
   })
+}
+
+function truncate(text, maxLength) {
+  if (!text || text.length <= maxLength) return text
+  const cut = text.slice(0, maxLength)
+  const lastSpace = cut.lastIndexOf(' ')
+  return `${cut.slice(0, lastSpace > 0 ? lastSpace : maxLength)}…`
 }
 
 function toArticle(raw, seenIdCounter) {
