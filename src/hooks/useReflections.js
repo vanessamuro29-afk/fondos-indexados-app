@@ -24,5 +24,22 @@ export function useReflections() {
     setReflections([])
   }, [setReflections])
 
-  return { reflections, addReflection, clearReflections }
+  // Añade reflexiones importadas de un archivo exportado desde otro
+  // dispositivo/navegador, sin duplicar las que ya existan (por id) ni
+  // perder las que ya había en este navegador. Devuelve cuántas eran nuevas.
+  const importReflections = useCallback(
+    (imported) => {
+      const existingIds = new Set(reflections.map((r) => r.id))
+      const newOnes = imported.filter((r) => !existingIds.has(r.id))
+      if (newOnes.length > 0) {
+        setReflections(
+          [...reflections, ...newOnes].sort((a, b) => new Date(b.date) - new Date(a.date))
+        )
+      }
+      return newOnes.length
+    },
+    [reflections, setReflections]
+  )
+
+  return { reflections, addReflection, clearReflections, importReflections }
 }

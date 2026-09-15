@@ -1,7 +1,8 @@
-import { useState } from 'react'
+import { useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useReflections } from '../hooks/useReflections'
 import { downloadCsv } from '../utils/csv'
+import { exportReflections, parseReflectionsFile } from '../utils/reflectionsBackup'
 
 function formatDate(iso) {
   return new Date(iso).toLocaleString('es-ES', {
@@ -14,8 +15,10 @@ function formatDate(iso) {
 }
 
 export default function Reflections() {
-  const { reflections, clearReflections } = useReflections()
+  const { reflections, clearReflections, importReflections } = useReflections()
   const [confirmingReset, setConfirmingReset] = useState(false)
+  const [importMessage, setImportMessage] = useState(null)
+  const fileInputRef = useRef(null)
 
   const distinctScenarios = new Set(reflections.map((r) => r.scenarioId)).size
   const byTag = reflections.reduce((acc, r) => {
@@ -56,6 +59,38 @@ export default function Reflections() {
     downloadCsv(`mis-reflexiones-${today}.csv`, rows, headers)
   }
 
+  const handleExportJson = () => {
+    exportReflections(reflections)
+  }
+
+  const handleImportClick = () => {
+    setImportMessage(null)
+    fileInputRef.current?.click()
+  }
+
+  const handleFileSelected = async (event) => {
+    const file = event.target.files?.[0]
+    event.target.value = '' // permite volver a elegir el mismo archivo si hace falta
+    if (!file) return
+
+    try {
+      const text = await file.text()
+      const imported = parseReflectionsFile(text)
+      const addedCount = importReflections(imported)
+      const duplicateCount = imported.length - addedCount
+      setImportMessage({
+        type: 'success',
+        text:
+          addedCount === 0
+            ? 'El archivo no tenía ninguna reflexión nueva (ya estaban todas en este navegador).'
+            : `Se importaron ${addedCount} reflexión${addedCount === 1 ? '' : 'es'} nueva${addedCount === 1 ? '' : 's'}.` +
+              (duplicateCount > 0 ? ` (${duplicateCount} ya existían y no se duplicaron.)` : ''),
+      })
+    } catch (error) {
+      setImportMessage({ type: 'error', text: error.message })
+    }
+  }
+
   return (
     <div className="flex flex-col gap-6">
       <div>
@@ -66,13 +101,54 @@ export default function Reflections() {
         </p>
       </div>
 
+      <div className="rounded-xl border border-slate-200 bg-white p-4">
+        <h2 className="font-semibold text-slate-900">Llevar mis reflexiones a otro dispositivo</h2>
+        <p className="mt-1 text-sm text-slate-600">
+          Las reflexiones se guardan solo en este navegador, no en ninguna cuenta ni servidor. Para
+          verlas en otro dispositivo, expórtalas aquí y luego impórtalas allí desde el mismo
+          archivo.
+        </p>
+        <div className="mt-3 flex flex-wrap gap-2">
+          <button
+            type="button"
+            onClick={handleExportJson}
+            disabled={reflections.length === 0}
+            className="rounded-lg border border-indigo-300 px-3 py-1.5 text-sm font-semibold text-indigo-700 hover:bg-indigo-50 disabled:cursor-not-allowed disabled:opacity-50"
+          >
+            ⬆ Exportar (JSON)
+          </button>
+          <button
+            type="button"
+            onClick={handleImportClick}
+            className="rounded-lg border border-indigo-300 px-3 py-1.5 text-sm font-semibold text-indigo-700 hover:bg-indigo-50"
+          >
+            ⬇ Importar desde archivo
+          </button>
+          <input
+            ref={fileInputRef}
+            type="file"
+            accept="application/json,.json"
+            onChange={handleFileSelected}
+            className="hidden"
+          />
+        </div>
+        {importMessage && (
+          <p
+            className={`mt-2 text-sm ${importMessage.type === 'error' ? 'text-rose-600' : 'text-emerald-600'}`}
+          >
+            {importMessage.type === 'error' ? '⚠ ' : '✓ '}
+            {importMessage.text}
+          </p>
+        )}
+      </div>
+
       {reflections.length === 0 ? (
         <div className="rounded-xl border border-dashed border-slate-300 p-6 text-center text-sm text-slate-500">
           Todavía no has completado ningún ejercicio de{' '}
           <Link to="/escenarios" className="text-indigo-600 hover:underline">
             escenarios de mercado
           </Link>
-          .
+          , y tampoco has importado ninguna reflexión desde otro dispositivo.
         </div>
       ) : (
         <>
