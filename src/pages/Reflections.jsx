@@ -48,8 +48,8 @@ export default function Reflections() {
         r.scenarioTitle,
         r.questionText,
         r.userReflection || '(no escribió nada)',
-        r.selectedOptionText,
-        r.isCorrect ? 'Sí' : 'No',
+        r.selectedOptionText || '(sin opción, reflexión sobre noticia real)',
+        r.isCorrect === null ? 'N/A (evento real, sin respuesta correcta objetiva)' : r.isCorrect ? 'Sí' : 'No',
         r.feedbackText,
       ])
     const today = new Date().toISOString().slice(0, 10)
@@ -129,14 +129,18 @@ export default function Reflections() {
                     </p>
                   </div>
                   <div
-                    className={`rounded-lg p-3 ${r.isCorrect ? 'bg-emerald-50' : 'bg-rose-50'}`}
+                    className={`rounded-lg p-3 ${
+                      r.isCorrect === null ? 'bg-slate-50' : r.isCorrect ? 'bg-emerald-50' : 'bg-rose-50'
+                    }`}
                   >
                     <p
                       className={`mb-1 text-xs font-semibold uppercase tracking-wide ${
-                        r.isCorrect ? 'text-emerald-600' : 'text-rose-600'
+                        r.isCorrect === null ? 'text-slate-500' : r.isCorrect ? 'text-emerald-600' : 'text-rose-600'
                       }`}
                     >
-                      Feedback de la app {r.isCorrect ? '(tu opción coincidía con la correcta)' : '(tu opción no era la correcta)'}
+                      {r.isCorrect === null
+                        ? 'Nota de contexto (sin respuesta correcta objetiva)'
+                        : `Feedback de la app ${r.isCorrect ? '(tu opción coincidía con la correcta)' : '(tu opción no era la correcta)'}`}
                     </p>
                     <p className="text-sm text-slate-700">{r.feedbackText}</p>
                   </div>

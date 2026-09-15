@@ -11,6 +11,12 @@ const SECTIONS = [
     description: '18 lecciones cortas, de básico a intermedio, con ejemplos numéricos y tests.',
   },
   {
+    to: '/mercado-hoy',
+    icon: '📰',
+    title: 'Mercado hoy',
+    description: 'Titulares financieros recientes explicados con los conceptos de la teoría, sin recomendaciones.',
+  },
+  {
     to: '/escenarios',
     icon: '🧭',
     title: 'Escenarios de mercado',
