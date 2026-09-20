@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T18:04:59.787Z",
+  "generatedAt": "2026-09-20T00:06:21.600Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,12 +11,39 @@
   ],
   "articles": [
     {
-      "id": "n11",
-      "headline": "Desarticulan 2 redes de estafas en España vinculadas con criptomonedas",
-      "summary": "Desarticulan 2 redes de estafas en España vinculadas con criptomonedas",
-      "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXNGLWt1VEMwcVZZTnJPY0lSRXdZNkFKeGRTUTlYdDVjanBsdG9ZLUYtOGlWdUFGWUxaOWFtclVvS1BBS2MxTFlTLW41eGtDZEtWZFFCa1E1c19xcTN2aUtTVkRmaGpjM21FTEgtT3hGVFJzNm1aTGdIX0xya01QTGRNcVhpbHh2QjV0emN2bkNxcXc?oc=5",
-      "datetime": "2026-09-19T17:44:00.000Z",
+      "id": "n15",
+      "headline": "ETF de criptomonedas: los flujos de 2026 superan 1,5 billones de dólares y baten el récord de 2025",
+      "summary": "ETF de criptomonedas: los flujos de 2026 superan 1,5 billones de dólares y baten el récord de 2025",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPanRseGhwV0NsWkM0dm5vMERTdnN5VTNJVFZUcHo2RUVkY2RUNXdLVjdyWFFGMTQ5Mm5sS1lFRU5YdVI2b3JwOU50MXU1NVQyRTROZ3NWeXIzdjFWWE5MTkVVNjZQeG9JemtSUTNjSzI3X2QtOGhRUUpsQWF6cklGeGtGZjhBTG9JSW1VTl9URnkxVE1TM1RlNENB?oc=5",
+      "datetime": "2026-09-20T00:01:51.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n33",
+      "headline": "Gen Z cripto: invierten como boomers pero con criptomonedas en cartera, según Binance",
+      "summary": "Gen Z cripto: invierten como boomers pero con criptomonedas en cartera, según Binance",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84dUxhZjZCWE5SX2VvckVzbnktY3lnaFRvb09ubk82OHZQQWV0ZFI4alB6ZElLX0M1SE9sWE44aTVPZTJseTZ5ZUFPMFRPeDRIYmctUVNXT3g3WEJYTlBOTy1IZUtONUYy?oc=5",
+      "datetime": "2026-09-19T23:01:55.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -29,12 +56,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n57",
-      "headline": "MNT sube un 8,36% en pleno rebote alcista del mercado cripto",
-      "summary": "MNT sube un 8,36% en pleno rebote alcista del mercado cripto",
+      "id": "n61",
+      "headline": "Bitcoin Cash (BCH) defiende su rally post-ETF y consolida sobre USD $251 este 19 de septiembre de 2026",
+      "summary": "Bitcoin Cash (BCH) defiende su rally post-ETF y consolida sobre USD $251 este 19 de septiembre de 2026",
       "source": "DiarioBitcoin",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOWtRQkZCN2ZLY1JKZTRIdG5sYm9mbjRCNDRubmk5bTlCbTR6T0FTNHNQeFBMMS0xbTItVGE2R3R4a01sZDVmQUs0WEVIeWVaWXZlN3dfY2NYbGhOcFdtd005UUNBeUJkOXZGUElLZWVxS000d1BjempONXdEUUQ3V0h1bENvX2w5VU15QzBzTE5RNmQ3V1ZSVG43d1o2bDg?oc=5",
-      "datetime": "2026-09-19T17:24:07.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnVCS1RhbDluRXR1dzNxLVkxUFJRa3JrelRJbC1qRFBUaUJZbkFDYTJHUTQxRzByTlBZTnNrdFhPS2VVNjJVMzZmSEhMdDd3SnFrVVl0Z3BzNWpJcjNCSHVDc3lsbkxCT0YzOUMtbTd2YWg1cFJ2VDI1c2tvNjNwXzk3TV9KYVo4N3RmLXhKYm1ac01xTm5fRjVlRlFLMS1KNVFlN2FuSk5sNENDRzBsT21SS3hyakgteGM3YkxObmlGMFU2ckt4R3RFdTFNR3RPbkdzdVlPaGE?oc=5",
+      "datetime": "2026-09-19T22:31:11.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -47,12 +74,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n37",
-      "headline": "Bitcoin : Michael Saylor responde a quienes anuncian su muerte",
-      "summary": "Bitcoin : Michael Saylor responde a quienes anuncian su muerte",
-      "source": "Cointribune",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUg2UW9SOEZ6Nld3eDdNeFRJUWJvaGpnckh6YTdKYkFWUXJCX1U5SkVGX2JmX2dWMUxtYld3U3BzaGkxS2tBX0l6ZzNjQ3M2dmhqaXVMN05PTVJvWnozOUpYMzlKRWtzZzlLSVNyNkwyUUxCNk45NHlmb1hfaDhBT05ibHU5MjhWWjJNSEMyc1poSTZBWFdjcEFR?oc=5",
-      "datetime": "2026-09-19T16:49:03.000Z",
+      "id": "n21",
+      "headline": "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
+      "summary": "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd21TRlF2QUsxUlVfb1VnYU5yMHZNTEhLQ1N0WHhaU2pqMkR0X2hPMTloTG1HcnR1am1FZTY5VzVhNk90djJTdExnRU1CMTE0T1gwX0VjNmdXNUY2YUplUVpwSkhwX0MxRUZINzl2TTdfLTZQS2lFdXFQNlFCQ3NveFF4dHRuVWdhc09qcjc1eUJKbkZnWUdKQkYtWUkyODkxdlQ3Mlhn?oc=5",
+      "datetime": "2026-09-19T21:50:00.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -65,12 +92,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n18",
-      "headline": "La CFTC lleva exchanges de criptomonedas no registrados hacia su marco de derivados",
-      "summary": "La CFTC lleva exchanges de criptomonedas no registrados hacia su marco de derivados",
-      "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMENySDFwV2RBUmRJSlB6Y0xCVWk3bWpPWjVmUk1zbkF3LUJOLU03UXVDdlhTRTJvN0pSRUktRDNERFRYQm1tbmRaajJLT29iNVNoS05tLWtZV3ZMT0swT1p6aWxzREFUUnA3NEpjWDlLRkZWMU5VQVpjUVNvOHpnQk9VNDNHRWUzS0NpUHVWWjdaTlhvNWJJNVR3RW8zZ1V0?oc=5",
-      "datetime": "2026-09-19T16:39:00.000Z",
+      "id": "n65",
+      "headline": "Precio de Avalanche +18 %: por qué AVAX se dispara",
+      "summary": "Precio de Avalanche +18 %: por qué AVAX se dispara",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WMUUxY0NpS19tX2dzOE1SSEhjS2tNeWZja1pnYTVWRkxKOEJGQVRZTmdmWXRGMWJJeGEzUzE5WDRnU2VDM0FDMEFJcFM2dFVEOU1sR3JSSExMT1ZvMDNkM1pXSnN0RkVIeFZFM3hjcDJkeTMtOUJj?oc=5",
+      "datetime": "2026-09-19T21:21:49.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -83,13 +110,50 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n19",
-      "headline": "Ley de Claridad, apenas te conocimos: Analizamos lo que contenía el proyecto de ley y qué lo está reemplazando",
-      "summary": "Ley de Claridad, apenas te conocimos: Analizamos lo que contenía el proyecto de ley y qué lo está reemplazando",
-      "source": "CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSFM5dGx0eFBGQ2hYbEc0aV85UXlpRGZaZTlqNlhqUVZ6cm5ZNTRTSG90V2d1RHRuMUlWZTdFNUZoS29HRzJGZE13TWgzeTh0ZWpnVEVUZmVBSGdMWE11cnZUdjVJSWdPWkxUSGZhWXROZUlrMHAyX1hfT3NVcUk4OVJVaEVnNTJpQzJ2eWRCYU9Ga2k3XzIwekc0bkpYUEJ4dWRJQXItTzIxWEVxZmVrSHl0VkFKdkhtaWctT3B4SkN0ZVpLZW1iYjBkSW9pNENMQS1vWQ?oc=5",
-      "datetime": "2026-09-19T16:00:00.000Z",
+      "id": "n73",
+      "headline": "El Bitcoin supera los 81.000 dólares: Un repentino cambio de tendencia arrasa con los vendedores en corto.",
+      "summary": "El Bitcoin supera los 81.000 dólares: Un repentino cambio de tendencia arrasa con los vendedores en corto.",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmduMzlnU1VmN3NzUm80WWpPcUhGSEdVbjVmY2k2RklGd29XWWVfcnEyajZJMEFOTzVna19BaXRkTThmU3RtLXFBYVJGNjRGOEExUnJQN2Fma2lkT3M1bC00ZHNZdkVmaHc2WEhCVnB6ZHJfS3FyNV95MTNNMVlJb2w2WHNpdUFLUWNB?oc=5",
+      "datetime": "2026-09-19T19:03:46.000Z",
       "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n59",
+      "headline": "Futuros perpetuos de acciones: Kalshi acude a la SEC",
+      "summary": "Futuros perpetuos de acciones: Kalshi acude a la SEC",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHJNTm85ZG9rU1hoZzFfbnMzdDhNdE9ndTlVTHZlakpaSXJONDRFOFppNVFvZnF6MW5maWJVV3dFbk1rRzRTZk4wUUtBVDR6akxhN3FSU01CSnRteTd4dkhpRGFzRkNjVjI3SzBFeXIyTC12Wk9oWVpuZm1NMXk3TTZlTDUwNXhVeWZmYzl3?oc=5",
+      "datetime": "2026-09-19T19:01:48.000Z",
+      "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        },
         {
           "id": "criptomonedas",
           "label": "Criptomonedas",
@@ -98,10 +162,38 @@
           "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
         }
       ],
-      "isNewScenarioCandidate": true
+      "isNewScenarioCandidate": false
     },
     {
-      "id": "n89",
+      "id": "n13",
+      "headline": "Kalshi se une a Coinbase al presentar futuros perpetuos sobre acciones estadounidenses",
+      "summary": "Kalshi se une a Coinbase al presentar futuros perpetuos sobre acciones estadounidenses",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wc1ROOG9mdy1zWkJ3amNSZW00N0paajhHQVkxVW81NlJ1RDE5d01nT3kyVjZqRDJZUm9qM1BHakY3emkwenBNLUFJZjZlemdVVmV1ZEtYV0R1aVh0bWxwRTBaSGktMFVmSUYyVmtIOA?oc=5",
+      "datetime": "2026-09-19T18:35:16.000Z",
+      "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        },
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n83",
       "headline": "Así amanece el mercado informal en Cuba: Dólar y euro arrancan la jornada con nuevos récords históricos",
       "summary": "Así amanece el mercado informal en Cuba: Dólar y euro arrancan la jornada con nuevos récords históricos",
       "source": "CiberCuba",
@@ -121,7 +213,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n54",
+      "id": "n63",
       "headline": "Bitcoin puede llegar a u$s100.000 en breve según banco de Wall Street",
       "summary": "Bitcoin puede llegar a u$s100.000 en breve según banco de Wall Street",
       "source": "iProUP",
@@ -149,12 +241,12 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n15",
+      "id": "n17",
       "headline": "BlackRock adquiere más de 1.000 millones de dólares de esta criptomoneda en 20 días",
       "summary": "BlackRock adquiere más de 1.000 millones de dólares de esta criptomoneda en 20 días",
       "source": "Bitfinanzas",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VaG9NV2RtMkpheFNMbklFY3ZsYlc0cHJBendMbXNPdzlDSUhBVzYyM0x1NUx4VWdmMEtaRTFPMDB5TzdDNHlHMXotX2Z3Ni1LcDRJZHc3NnNkRHJGMWhzT3pmRG1aME04eGtrSDRTTmQ1WkJGbWVkOWFMMEdEUQ?oc=5",
-      "datetime": "2026-09-19T14:29:57.000Z",
+      "datetime": "2026-09-19T14:33:57.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -176,7 +268,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n65",
+      "id": "n71",
       "headline": "1 millón de dólares para el Bitcoin? Kevin O’Leary revela el riesgo que podría cambiarlo todo",
       "summary": "1 millón de dólares para el Bitcoin? Kevin O’Leary revela el riesgo que podría cambiarlo todo",
       "source": "Cointribune",
@@ -203,83 +295,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n86",
-      "headline": "Guerra comercial EU-China impacta a Manzanillo; afectan los aranceles",
-      "summary": "Guerra comercial EU-China impacta a Manzanillo; afectan los aranceles",
-      "source": "imagenradio.com.mx",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd3UyUHBsbkI3SUNLUFJyRGt1bHM4d2VwdlA1eFBjZzcyLVF4a1lMUERycm4xWHF2Ums1UENaalNaMFVyNW1BM3RqN3drTTJZWUdGTWhYa2d5LU9rYTUwTXhNY1RBeWF3WkpsZms0TkJRc1d0MHBFWVB5VmU4c2YxTy1mVDA2RS1SaUo3VnFSZEpEX0sxUmNPMDMtX3dMTzkzbmkwX9IBqgFBVV95cUxNaDQzZkhqbXRZOHN1dTBZVjFMVjkwTTFNa19zV3dneGVoVDU3ZVpvMzhXaHozN0tfWEhwRFp0MTJfNGgtZHZrdGVYYmZzekZJcmxRWmpPY0tuS3NPZHlKUGxwVXMzajJDbGNXMlRLQWRFOWNMSF80NFFvdjVBRnRCc0pWWUZPeHd0UzlGeXFod1RlWVpYcmJmNHcwMkNsRC1RaEhSSmVtcHBSQQ?oc=5",
-      "datetime": "2026-09-19T08:00:00.000Z",
-      "topics": [
-        {
-          "id": "geopolitica",
-          "label": "Volatilidad geopolítica",
-          "scenarioTag": "Volatilidad",
-          "glossaryTerms": [
-            "Volatilidad"
-          ],
-          "note": "Los eventos geopolíticos inesperados suelen traducirse en un aumento temporal de la volatilidad: oscilaciones de precio más amplias de lo habitual en varias clases de activos a la vez."
-        },
-        {
-          "id": "comercio-aranceles",
-          "label": "Comercio internacional y aranceles",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Diversificación"
-          ],
-          "note": "Los cambios en aranceles o relaciones comerciales pueden afectar de forma desigual a distintos sectores y países, lo que conecta con la idea de diversificar entre regiones."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n67",
-      "headline": "Precio del Bitcoin hoy, 19 de septiembre de 2026: Superando el \"dolor de Clarity\", el BTC se dispara a 81.000 dólares.",
-      "summary": "Precio del Bitcoin hoy, 19 de septiembre de 2026: Superando el \"dolor de Clarity\", el BTC se dispara a 81.000 dólares.",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3psYmZ5T19iMU5zakdVbHBVWTNTUVJaVTd0b0lyS0x3NkJCQUsxZktQOHdwdlVmQXNTMWFKTVNlMlR0cXFiRWtnRTlOMVpWQ1JPakNQX2hUVENlQVdRSkxWaVFVX0ItSlFFTDJ1Z2RFczBTa3RBWVJXWTN4SG5FZXNackV0UXFJZi1FZHQ3al9xRHVDNnlxLVctWkJVaThsS3NoVWwweEdkQWhy?oc=5",
-      "datetime": "2026-09-19T02:32:19.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n91",
-      "headline": "Así cierra el mercado informal en Cuba: El dólar y el euro terminan con incremento",
-      "summary": "Así cierra el mercado informal en Cuba: El dólar y el euro terminan con incremento",
-      "source": "CiberCuba",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmNwMndWaUxRaUZSVGpUTW1BbjFMbHl3RGtCZXZxRjlWSTRfMGFrRk80S0NCTzBRM1NGYVFfeWVqY2lBZ253cXpmWVpkM1J3WGpEd3FkR3YwQnF1OExaR0h4TFk3UmdJTElPWGRtMXlRLWY1V1k3cHQyRkZ1UzVZNG5XcGFUY3VVY0xrQ2IwZU1QdGI5VktZZEtHbV8xWlA1cUdHRnhIYXBlelBMd0lIRDR6Mkp0UUdJSHowY2c4b19qUDM00gHEAUFVX3lxTE9WY3Ayd1ZpTFFpRlJUalRNbUFuMUxseXdEa0JldnFGOVZJNF8wYWtGTzRLQ0JPMFEzU0ZhUV95ZWpjaUFnbndxemZZWmQzUndYakR3cWRHdjBCcXU4TFpHSHhMWTdSZ0lMSU9YZG0xeVEtZjVXWTdwdDJGRnVTNVk0bldwYVRjdVVjTGtDYjBlTVB0YjlWS1lkS0dtXzFaUDVxR0dGeEhhcGV6UEx3SUhENHoySnRRR0lIejBjZzhvX2pQMzQ?oc=5",
-      "datetime": "2026-09-19T01:22:28.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n8",
+      "id": "n22",
       "headline": "Las acciones cripto se recuperan tras la liquidación provocada por la Ley CLARITY",
       "summary": "Las acciones cripto se recuperan tras la liquidación provocada por la Ley CLARITY",
       "source": "TradingView",
@@ -307,7 +323,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n87",
+      "id": "n82",
       "headline": "Anunciaría EU aranceles hasta después de cumbre Xi-Trump",
       "summary": "Anunciaría EU aranceles hasta después de cumbre Xi-Trump",
       "source": "Reforma",
@@ -327,7 +343,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n53",
+      "id": "n45",
       "headline": "Futuros de bitcoin, ether, solana, XRP y tron se negociarán en la Bolsa de Moscú",
       "summary": "Futuros de bitcoin, ether, solana, XRP y tron se negociarán en la Bolsa de Moscú",
       "source": "CriptoNoticias",
@@ -355,35 +371,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n23",
-      "headline": "Las acciones cripto se disparan al repuntar bitcoin y ethereum",
-      "summary": "Las acciones cripto se disparan al repuntar bitcoin y ethereum",
-      "source": "Investing.com España",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYkZtQ1hza0lwYUFhcnI4Tnl1aW9IMHo0Y3hibFZNTzJqR1hBUnpHaFptSFFjYkpYOWtQRXByM2xuS2E3S2cwcktHbFJ0NkRoamtTSU5laVhDSkZQcTd2QjRTajk5R3ZDQ1ZtR3ZQYnlwWkVKMUR5enNVdEQ4Q3Z3UlRudHEtOFpWZUs5RXE3dS1sNjVpRkpuZFZfd3VyUTFnTWM0OEZYVWNVODlSUUo1LXlFWlFpSWlMRy1HcE9aaWk?oc=5",
-      "datetime": "2026-09-18T16:37:00.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n36",
+      "id": "n34",
       "headline": "Bitcoin alcanza los 81.000 dólares mientras los rendimientos de los bonos estadounidenses se recuperan por las preocupaciones globales sobre el petróleo",
       "summary": "Bitcoin alcanza los 81.000 dólares mientras los rendimientos de los bonos estadounidenses se recuperan por las preocupaciones globales sobre el petróleo",
       "source": "TradingView",
@@ -475,6 +463,35 @@
             "Curva de tipos"
           ],
           "note": "Los cambios en los tipos de interés de referencia afectan al precio de los bonos ya emitidos: cuanto mayor es la duración de un bono o fondo de renta fija, más sensible es su precio a este tipo de noticias."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n81",
+      "headline": "LA GUERRA COMERCIAL YA ESTÁ AQUÍ: CHINA Y EUROPA SE DISPUTAN INDUSTRIAS, MERCADOS Y PODER",
+      "summary": "LA GUERRA COMERCIAL YA ESTÁ AQUÍ: CHINA Y EUROPA SE DISPUTAN INDUSTRIAS, MERCADOS Y PODER",
+      "source": "Canarias-semanal.org",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjhaWUtfQkQxSE1NSnpTdzh0OF9OUmw1Zl9zdjlreURaSlFhNi0tWGJGNzRxbVVYMzY0Sy1MZW5CcFJ1dWNUMHNlVkFsTXpkRUxVUktmMFEtcGVZSkVnemdaSlpvTk1wSFc0ODgycXdBNWI1X0VEZ0NLM3VHMC04Qko3dk1MOUFWLTNDUmp0WjBJTml6b3g3ZlpuVUhsajdWR3lJTUJSOFpwaDY1VmNDRG5xZEtSTW8td09ZbVhNVlpBckk5?oc=5",
+      "datetime": "2026-09-18T07:43:11.000Z",
+      "topics": [
+        {
+          "id": "geopolitica",
+          "label": "Volatilidad geopolítica",
+          "scenarioTag": "Volatilidad",
+          "glossaryTerms": [
+            "Volatilidad"
+          ],
+          "note": "Los eventos geopolíticos inesperados suelen traducirse en un aumento temporal de la volatilidad: oscilaciones de precio más amplias de lo habitual en varias clases de activos a la vez."
+        },
+        {
+          "id": "comercio-aranceles",
+          "label": "Comercio internacional y aranceles",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Diversificación"
+          ],
+          "note": "Los cambios en aranceles o relaciones comerciales pueden afectar de forma desigual a distintos sectores y países, lo que conecta con la idea de diversificar entre regiones."
         }
       ],
       "isNewScenarioCandidate": false
