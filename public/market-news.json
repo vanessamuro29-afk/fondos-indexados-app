@@ -1,16 +1,7 @@
 {
-  "generatedAt": "2026-10-04T11:17:27.228Z",
+  "generatedAt": "2026-10-04T18:10:45.050Z",
   "status": "ok",
-  "feedFailures": [
-    "https://news.google.com/rss/search?q=inflaci%C3%B3n+IPC+econom%C3%ADa&hl=es&gl=ES&ceid=ES%3Aes: https://news.google.com/rss/search?q=inflaci%C3%B3n+IPC+econom%C3%ADa&hl=es&gl=ES&ceid=ES%3Aes respondió 503",
-    "https://news.google.com/rss/search?q=bolsa+mercados+renta+variable+acciones&hl=es&gl=ES&ceid=ES%3Aes: https://news.google.com/rss/search?q=bolsa+mercados+renta+variable+acciones&hl=es&gl=ES&ceid=ES%3Aes respondió 503",
-    "https://news.google.com/rss/search?q=curva+de+tipos+bonos+deuda+p%C3%BAblica&hl=es&gl=ES&ceid=ES%3Aes: https://news.google.com/rss/search?q=curva+de+tipos+bonos+deuda+p%C3%BAblica&hl=es&gl=ES&ceid=ES%3Aes respondió 503",
-    "https://news.google.com/rss/search?q=bitcoin+criptomonedas&hl=es&gl=ES&ceid=ES%3Aes: https://news.google.com/rss/search?q=bitcoin+criptomonedas&hl=es&gl=ES&ceid=ES%3Aes respondió 503",
-    "https://news.google.com/rss/search?q=petr%C3%B3leo+materias+primas&hl=es&gl=ES&ceid=ES%3Aes: https://news.google.com/rss/search?q=petr%C3%B3leo+materias+primas&hl=es&gl=ES&ceid=ES%3Aes respondió 503",
-    "https://news.google.com/rss/search?q=aranceles+guerra+comercial&hl=es&gl=ES&ceid=ES%3Aes: https://news.google.com/rss/search?q=aranceles+guerra+comercial&hl=es&gl=ES&ceid=ES%3Aes respondió 503",
-    "https://news.google.com/rss/search?q=crisis+bancaria+quiebra+banco&hl=es&gl=ES&ceid=ES%3Aes: https://news.google.com/rss/search?q=crisis+bancaria+quiebra+banco&hl=es&gl=ES&ceid=ES%3Aes respondió 503",
-    "https://news.google.com/rss/search?q=tipo+de+cambio+d%C3%B3lar+euro+divisas&hl=es&gl=ES&ceid=ES%3Aes: https://news.google.com/rss/search?q=tipo+de+cambio+d%C3%B3lar+euro+divisas&hl=es&gl=ES&ceid=ES%3Aes respondió 503"
-  ],
+  "feedFailures": [],
   "coveredScenarioTags": [
     "Tipos de interés",
     "Inflación",
@@ -20,109 +11,440 @@
   ],
   "articles": [
     {
+      "id": "n17",
+      "headline": "Criptomonedas en Latinoamérica: resumen semanal del 4-oct",
+      "summary": "Criptomonedas en Latinoamérica: resumen semanal del 4-oct",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHo5NG91MndILUlpNTloaDJDYXVJbWY1Z3JaZXdaTG5HOWw5X2hTbmlwZU44Z2FkM3cyUEIyQmpIRDgzVVA5VUJpOG9OdTdqNDBhZ3J2cXR4a1FaZWMzY0RZTnEtZmQ5SjZQcU14RGlISnZJTTRfdi1GdHpMNXBUWi03bDlheG9oSno0TnVxRWdzcTVmX3c?oc=5",
+      "datetime": "2026-10-04T18:01:44.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n27",
+      "headline": "Cómo intercambiar Monero (XMR) y Zcash (ZEC) sin KYC en 2026: guía práctica",
+      "summary": "Cómo intercambiar Monero (XMR) y Zcash (ZEC) sin KYC en 2026: guía práctica",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMVZGVjhxX0s0eXRCX2RPMjFIY3M0c0xqSXN5UnY0bEFNUkRUQWdCMDB3b3k1c3d1R3V6TmRNVWM3M3I4VUotMlprTFVPWkFFVERPWWlzb09ScS1LTkIzTWxCaDY1T1VNOUFHam5yYkJMS0s0SmhfXzNZd3ZWRzNYRGc3ZU5CTlRtQTRDTW5VNzg?oc=5",
+      "datetime": "2026-10-04T16:24:12.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n7",
+      "headline": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 4 de octubre",
+      "summary": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 4 de octubre",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlJ4a3BqTTFkTkEtYTBWMEsyd3IzQnlfb2JxaHZMNUJaRGY1UGhYN2hLS1VCOXNJY2lVZXpfVmFsaUJlYV9WUjRDYWF0dFRxa0RUU05ocWU4YmpXVzRpeFhJU2Etem9YX3lESmtRQ2Y4cWxkb0dFR2F3RngwQm45bGVHbkQweFJ0XzlZRzd4aTJKUHFRMWVVZldvVklxNE83WWNZYg?oc=5",
+      "datetime": "2026-10-04T16:17:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n29",
+      "headline": "Predicción de Dogecoin: qué mueve de verdad el precio",
+      "summary": "Predicción de Dogecoin: qué mueve de verdad el precio",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zc0RmbURBQ0RJWFJlX0JIT2NteGh5YmlxdkIwcklGZk9pb21nSmY2dXhzejZYd0R0VEhsTFpCNWJTMjdDVi1VaVYxWVEzcFJxa29jYzZJWXE3dHFIeHJQUmtGcmVJQXZsVEJFUERKNUtubV9pTGJNMU92bGx3YjQ?oc=5",
+      "datetime": "2026-10-04T15:36:20.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n66",
+      "headline": "Cómo la guerra comercial entre Estados Unidos y Canadá puede afectar a los inversiones",
+      "summary": "Cómo la guerra comercial entre Estados Unidos y Canadá puede afectar a los inversiones",
+      "source": "Forbes Argentina",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHI1OXlhb2s1Q3gxeFVZOGs1bFBnUFRjXzJlSTk2b3B6OUZTUGJGUkdKMkl3WnA0eGxHNlBvNTJtWU13Vlg3OTU2enNPNl93LTJMTWdrek1sekN6QmFOY0pqNnN0Zmg3QnlzbUlLbm5yNGhpRGJrMzFCZ3pveTBacDUtMGtzcEtWMk9YdmxrOWVzUU5GLTdxMFlFQlRKeWhORzY5U0VzTE05YUEwM2d5QzdUWk7SAboBQVVfeXFMUHUxaTFoTVFKN0ltc2ZvVFo1dXZKMFVLMW5OSDRmVnJNN3ZmN3VSWHNqQ21Td1dsZVE1VmtDdkhQdUh4ZzZjN1ZiNzRnMEl5cHRNX0hFdmlLTFpJVkk1RjBhSFlMckc5Yk9YUTN5QkdKNmpHYnhWNVluenNtaGk5OHpleUNEc3hieE52Z0dOLUF5d0lIc1N3eXI0dFljdEVXUE9fcVJJMUJ2dUhMblAtTlYteFZLNXdxU3Z3?oc=5",
+      "datetime": "2026-10-04T14:54:07.000Z",
+      "topics": [
+        {
+          "id": "geopolitica",
+          "label": "Volatilidad geopolítica",
+          "scenarioTag": "Volatilidad",
+          "glossaryTerms": [
+            "Volatilidad"
+          ],
+          "note": "Los eventos geopolíticos inesperados suelen traducirse en un aumento temporal de la volatilidad: oscilaciones de precio más amplias de lo habitual en varias clases de activos a la vez."
+        },
+        {
+          "id": "comercio-aranceles",
+          "label": "Comercio internacional y aranceles",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Diversificación"
+          ],
+          "note": "Los cambios en aranceles o relaciones comerciales pueden afectar de forma desigual a distintos sectores y países, lo que conecta con la idea de diversificar entre regiones."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n10",
+      "headline": "90% de las redes de criptomonedas generaron menos de USD 1.000 en comisiones",
+      "summary": "90% de las redes de criptomonedas generaron menos de USD 1.000 en comisiones",
+      "source": "CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFl1bWhSdGh5aGJEZzBlWUZXaE5oZWJWZ1RVVmNLR3VvdXBTMndTeklvS1hzQWpJT21hVk9mRm1MMTVCbmZCMy1oU1ZTYjdMa1NfblVodlF4Y2x1M3BISVVMeXF2MjdQSjVNNG9FdXF4LVZjaVY5TWVkMDhtQjlKaEdQc0FPQ3VBNmstZGg2NC1fTEVtV0NKV251Sm0tcTF0ckVCSlVMNHo0V3JG?oc=5",
+      "datetime": "2026-10-04T14:52:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n63",
+      "headline": "La OPEP+ decidió congelar su oferta de petróleo hasta noviembre",
+      "summary": "La OPEP+ decidió congelar su oferta de petróleo hasta noviembre",
+      "source": "Efecto Cocuyo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTNLclZKUjBRSjNBWDZqOHBUR25XbndIdG5paGU4R1BLU3hMT25FaGNDcHFhTGcxQnJNVHd1Unk2bjJPMmJZZ2VNaEg0WXRzYzZYWFRTY0RKRGxCeDA1UDluUE9ScnA1WkNGLUh2T2JLTGI5YjJmZWdvQnRQdEtfcHVLOFdyY3ZPbmdlOG5Ha3E4cl9RdW45M0tUcTN6QQ?oc=5",
+      "datetime": "2026-10-04T14:35:51.000Z",
+      "topics": [
+        {
+          "id": "materias-primas",
+          "label": "Materias primas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n53",
+      "headline": "FMI desembolsa 138 millones a El Salvador tras negociar condiciones sobre Bitcoin",
+      "summary": "FMI desembolsa 138 millones a El Salvador tras negociar condiciones sobre Bitcoin",
+      "source": "Cripto247",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFJQUDZtUXI4MTBneHJaMHBiWmtIWWFaQ0VFdHMxVlN6ODR5TVZPYUdjUmhrNHcwV29ESGVBNjJJTlNWS3M4UXg4YWNhQXA3LWdxTnIwLUlIVnljNmppR3NQcXBMT3oyWkRoM0l4ZTd6aHFoV1FUU3Z6cjhERnBwRlpIRHgyVk5WN0F0Qkw2SUhjTHIxSUdaWVI0dkdjd19CcnlpMUZUeEdNMVZPemNiTUp0SXdFNDFTMHRJSlVpZlE?oc=5",
+      "datetime": "2026-10-04T13:41:07.000Z",
+      "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        },
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n49",
+      "headline": "Minería Bitcoin: septiembre genera 1,12 mil millones de dólares para los operadores",
+      "summary": "Minería Bitcoin: septiembre genera 1,12 mil millones de dólares para los operadores",
+      "source": "Cointribune",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmZrY2UzN2JwVm00dUhXdDZLNlZBVVhYT19Cb25PR05MVVNFRl9JUGVGWVZzWE9BMlVFWU1mWkRYSVVwdjhmanIzb1lRVEo4MFpkWnJzZ0tYRDRlSDNIVW5NSXJENjlTVGRSdUNna0lyN09RYllIRWZBbmVKUG52enkzNkU2d2hfTXc?oc=5",
+      "datetime": "2026-10-04T09:50:52.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n19",
+      "headline": "El Salvador recibe 138 millones de dólares del FMI tras la concesión de dispensas sobre Bitcoin",
+      "summary": "El Salvador recibe 138 millones de dólares del FMI tras la concesión de dispensas sobre Bitcoin",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEa3ZWcW1TZzF1Vkl0dTJ3cEY3RzduWlVIQjFoaGlGdWZwdjhyQUlsbGxSSHk1aEhoS1FoOWJUVnBmZXd4NGdkODVQU3hJakVtWmhrMHUwQk5ONnppc0pBUWRNbjMzcHN0aUZ3ZkdNdw?oc=5",
+      "datetime": "2026-10-04T09:39:51.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n59",
+      "headline": "Bitcoin puede subir 34% según Citi si llega una ayuda de Wall Street",
+      "summary": "Bitcoin puede subir 34% según Citi si llega una ayuda de Wall Street",
+      "source": "iProUP",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLWhNdU02cHZseloyakxZcWxyV05nU3hFNFBpYUVOM3l0ODNXMVRHNzQyOUlCXzlHbkNTeXZGejY3bDdmZnQ0NzU3Zm5ZYVBkVXZ3MkhwVWtGMjNnMVBTR0E3eTI5UFJfOXZCRFpNWi0zMTh6dF9JU05XVlhUajRjMUVWVnhzOE9lZmJISjhPRXd6N3g3bDBfaE05R0xUOTBDVUlkNGRJZjExeVFDY2xocU5XbmRlcC1VTlFoM1E2S1pyVXdKQnM5RGN30gHPAUFVX3lxTFBVZ0hsT0pSZ185T3FDSUY3QnJObC0xQ1ZzYko4bVUyUkxRcER6aURkaUFFNmFjM0MtUWl4cWdVeVRKeXAxSVF2X1V6bGNsMXVkUi1GQUY1R3dwU3VYTHppSHVEMGNTVDR3Mkc1dHpjcU10aFRHb3hqend4V3pjZmJQX0dlWmg0UGdWUDExX3RUNmFvUTBZOENtSjBmbG9fMmRGaElYX0d4NTNMUXk5TFhiNGpYeXFQMzFrTXBpMUw5WC1KbVZtSDA0LWpRUlowNA?oc=5",
+      "datetime": "2026-10-04T07:02:35.000Z",
+      "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        },
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
       "id": "n3",
-      "headline": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "source": "Reserva Federal (Fed)",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-      "datetime": "2026-10-02T20:45:00.000Z",
+      "headline": "Hay menos inflación donde funciona la competencia: los 40 productos que se salvan en el IPC",
+      "summary": "Hay menos inflación donde funciona la competencia: los 40 productos que se salvan en el IPC",
+      "source": "Vozpopuli",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2tCWEVaYlpwenVBV182dVhackZfc2t6bFN4TUNIaEpEY2tXYWtrUklTQ3lsRkNNQTNkX2ZxS0VTbVB0cG96QnNYVHZTX1JQeVl1dDIxQ1M5MmVYR1daMVNJTXRwbnYxTkt5UTRuRkRzaVplNGdLcHExMGhYSHVjME5jNDBZOHZ4RVUxVjNCdnU4Q3l4Mkk4WkppalRWbWFPelpmRXVZYmtZcUVYQzktemM4YWM0d0JZTTJZUUFfcGpiZ2pLS0lUYTI3Q016TUFj0gHQAUFVX3lxTE13a0JYRVpiWnB6dUFXXzZ1WFpyRl9za3psU3hNQ0hoSkRja1dha2tSSVNDeWxGQ01BM2RfZnFLRVNtUHRwb3pCc1hUdlNfUlB5WXV0MjFDUzkyZVhHV1oxU0lNdHBudjFOS3lRNG5GRHNpWmU0Z0twcTEwaFhIdWMwTmM0MFk4dnhFVTFWM0J2dThDeXgySThaSmlqVFZtYU96WmZFdVlia1lxRVhDOS16YzhhYzR3QllNMllRQV9wamJnaktLSVRhMjdDTXpNQWM?oc=5",
+      "datetime": "2026-10-04T02:45:00.000Z",
       "topics": [
         {
-          "id": "tipos-interes",
-          "label": "Tipos de interés",
-          "scenarioTag": "Tipos de interés",
+          "id": "inflacion",
+          "label": "Inflación",
+          "scenarioTag": "Inflación",
           "glossaryTerms": [
-            "Duración",
-            "Curva de tipos"
+            "Rentabilidad histórica vs. futura"
           ],
-          "note": "Los cambios en los tipos de interés de referencia afectan al precio de los bonos ya emitidos: cuanto mayor es la duración de un bono o fondo de renta fija, más sensible es su precio a este tipo de noticias."
+          "note": "Una inflación distinta de la esperada cambia la rentabilidad real (descontada la inflación) de cualquier inversión, y puede erosionar el valor de cupones fijos pactados de antemano."
         }
       ],
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n4",
-      "headline": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-      "source": "Reserva Federal (Fed)",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-      "datetime": "2026-10-02T20:00:00.000Z",
+      "id": "n68",
+      "headline": "Así cierra el mercado informal en Cuba: Dólar y euro finalizan el día al alza",
+      "summary": "Así cierra el mercado informal en Cuba: Dólar y euro finalizan el día al alza",
+      "source": "cibercuba.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZE04MHJUVTFQU0owZVJBS3h5TzVOUFUxeHlIRGQxZTl3cjVVek1FaTNVel9uN0JXNkRBdE4zanZRYWJsSkdjcmRnY3RaNEFtRUZOZy02d0U1dXJQcXVzQnR1UHdxT3prLWQ5b0k2TlRFQ3M3T2VqYkJhd1l3NndzWW5uTksxSTJjMVRZQTdCSFJ5UlNyLWI5WERIc1p5OVg0OV81MUF5ZXBaUndqRURFZjI5VWdsVnB20gG4AUFVX3lxTFBkTTgwclRVMVBTSjBlUkFLeHlPNU5QVTF4eUhEZDFlOXdyNVV6TUVpM1V6X243Qlc2REF0TjNqdlFhYmxKR2NyZGdjdFo0QW1FRk5nLTZ3RTV1clBxdXNCdHVQd3FPemstZDlvSTZOVEVDczdPZWpiQmF3WXc2d3NZbm5OSzFJMmMxVFlBN0JIUnlSU3ItYjlYREhzWnk5WDQ5XzUxQXllcFpSd2pFREVmMjlVZ2xWcHY?oc=5",
+      "datetime": "2026-10-04T00:38:58.000Z",
       "topics": [
         {
-          "id": "tipos-interes",
-          "label": "Tipos de interés",
-          "scenarioTag": "Tipos de interés",
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
           "glossaryTerms": [
-            "Duración",
-            "Curva de tipos"
+            "Riesgo de divisa"
           ],
-          "note": "Los cambios en los tipos de interés de referencia afectan al precio de los bonos ya emitidos: cuanto mayor es la duración de un bono o fondo de renta fija, más sensible es su precio a este tipo de noticias."
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n65",
+      "headline": "Controlar los precios de las materias primas al final del año.",
+      "summary": "Controlar los precios de las materias primas al final del año.",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rd3NUcnFsLVpiWVFrTTBzaGJhUm9wWnNzd1FTQ0JfTG41Y2tjVW1RT0hnSGFiLXF1Y3Z4RW5lZGl3OHJOaXJrQThvUlRzR2hIaFZqa3Utem55MUc0VXkyU0Y4WmhocjRy?oc=5",
+      "datetime": "2026-10-03T23:27:05.000Z",
+      "topics": [
+        {
+          "id": "materias-primas",
+          "label": "Materias primas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n44",
+      "headline": "Precio del bitcoin el sábado por la noche: 84.828 dólares y 75.348 euros",
+      "summary": "Precio del bitcoin el sábado por la noche: 84.828 dólares y 75.348 euros",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM282ckszLU5veGJkNjFzOW15MDdUNXBzQVFRZExjQnp1aE1QbWs3cnRvbENfS2hPb2o4dDM2YTNkb2V2Vi1XR1RPd3UwcGdadk5PcFp1YlJtX09neFZYV2lYSU1RNW5PRXNpSXVaY1NpUGhGdTdOeTd2Q2dUMWh0d3dtdw?oc=5",
+      "datetime": "2026-10-03T18:41:53.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n69",
+      "headline": "Así amanece el mercado informal en Cuba: El dólar arranca al alza y el euro también sube",
+      "summary": "Así amanece el mercado informal en Cuba: El dólar arranca al alza y el euro también sube",
+      "source": "cibercuba.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzZKa1NlREJEeThjSVBhXzc0dGR1NmM5ell0dlJIY3JzSUxXX1BIdDg3STMwZTVQYzNGdVhhLURLbTRBMjF6MFlnOUJzMUQxUVJ2N05nQkcwQkFoV1dxWlJtak91QlRnZWtkaFlPbk5teWYybnVybHRTV09sOWo1bUI4RDRfbWpMc09QYm1GMEF0S3NzcmozMUxJMEFlQmFuTWlWNm14Q0YtSGtnVlhNWVdwSXJWS1JwTkFuc213UFVKd9IBwgFBVV95cUxPYzZKa1NlREJEeThjSVBhXzc0dGR1NmM5ell0dlJIY3JzSUxXX1BIdDg3STMwZTVQYzNGdVhhLURLbTRBMjF6MFlnOUJzMUQxUVJ2N05nQkcwQkFoV1dxWlJtak91QlRnZWtkaFlPbk5teWYybnVybHRTV09sOWo1bUI4RDRfbWpMc09QYm1GMEF0S3NzcmozMUxJMEFlQmFuTWlWNm14Q0YtSGtnVlhNWVdwSXJWS1JwTkFuc213UFVKdw?oc=5",
+      "datetime": "2026-10-03T16:05:09.000Z",
+      "topics": [
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n64",
+      "headline": "Más allá del surtidor: ¿Cuánto petróleo consumimos realmente?",
+      "summary": "Más allá del surtidor: ¿Cuánto petróleo consumimos realmente?",
+      "source": "Investing.com México",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMl82T083VkpQMGR2Qm02WGtaQ0x5Q2tjRWl4VFNZUFBnSTJiQ1M3RTQxTDUxb2tyYUpnSFNJNmZUdTZGNW5FRlNGT1MyTFVna0lJNXVtcmIyQVIzVnRnRDh5bFJvZTREdV85bVljMXZvMGw5MVZlcXJOemVzdW5rNEdNUmF6Sk9OQlR3RDF4V2ZOYVcwLU5ZNm9ZMGlBc25wZndrcGZuRFVacWIxVXNkSks0WQ?oc=5",
+      "datetime": "2026-10-03T11:39:25.000Z",
+      "topics": [
+        {
+          "id": "materias-primas",
+          "label": "Materias primas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n62",
+      "headline": "Más allá del surtidor: ¿Cuánto petróleo consumimos realmente?",
+      "summary": "Más allá del surtidor: ¿Cuánto petróleo consumimos realmente?",
+      "source": "Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVC1tLWRZTDhNNWFCM3pqVXJVNTRfUGJSZGNIWmF2X0VoN2RCOG5MazVJQWpUYkFvYW5PQ0hxNklMRTJEeEJVSlhETVl0TjNfS214a0lyV2xIaEJNUlBTeUtxOUZyNGpIYmlMTUJwRlZsNm9VS3JTdWZzQXduYVhJT2NMSWp2OGs3YnIzVWhWQ3EzSG1nTkVHTHlQUFFtWGZRNHZDNjRFQ3lnd3pzOU1EYklSVQ?oc=5",
+      "datetime": "2026-10-03T10:51:00.000Z",
+      "topics": [
+        {
+          "id": "materias-primas",
+          "label": "Materias primas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n42",
+      "headline": "BNY abre la puerta a Kraken para llevar las criptomonedas a Wall Street",
+      "summary": "BNY abre la puerta a Kraken para llevar las criptomonedas a Wall Street",
+      "source": "Negocios.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSG1PZkdQS0xlNU5ZQU85YkZVRGVTZnZoQWQ0T21ncFpSQ0xxNmJGZ0tsM2NOXzFuYWNkWTMteGU5QVdEeUFBeS1zdUNkVy1BR3J5YXhaeU9nMDRtbkpia2loZGJPVldIalRKajBKajg1U0E3YmhHeGgtV1UySk4tanRyWTJhUml5QVhlbEtBQ2x1QU5WdXpnM1BaVFlhWjBQSXpvenZic3BwUGlNbVdpR1NMcVM5di1RRFUta2JLNVpLdzNJVXQyS3drbE3SAdIBQVVfeXFMT05oODFsSDF1TElxQVhtWDlTQVBlbHJpdGhVS0lMWTktV0xla2hfck1FWkFUbUF3c09YNnlHcUFud04wU2tJZ2RUNHBoV3VEYTFMbXdGb1Z6eHdSRUk4Y2tLeHZHMnVvenduRklKLUYwZEV2cjJaQ0hJalNTQkhrRVFMSTZER1c2RHdCbEt3QlRlRUpGNTFYYUFhS3JHSEF0Q3VPMU5tQ1J4UTFoWHFzU3pmRk1JbThkR1AxTDZ2M3gwendFM1FZaWlqRWVlRnZxcW5n?oc=5",
+      "datetime": "2026-10-03T04:51:53.000Z",
+      "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        },
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
         }
       ],
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n5",
-      "headline": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "source": "Reserva Federal (Fed)",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-      "datetime": "2026-10-02T15:00:00.000Z",
+      "id": "n67",
+      "headline": "Tras la imposición de aranceles y la presión de EU, México emitirá una declaración sobre la eliminación del trabajo forzoso",
+      "summary": "Tras la imposición de aranceles y la presión de EU, México emitirá una declaración sobre la eliminación del trabajo forzoso",
+      "source": "LatinUS",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNY2FnT0gyRG1oR1BBamRkVEpWT3Q2a0pSbUdHdkNxX2EtVElKWVd3Rjdid1NzME1GcnVBRk1Wc2JhNGI1MUpTLWJZVHBTOU5DeGJYZHJFZEJLQU1OUngzbWlVVndrN1RtdFI0YURSdnBpQm81M3FKUDdJRUc4SkxyN210T3JVWS1QTkxzeGRpamdIN0tIZ2hXWWJZRWZfazMzbjBYUURFc3ZDTy01eGtKVFNSamx0NGE1TEN0X3lLYVpwckQwZHdrTnVIQWxBVld1dFlmcWxSYnpKc2V5TVdvbEIyelZpdFJzM3pQVE5VQ0ZCaXFoNjdJNlFjWkkxLXPSAf8BQVVfeXFMTWNhZ09IMkRtaEdQQWpkZFRKVk90NmtKUm1HR3ZDcV9hLVRJSllXd0Y3YndTczBNRnJ1QUZNVnNiYTRiNTFKUy1iWVRwUzlOQ3hiWGRyRWRCS0FNTlJ4M21pVVZ3azdUbXRSNGFEUnZwaUJvNTNxSlA3SUVHOEpMcjdtdE9yVVktUE5Mc3hkaWpnSDdLSGdoV1liWUVmX2szM24wWFFERXN2Q08tNXhrSlRTUmpsdDRhNUxDdF95S2FacHJEMGR3a051SEFsQVZXdXRZZnFsUmJ6SnNleU1Xb2xCMnpWaXRSczN6UFROVUNGQmlxaDY3STZRY1pJMS1z?oc=5",
+      "datetime": "2026-10-03T02:13:00.000Z",
       "topics": [
         {
-          "id": "tipos-interes",
-          "label": "Tipos de interés",
-          "scenarioTag": "Tipos de interés",
+          "id": "comercio-aranceles",
+          "label": "Comercio internacional y aranceles",
+          "scenarioTag": null,
           "glossaryTerms": [
-            "Duración",
-            "Curva de tipos"
+            "Diversificación"
           ],
-          "note": "Los cambios en los tipos de interés de referencia afectan al precio de los bonos ya emitidos: cuanto mayor es la duración de un bono o fondo de renta fija, más sensible es su precio a este tipo de noticias."
+          "note": "Los cambios en aranceles o relaciones comerciales pueden afectar de forma desigual a distintos sectores y países, lo que conecta con la idea de diversificar entre regiones."
         }
       ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n1",
-      "headline": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "summary": "",
-      "source": "Banco Central Europeo (BCE)",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-      "datetime": "2026-10-02T13:00:00.000Z",
-      "topics": [
-        {
-          "id": "tipos-interes",
-          "label": "Tipos de interés",
-          "scenarioTag": "Tipos de interés",
-          "glossaryTerms": [
-            "Duración",
-            "Curva de tipos"
-          ],
-          "note": "Los cambios en los tipos de interés de referencia afectan al precio de los bonos ya emitidos: cuanto mayor es la duración de un bono o fondo de renta fija, más sensible es su precio a este tipo de noticias."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n2",
-      "headline": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
-      "summary": "",
-      "source": "Banco Central Europeo (BCE)",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
-      "datetime": "2026-10-02T11:30:00.000Z",
-      "topics": [
-        {
-          "id": "tipos-interes",
-          "label": "Tipos de interés",
-          "scenarioTag": "Tipos de interés",
-          "glossaryTerms": [
-            "Duración",
-            "Curva de tipos"
-          ],
-          "note": "Los cambios en los tipos de interés de referencia afectan al precio de los bonos ya emitidos: cuanto mayor es la duración de un bono o fondo de renta fija, más sensible es su precio a este tipo de noticias."
-        }
-      ],
-      "isNewScenarioCandidate": false
+      "isNewScenarioCandidate": true
     }
   ]
 }
