@@ -1,7 +1,9 @@
 {
-  "generatedAt": "2026-10-04T18:10:45.050Z",
+  "generatedAt": "2026-10-05T00:06:55.878Z",
   "status": "ok",
-  "feedFailures": [],
+  "feedFailures": [
+    "https://www.federalreserve.gov/feeds/press_all.xml: https://www.federalreserve.gov/feeds/press_all.xml respondió 404"
+  ],
   "coveredScenarioTags": [
     "Tipos de interés",
     "Inflación",
@@ -11,12 +13,111 @@
   ],
   "articles": [
     {
+      "id": "n59",
+      "headline": "Hackeo de Drift: la recuperación abre con DFX a casi un centavo por dólar perdido",
+      "summary": "Hackeo de Drift: la recuperación abre con DFX a casi un centavo por dólar perdido",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xb19xc0o1VFI3RHhJa2d5eHJTQXRMVXNRMEMzSEpFd2FMWndUeWt0Q2o4YWw1dGpMNkpkcVY3SGx3TER4LTkwU2NEX3RBOXdoVmhSLVR4MXh1SUp0cVgxcy1WUUs?oc=5",
+      "datetime": "2026-10-05T00:01:46.000Z",
+      "topics": [
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        },
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n23",
+      "headline": "Top 5 capas financieras que podrían impulsar el próximo mercado alcista de criptomonedas",
+      "summary": "Top 5 capas financieras que podrían impulsar el próximo mercado alcista de criptomonedas",
+      "source": "es.beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yTzRTRnJkSFdyaXhNZ3FPTVFpSEVWVWVqVEZSbEhWRDJtSTdqUGVnS05oUjgyME9fNENWdWdTcTNTMVlVZzlENUtxTlI2aV9tcl9nYkxrR3JMZkdXempiT0xaLTF0N25ibnpacjZGU3VQaHRxN1E?oc=5",
+      "datetime": "2026-10-04T23:24:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n58",
+      "headline": "Criptomonedas hoy: cotización de las principales divisas digitales al 4 de octubre",
+      "summary": "Criptomonedas hoy: cotización de las principales divisas digitales al 4 de octubre",
+      "source": "La Nación",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS2ZjR0dQclU5TDdYcktGMzFidEZRT2owUEhDUEpueWxFQml6akxrazRPS2oyNVRFdTMwSENFMnY4bDJrck8xVmVaZ2NXa3ZkMHVvVjRRY3lVM0JzdFJKOE9BWVZ1Z3lLMnRZSHVjOWpaOWpFZ1Zzcm9ZZ3pZT2Rueng1aHdQcVlmWlFLZWtMWWRTcDRXNUZYWnJHSG1YVU55UUdSNDF6T3Q3c3NDQmFCN1NXS29IakkwSEQ0d01CME9RWWtWZjVhSFhlSENZRGs?oc=5",
+      "datetime": "2026-10-04T23:00:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n49",
+      "headline": "Termómetro Bitcoin: el precio sube, pero el mercado pierde temperatura",
+      "summary": "Termómetro Bitcoin: el precio sube, pero el mercado pierde temperatura",
+      "source": "CriptoTendencia",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEVfeVctNkFfRldsdHhNZ0J6ZFpoWU05ODI0bDlhWS1IV1E3V0VkcjYtZkpja0VKT0M1Mk5QeGtXR210c1VMaEVwNGFjQmRRZXlUYWFwcG9QMGEzb2ZhbWVzR1dpXy0yTlZacnlPN2Faa1JWYTQ2TzRhcG1mNHJDRzlDVXNtS0FNVjNIZWhrTWVVS21zUFpuVjFDSmpRb25WczdxbWhRVmYtWW0x?oc=5",
+      "datetime": "2026-10-04T22:54:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n46",
+      "headline": "Brasil vota hoy: Lula promete más control cripto y Bolsonaro deja dudas",
+      "summary": "Brasil vota hoy: Lula promete más control cripto y Bolsonaro deja dudas",
+      "source": "DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjhOcTRDTEtnczI4aHdacHBIdWtHYkV0MVhBMWxVQnUxTGNhVXlzZDBCOGc2TkJvbGMyMTR0VmtleTlDZkR2SXl1d0J4d0lYaUgyTWNRS1dlSllzMEdfT3BacEpJZWNKLWxQWURmbm5TZ0NCd0t1SS1YSmdCLXpyMlhNM0pMeWFmc1lfTGVEUDd0NHRJNk5WTm9USHVNRjRxMmY2cDFHSzJDeVd4czU2WG1B?oc=5",
+      "datetime": "2026-10-04T22:17:18.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
       "id": "n17",
-      "headline": "Criptomonedas en Latinoamérica: resumen semanal del 4-oct",
-      "summary": "Criptomonedas en Latinoamérica: resumen semanal del 4-oct",
-      "source": "Criptotendencias",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHo5NG91MndILUlpNTloaDJDYXVJbWY1Z3JaZXdaTG5HOWw5X2hTbmlwZU44Z2FkM3cyUEIyQmpIRDgzVVA5VUJpOG9OdTdqNDBhZ3J2cXR4a1FaZWMzY0RZTnEtZmQ5SjZQcU14RGlISnZJTTRfdi1GdHpMNXBUWi03bDlheG9oSno0TnVxRWdzcTVmX3c?oc=5",
-      "datetime": "2026-10-04T18:01:44.000Z",
+      "headline": "Bitcoin entra en octubre con 4 problemas que podrían reflejarse en los gráficos",
+      "summary": "Bitcoin entra en octubre con 4 problemas que podrían reflejarse en los gráficos",
+      "source": "es.beincrypto.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tM3NkX1FpdUlKQkRrMG9GUHRzZlFLci1wcFZrRlFIM1pWNDhwV0xCejdKTWh2aklPTjZTNko5Y3pUa1V6VDZjdGVxRnJ3LUpZSU5vQUpudm9PeGFOWk44dkd1c21Sa3JteUI5cmNMWQ?oc=5",
+      "datetime": "2026-10-04T20:59:00.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -29,12 +130,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n27",
-      "headline": "Cómo intercambiar Monero (XMR) y Zcash (ZEC) sin KYC en 2026: guía práctica",
-      "summary": "Cómo intercambiar Monero (XMR) y Zcash (ZEC) sin KYC en 2026: guía práctica",
-      "source": "Criptotendencias",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMVZGVjhxX0s0eXRCX2RPMjFIY3M0c0xqSXN5UnY0bEFNUkRUQWdCMDB3b3k1c3d1R3V6TmRNVWM3M3I4VUotMlprTFVPWkFFVERPWWlzb09ScS1LTkIzTWxCaDY1T1VNOUFHam5yYkJMS0s0SmhfXzNZd3ZWRzNYRGc3ZU5CTlRtQTRDTW5VNzg?oc=5",
-      "datetime": "2026-10-04T16:24:12.000Z",
+      "id": "n18",
+      "headline": "Bitcoin encara octubre con cuatro frentes que amenazan su repunte",
+      "summary": "Bitcoin encara octubre con cuatro frentes que amenazan su repunte",
+      "source": "CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbkJPcFlvMHdPRmg1c1NBeTJnWTNSa0EzakpXSWs2RkM2aXBwVmNuUF9oaGRpSnVEN05YZFlCTUJJYzRSY2JVX2xnX1JfZ2RiNkhYNkZGTTQ4c2ZCbWFBakVuMnBMek5LTm9HcWlqR2cySnB5VF9FUWNVZUNrUW9SRkhlQWNjRzVBdEVCRGhkRnlBNy1jYjY4N3R3Yw?oc=5",
+      "datetime": "2026-10-04T20:32:00.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -47,43 +148,25 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n7",
-      "headline": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 4 de octubre",
-      "summary": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 4 de octubre",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlJ4a3BqTTFkTkEtYTBWMEsyd3IzQnlfb2JxaHZMNUJaRGY1UGhYN2hLS1VCOXNJY2lVZXpfVmFsaUJlYV9WUjRDYWF0dFRxa0RUU05ocWU4YmpXVzRpeFhJU2Etem9YX3lESmtRQ2Y4cWxkb0dFR2F3RngwQm45bGVHbkQweFJ0XzlZRzd4aTJKUHFRMWVVZldvVklxNE83WWNZYg?oc=5",
-      "datetime": "2026-10-04T16:17:00.000Z",
+      "id": "n62",
+      "headline": "La OPEP+ decidió congelar su oferta de petróleo hasta noviembre",
+      "summary": "La OPEP+ decidió congelar su oferta de petróleo hasta noviembre",
+      "source": "Efecto Cocuyo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTNLclZKUjBRSjNBWDZqOHBUR25XbndIdG5paGU4R1BLU3hMT25FaGNDcHFhTGcxQnJNVHd1Unk2bjJPMmJZZ2VNaEg0WXRzYzZYWFRTY0RKRGxCeDA1UDluUE9ScnA1WkNGLUh2T2JLTGI5YjJmZWdvQnRQdEtfcHVLOFdyY3ZPbmdlOG5Ha3E4cl9RdW45M0tUcTN6QQ?oc=5",
+      "datetime": "2026-10-04T20:13:37.000Z",
       "topics": [
         {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
+          "id": "materias-primas",
+          "label": "Materias primas",
           "scenarioTag": null,
           "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
         }
       ],
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n29",
-      "headline": "Predicción de Dogecoin: qué mueve de verdad el precio",
-      "summary": "Predicción de Dogecoin: qué mueve de verdad el precio",
-      "source": "CryptoTicker",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zc0RmbURBQ0RJWFJlX0JIT2NteGh5YmlxdkIwcklGZk9pb21nSmY2dXhzejZYd0R0VEhsTFpCNWJTMjdDVi1VaVYxWVEzcFJxa29jYzZJWXE3dHFIeHJQUmtGcmVJQXZsVEJFUERKNUtubV9pTGJNMU92bGx3YjQ?oc=5",
-      "datetime": "2026-10-04T15:36:20.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n66",
+      "id": "n65",
       "headline": "Cómo la guerra comercial entre Estados Unidos y Canadá puede afectar a los inversiones",
       "summary": "Cómo la guerra comercial entre Estados Unidos y Canadá puede afectar a los inversiones",
       "source": "Forbes Argentina",
@@ -112,43 +195,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n10",
-      "headline": "90% de las redes de criptomonedas generaron menos de USD 1.000 en comisiones",
-      "summary": "90% de las redes de criptomonedas generaron menos de USD 1.000 en comisiones",
-      "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdFl1bWhSdGh5aGJEZzBlWUZXaE5oZWJWZ1RVVmNLR3VvdXBTMndTeklvS1hzQWpJT21hVk9mRm1MMTVCbmZCMy1oU1ZTYjdMa1NfblVodlF4Y2x1M3BISVVMeXF2MjdQSjVNNG9FdXF4LVZjaVY5TWVkMDhtQjlKaEdQc0FPQ3VBNmstZGg2NC1fTEVtV0NKV251Sm0tcTF0ckVCSlVMNHo0V3JG?oc=5",
-      "datetime": "2026-10-04T14:52:00.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n63",
-      "headline": "La OPEP+ decidió congelar su oferta de petróleo hasta noviembre",
-      "summary": "La OPEP+ decidió congelar su oferta de petróleo hasta noviembre",
-      "source": "Efecto Cocuyo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTNLclZKUjBRSjNBWDZqOHBUR25XbndIdG5paGU4R1BLU3hMT25FaGNDcHFhTGcxQnJNVHd1Unk2bjJPMmJZZ2VNaEg0WXRzYzZYWFRTY0RKRGxCeDA1UDluUE9ScnA1WkNGLUh2T2JLTGI5YjJmZWdvQnRQdEtfcHVLOFdyY3ZPbmdlOG5Ha3E4cl9RdW45M0tUcTN6QQ?oc=5",
-      "datetime": "2026-10-04T14:35:51.000Z",
-      "topics": [
-        {
-          "id": "materias-primas",
-          "label": "Materias primas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n53",
+      "id": "n48",
       "headline": "FMI desembolsa 138 millones a El Salvador tras negociar condiciones sobre Bitcoin",
       "summary": "FMI desembolsa 138 millones a El Salvador tras negociar condiciones sobre Bitcoin",
       "source": "Cripto247",
@@ -176,7 +223,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n49",
+      "id": "n53",
       "headline": "Minería Bitcoin: septiembre genera 1,12 mil millones de dólares para los operadores",
       "summary": "Minería Bitcoin: septiembre genera 1,12 mil millones de dólares para los operadores",
       "source": "Cointribune",
@@ -203,7 +250,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n19",
+      "id": "n24",
       "headline": "El Salvador recibe 138 millones de dólares del FMI tras la concesión de dispensas sobre Bitcoin",
       "summary": "El Salvador recibe 138 millones de dólares del FMI tras la concesión de dispensas sobre Bitcoin",
       "source": "TradingView",
@@ -230,35 +277,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n59",
-      "headline": "Bitcoin puede subir 34% según Citi si llega una ayuda de Wall Street",
-      "summary": "Bitcoin puede subir 34% según Citi si llega una ayuda de Wall Street",
-      "source": "iProUP",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLWhNdU02cHZseloyakxZcWxyV05nU3hFNFBpYUVOM3l0ODNXMVRHNzQyOUlCXzlHbkNTeXZGejY3bDdmZnQ0NzU3Zm5ZYVBkVXZ3MkhwVWtGMjNnMVBTR0E3eTI5UFJfOXZCRFpNWi0zMTh6dF9JU05XVlhUajRjMUVWVnhzOE9lZmJISjhPRXd6N3g3bDBfaE05R0xUOTBDVUlkNGRJZjExeVFDY2xocU5XbmRlcC1VTlFoM1E2S1pyVXdKQnM5RGN30gHPAUFVX3lxTFBVZ0hsT0pSZ185T3FDSUY3QnJObC0xQ1ZzYko4bVUyUkxRcER6aURkaUFFNmFjM0MtUWl4cWdVeVRKeXAxSVF2X1V6bGNsMXVkUi1GQUY1R3dwU3VYTHppSHVEMGNTVDR3Mkc1dHpjcU10aFRHb3hqend4V3pjZmJQX0dlWmg0UGdWUDExX3RUNmFvUTBZOENtSjBmbG9fMmRGaElYX0d4NTNMUXk5TFhiNGpYeXFQMzFrTXBpMUw5WC1KbVZtSDA0LWpRUlowNA?oc=5",
-      "datetime": "2026-10-04T07:02:35.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n3",
+      "id": "n1",
       "headline": "Hay menos inflación donde funciona la competencia: los 40 productos que se salvan en el IPC",
       "summary": "Hay menos inflación donde funciona la competencia: los 40 productos que se salvan en el IPC",
       "source": "Vozpopuli",
@@ -281,7 +300,7 @@
       "id": "n68",
       "headline": "Así cierra el mercado informal en Cuba: Dólar y euro finalizan el día al alza",
       "summary": "Así cierra el mercado informal en Cuba: Dólar y euro finalizan el día al alza",
-      "source": "cibercuba.com",
+      "source": "CiberCuba",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZE04MHJUVTFQU0owZVJBS3h5TzVOUFUxeHlIRGQxZTl3cjVVek1FaTNVel9uN0JXNkRBdE4zanZRYWJsSkdjcmRnY3RaNEFtRUZOZy02d0U1dXJQcXVzQnR1UHdxT3prLWQ5b0k2TlRFQ3M3T2VqYkJhd1l3NndzWW5uTksxSTJjMVRZQTdCSFJ5UlNyLWI5WERIc1p5OVg0OV81MUF5ZXBaUndqRURFZjI5VWdsVnB20gG4AUFVX3lxTFBkTTgwclRVMVBTSjBlUkFLeHlPNU5QVTF4eUhEZDFlOXdyNVV6TUVpM1V6X243Qlc2REF0TjNqdlFhYmxKR2NyZGdjdFo0QW1FRk5nLTZ3RTV1clBxdXNCdHVQd3FPemstZDlvSTZOVEVDczdPZWpiQmF3WXc2d3NZbm5OSzFJMmMxVFlBN0JIUnlSU3ItYjlYREhzWnk5WDQ5XzUxQXllcFpSd2pFREVmMjlVZ2xWcHY?oc=5",
       "datetime": "2026-10-04T00:38:58.000Z",
       "topics": [
@@ -298,7 +317,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n65",
+      "id": "n64",
       "headline": "Controlar los precios de las materias primas al final del año.",
       "summary": "Controlar los precios de las materias primas al final del año.",
       "source": "Vietnam.vn",
@@ -316,7 +335,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n44",
+      "id": "n41",
       "headline": "Precio del bitcoin el sábado por la noche: 84.828 dólares y 75.348 euros",
       "summary": "Precio del bitcoin el sábado por la noche: 84.828 dólares y 75.348 euros",
       "source": "CryptoTicker",
@@ -343,27 +362,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n69",
-      "headline": "Así amanece el mercado informal en Cuba: El dólar arranca al alza y el euro también sube",
-      "summary": "Así amanece el mercado informal en Cuba: El dólar arranca al alza y el euro también sube",
-      "source": "cibercuba.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYzZKa1NlREJEeThjSVBhXzc0dGR1NmM5ell0dlJIY3JzSUxXX1BIdDg3STMwZTVQYzNGdVhhLURLbTRBMjF6MFlnOUJzMUQxUVJ2N05nQkcwQkFoV1dxWlJtak91QlRnZWtkaFlPbk5teWYybnVybHRTV09sOWo1bUI4RDRfbWpMc09QYm1GMEF0S3NzcmozMUxJMEFlQmFuTWlWNm14Q0YtSGtnVlhNWVdwSXJWS1JwTkFuc213UFVKd9IBwgFBVV95cUxPYzZKa1NlREJEeThjSVBhXzc0dGR1NmM5ell0dlJIY3JzSUxXX1BIdDg3STMwZTVQYzNGdVhhLURLbTRBMjF6MFlnOUJzMUQxUVJ2N05nQkcwQkFoV1dxWlJtak91QlRnZWtkaFlPbk5teWYybnVybHRTV09sOWo1bUI4RDRfbWpMc09QYm1GMEF0S3NzcmozMUxJMEFlQmFuTWlWNm14Q0YtSGtnVlhNWVdwSXJWS1JwTkFuc213UFVKdw?oc=5",
-      "datetime": "2026-10-03T16:05:09.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n64",
+      "id": "n63",
       "headline": "Más allá del surtidor: ¿Cuánto petróleo consumimos realmente?",
       "summary": "Más allá del surtidor: ¿Cuánto petróleo consumimos realmente?",
       "source": "Investing.com México",
@@ -381,7 +380,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n62",
+      "id": "n61",
       "headline": "Más allá del surtidor: ¿Cuánto petróleo consumimos realmente?",
       "summary": "Más allá del surtidor: ¿Cuánto petróleo consumimos realmente?",
       "source": "Investing.com España",
@@ -399,7 +398,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n42",
+      "id": "n38",
       "headline": "BNY abre la puerta a Kraken para llevar las criptomonedas a Wall Street",
       "summary": "BNY abre la puerta a Kraken para llevar las criptomonedas a Wall Street",
       "source": "Negocios.com",
@@ -427,7 +426,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n67",
+      "id": "n66",
       "headline": "Tras la imposición de aranceles y la presión de EU, México emitirá una declaración sobre la eliminación del trabajo forzoso",
       "summary": "Tras la imposición de aranceles y la presión de EU, México emitirá una declaración sobre la eliminación del trabajo forzoso",
       "source": "LatinUS",
