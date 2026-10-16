@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:44:56.673Z",
+  "generatedAt": "2026-10-16T02:22:53.713Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,12 +11,12 @@
   ],
   "articles": [
     {
-      "id": "n32",
-      "headline": "Las principales criptomonedas avanzan; el bitcóin supera la cota de los 82.000 USD",
-      "summary": "Las principales criptomonedas avanzan; el bitcóin supera la cota de los 82.000 USD",
-      "source": "MarketScreener España",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMjR5WHAxY0laZzZYLTc4X21mb0JNOW1hUTBHVUNMWGNPVC1rLVVmLTF2cnhXZTJ2VnZMSjVSUlE3YUN1bUhCUFpHa00yYnIycUlVQVFPeFc2ZkIyWE9xQnh3YzlCX3FRNzhib1doaUEzVWVYV2lUNmhPcFVWazJuemJYZDlnRkdXQUlJM0hCQWI1QmF1OWpVUkVsWklGM2NBMjFHMnIwSDg1YzRQVzVuS2p1WmFhSEFJamhJZE5hTklnVWstNml1MWpnWWRnYTVqTXhJ?oc=5",
-      "datetime": "2026-10-15T19:55:14.000Z",
+      "id": "n65",
+      "headline": "Criptomonedas en México: Binance ubica al país entre los 11 con mayor adopción del mundo",
+      "summary": "Criptomonedas en México: Binance ubica al país entre los 11 con mayor adopción del mundo",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXpWVTFOeUpua3hRc25VLXNaZXBxSG42TmRNU041NXU4U28tUmthc2tsSWFyTi1hNG5INUhCbFA5WkhSY2RvRVRQSDJXVWExaFZlcDRsZ2hNWDZfa21ENXRhaTZwUHpPNTZkNjMwNURWbENiSTZENWlXbGFWNlVicG0xcnJwRDYtU196WURR?oc=5",
+      "datetime": "2026-10-16T01:01:43.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -29,12 +29,66 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n52",
-      "headline": "Argentina reordena reglas para plataformas de criptomonedas desde noviembre",
-      "summary": "Argentina reordena reglas para plataformas de criptomonedas desde noviembre",
-      "source": "BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGJIYVE2OEFHT245YjZqRUVhcWtaenVRYllpSG1yRUkzRDRkU2hpSWdpYVB1Ni12S0pDV1lyTGI4dEFhMVo2QnBVSlVMdXdLeUtKVzBsZWdxcHMtMFBhSDJTNGFHV2hXZ3dsSVRlTnI2NnRhbUxUOHhlRXhwcHpfbFlMbXlERlhIbE9WR2lkeWc?oc=5",
-      "datetime": "2026-10-15T19:51:00.000Z",
+      "id": "n37",
+      "headline": "Bitcoin Rainbow Chart: qué muestran las nueve bandas",
+      "summary": "Bitcoin Rainbow Chart: qué muestran las nueve bandas",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TWVdfSS13ZDFCcHI1Rm80YzAzOEw4MmVXQWc5UE4xbjl6M3BjS1Y5WlFfNDZCVFNYQXJad3RVT2xYYVlZdzQ0YVlVc1NwMnV4Q1lBVWdzN2Q1by1CWFctT3ZZbWpKNWUweTdv?oc=5",
+      "datetime": "2026-10-16T00:45:31.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n28",
+      "headline": "Precios de producción 6,3 %: bitcoin y el 28 de octubre",
+      "summary": "Precios de producción 6,3 %: bitcoin y el 28 de octubre",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zRzQtdnZGYUwwT1hNdlhCUDNtM0hvWVkxYkVSelNkQVV6YUZJeUk4T1JUOEswbUoxUWllYnl0c2tTSERlbmVYLUQzNkpObURWTk5QZTlIS3RKcVNSYjlVWVpzaWVxRTh0RldsYnFvU2Z6UzV4Y0Nj?oc=5",
+      "datetime": "2026-10-16T00:36:31.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n76",
+      "headline": "USDC: la ABE asume la supervisión el 12 de noviembre",
+      "summary": "USDC: la ABE asume la supervisión el 12 de noviembre",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaR0piWEw1a3VoM09WWVJSUFJlVW1CMkttNlV0VDdwejdMLWlHVnpYTklfdnBLSldqNDNsNEdQazFYajIyTktfeTlvUnNoT01vQzRNX2ZJbGREVDl5aHZBYkNlX3hEaWdnRDg4QUEwOUs0NU5FMVE?oc=5",
+      "datetime": "2026-10-16T00:29:32.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n33",
+      "headline": "Hackeos en criptomonedas dejan pérdidas de USD 1.180 millones en un trimestre",
+      "summary": "Hackeos en criptomonedas dejan pérdidas de USD 1.180 millones en un trimestre",
+      "source": "CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnptbTVXbFFrdHBwWUUyZkpTc2dSbTdRWTlEcGRaZEgtTHFaN0dQYzhjLXctMDdDV0tWUGFYOGJpY1QxZzRYVHl5WGlpakxmdl9KV2tQYk9ZanFLTGtCR0FQRXRXRlp0a0NDNHotUUk1bnpzUXZaMlNjdXdrQ0RZOTRDbUpUeW16ck9XeThNeVRDQ2FtLTZIdnVyelo?oc=5",
+      "datetime": "2026-10-16T00:15:00.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -48,12 +102,21 @@
     },
     {
       "id": "n78",
-      "headline": "Comprar Dogecoin en España: guía paso a paso con euros",
-      "summary": "Comprar Dogecoin en España: guía paso a paso con euros",
+      "headline": "Ledger manipulados: un estafador pierde 4,8 millones de dólares robados en Asia",
+      "summary": "Ledger manipulados: un estafador pierde 4,8 millones de dólares robados en Asia",
       "source": "Criptotendencias",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UT0xzYUxqQWZVb1pBVDV6TlNhWWxPQ1h4emVKcE1Wak1MYjIzaWNLejNVbXNoSy1rU1UwOVFhclJKYXlwTzhNVkxNdWZlM1dpeDdhajBpdW1sWGl6ZGNIazNBcDBpaE8zTEdHWVRkQnlhOTB3TGc?oc=5",
-      "datetime": "2026-10-15T19:01:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OeEZmSFJheDYweVZ1VVlVa1oyYTEtVVZSQlJ6SU5HNE5OUHNZbWdDclJPSmNicEdsNkVjbVlSWjR0QU9NOUdDbEdwMGpfai1Jdy05VG5zYjFad1BJb0UzWWN3WEtERTZveS1BTWZHYw?oc=5",
+      "datetime": "2026-10-16T00:01:49.000Z",
       "topics": [
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        },
         {
           "id": "criptomonedas",
           "label": "Criptomonedas",
@@ -65,31 +128,23 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n31",
-      "headline": "Aave: Babylon quiere bitcoin nativo como garantía",
-      "summary": "Aave: Babylon quiere bitcoin nativo como garantía",
-      "source": "CryptoTicker",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55eTRjRlc2eHQwUHNkRlRQaHZlM2U0c05Qd3IycDlIaDAzU29ia2lxSGtTYVJuczZSYWFQTFhfTjlaWWF4cGJFajEtLXZPdUdnOEpWT1lRN1dzSGV5WklwYzlhUGl1bE56?oc=5",
-      "datetime": "2026-10-15T18:53:22.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n55",
-      "headline": "Arthur Hayes apuesta por lo que viene tras el crash de la IA",
-      "summary": "Arthur Hayes apuesta por lo que viene tras el crash de la IA",
+      "id": "n90",
+      "headline": "Grayscale señala que la volatilidad de Bitcoin cayó a 43%: se ubica en el rango del S&P 500",
+      "summary": "Grayscale señala que la volatilidad de Bitcoin cayó a 43%: se ubica en el rango del S&P 500",
       "source": "BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KQ1N6SFRhcmEtaEkxTm4wd2FKRVhiX2FGejNVUGFQRGg2WG5qMjNKUkNNVkh2ejl4WENzeEd1bjZVOTZRZjQ2d3dpdkZJNHFZZTVYVFozb0JzZzNMZEVBam5rdUtISnBMSjViMlZTU04zLWc?oc=5",
-      "datetime": "2026-10-15T18:33:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlpFUlE0b3NWWVJEZ0hKbkNpek9jZUlvTXVhWExHWWlCelFrZlpYaFZ3RjZtZWp6Qks5aURObGxpMUk2dlRfd2JIRWFxRzd2RWk0aHplTXhjZUVZeFlCeDljemVFNlVVbTdHSXBmVm16TU9tWDBPNWdlM2ZQbTc0dWxIRDdBSmx3djBmRzdjQmM?oc=5",
+      "datetime": "2026-10-15T23:34:00.000Z",
       "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        },
         {
           "id": "criptomonedas",
           "label": "Criptomonedas",
@@ -98,10 +153,30 @@
           "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
         }
       ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n112",
+      "headline": "Dólar hoy en México | Bancos venden hasta en $19.10; consulta el precio del euro y otras divisas",
+      "summary": "Dólar hoy en México | Bancos venden hasta en $19.10; consulta el precio del euro y otras divisas",
+      "source": "Sociedad Noticias",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkVVS29VUlJhbUotMU5SYW0tc0stQU1XUVoyN3BnTzVTLWV0MTl4TTFiTmEtS3ZVNEN6RGZaU1cxc2VnY284anZTZHlFNkNTYzJLMV9KN2ZXV1FfQXFSWXJSU3NveUdDMllxVkZENDZkWDlaQUt4c0RYM1U1V1MySW56YVZBY3ZaY2dDWGtTWE8yU21zUV82WmxEZXJkNnlGcmp3bWJfSnZacUZQTEFxR1RITUtVSjdDdnJncU5rcmsydno2TTlKZUxjeFNpM0E?oc=5",
+      "datetime": "2026-10-15T21:09:31.000Z",
+      "topics": [
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n35",
+      "id": "n43",
       "headline": "El Bitcoin rebota hasta 82.000$ mientras el IPP alcanza el 6.3% y se liquidan casi 1.000 millones de dólares",
       "summary": "El Bitcoin rebota hasta 82.000$ mientras el IPP alcanza el 6.3% y se liquidan casi 1.000 millones de dólares",
       "source": "FXStreet",
@@ -128,7 +203,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n2",
+      "id": "n1",
       "headline": "El IPC sube al 4,9% en septiembre y el descuento al combustible seguirá en 20 céntimos en noviembre",
       "summary": "El IPC sube al 4,9% en septiembre y el descuento al combustible seguirá en 20 céntimos en noviembre",
       "source": "Europa Press",
@@ -148,7 +223,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n43",
+      "id": "n57",
       "headline": "Bitcoin cae por debajo de $80,000 mientras la venta de acciones de inteligencia artificial impacta en las criptomonedas.",
       "summary": "Bitcoin cae por debajo de $80,000 mientras la venta de acciones de inteligencia artificial impacta en las criptomonedas.",
       "source": "Quartz",
@@ -176,34 +251,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n81",
-      "headline": "La inflación de EEUU y el miedo a la IA golpean con fuerza a las criptomonedas",
-      "summary": "La inflación de EEUU y el miedo a la IA golpean con fuerza a las criptomonedas",
-      "source": "Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94bl8zOEc0TExuTHJIajZaQnJhZVJWMUliNExjbUwxUDhhNzNKSGlsQW9iQmlKWWpUb0RGSHZCVmQteFF2MFRHeUp1MUw5SFRfcHNLeWtCckNqa0RxZ1ow?oc=5",
-      "datetime": "2026-10-15T14:59:15.000Z",
-      "topics": [
-        {
-          "id": "inflacion",
-          "label": "Inflación",
-          "scenarioTag": "Inflación",
-          "glossaryTerms": [
-            "Rentabilidad histórica vs. futura"
-          ],
-          "note": "Una inflación distinta de la esperada cambia la rentabilidad real (descontada la inflación) de cualquier inversión, y puede erosionar el valor de cupones fijos pactados de antemano."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n105",
+      "id": "n106",
       "headline": "Materias primas en Canadá: evolución dispar del petróleo mientras continúan los combates en Oriente Próximo; el oro sube",
       "summary": "Materias primas en Canadá: evolución dispar del petróleo mientras continúan los combates en Oriente Próximo; el oro sube",
       "source": "MarketScreener España",
@@ -221,34 +269,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n99",
-      "headline": "La inflación al productor en EE. UU. sube a 6,3%, la mayor desde 2022: qué significa para bitcoin",
-      "summary": "La inflación al productor en EE. UU. sube a 6,3%, la mayor desde 2022: qué significa para bitcoin",
-      "source": "Criptoinforme",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1ZubEh3cVlkQThYVGYya04zVTFEdnBLLTVxLVRpSjVSUnM4YkJlWXFqSlUxY1J2VUpTUURvNUpVajBqT1FPNTl5LU5VTVBvNzlFYlVWRUtYT2tzSk56R1JYdE5WLXJiaTR0LXJFRkRkRHhpdmt4R3hOUHlKTWVYT21xOA?oc=5",
-      "datetime": "2026-10-15T14:16:22.000Z",
-      "topics": [
-        {
-          "id": "inflacion",
-          "label": "Inflación",
-          "scenarioTag": "Inflación",
-          "glossaryTerms": [
-            "Rentabilidad histórica vs. futura"
-          ],
-          "note": "Una inflación distinta de la esperada cambia la rentabilidad real (descontada la inflación) de cualquier inversión, y puede erosionar el valor de cupones fijos pactados de antemano."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n64",
+      "id": "n77",
       "headline": "Analista prevé bitcoin sobre 175.000 dólares por cambio de mercado",
       "summary": "Analista prevé bitcoin sobre 175.000 dólares por cambio de mercado",
       "source": "Cryptonews.net",
@@ -275,12 +296,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n67",
-      "headline": "Analista de 21shares ve bitcoin en 90 000 dólares tras IPC caliente",
-      "summary": "Analista de 21shares ve bitcoin en 90 000 dólares tras IPC caliente",
-      "source": "Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80V0E3YUZjNmI4Tkc0M2ZvRFpHMDcwUXZSYmppbFhsSkgzNHBpMVYyT3BySWNPUzdYaXRuWjVXeHVyRWJMTWt5OGhsbU93UDlrX3NuUG9lQkpEbTFh?oc=5",
-      "datetime": "2026-10-15T13:20:48.000Z",
+      "id": "n5",
+      "headline": "Euskadi actualizará un 3% el IRPF para frenar el golpe del IPC con los ingresos en récord",
+      "summary": "Euskadi actualizará un 3% el IRPF para frenar el golpe del IPC con los ingresos en récord",
+      "source": "El Diario Vasco",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXJuX0NjeXBKSm1aSGxpdm5haUkyVjBiTXFqeC1ER29fc2hGQjFOY0FEeG02TWdubjdZamJXajJiWnJacVU3Zm1YeUVndEN4Smdma3A3Rnc3TV8wTWszQ0YxZ3lDX1Z1XzFPMU42cFA1TFpjNEpPLVh4MDFOSTJDTTJLeVBMcjNrRkpudUc2Qkl2YzQtQTZsWU8ybmZXRDN4ZWE4OG1yTloyQkxaM1NLUNIBtgFBVV95cUxOWUV1VUtiMzVrOTFTN0hDUW9Za1dQdjJNT3d1c3VORmFnUDBKMklQa1Bxb0tIbkVqcF9vNzZjb3MwQXFveE5yOExqQ1ZmSVdFR3FERk9QaWY5cGc0QzZqM2ZZcFgwWUVYRzlONms3eXhnelpSSVhBMk1DWnBUNGtFX3VPVEQzWGJyd1NNT2ltVURKLXhmbVNqUVAyWnJRb2FOcXA5eHhMYUdBNUZWVnd6c015WmN2QQ?oc=5",
+      "datetime": "2026-10-15T12:27:51.000Z",
       "topics": [
         {
           "id": "inflacion",
@@ -290,50 +311,6 @@
             "Rentabilidad histórica vs. futura"
           ],
           "note": "Una inflación distinta de la esperada cambia la rentabilidad real (descontada la inflación) de cualquier inversión, y puede erosionar el valor de cupones fijos pactados de antemano."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n51",
-      "headline": "Bitcoin, cobre, acciones, rendimientos todos caen; el oro sube",
-      "summary": "Bitcoin, cobre, acciones, rendimientos todos caen; el oro sube",
-      "source": "Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TcEV3X3p3Zk5jcS1CdXVyMFdJa2lQNVZXVFI3aTRjZmJIeDFDNnY3QVh5cXpsbWhVSk91Y2pzTWwycF9FdWVVY2kxUnZWZm1IQVZHNmtWR3ZiWkowVVI4?oc=5",
-      "datetime": "2026-10-15T12:03:42.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
         }
       ],
       "isNewScenarioCandidate": false
@@ -367,7 +344,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n108",
+      "id": "n109",
       "headline": "Por una política industrial soberana",
       "summary": "Por una política industrial soberana",
       "source": "El Comercio Perú",
@@ -387,34 +364,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n95",
-      "headline": "El precio del Bitcoin se desploma hasta los 80.000 dólares.",
-      "summary": "El precio del Bitcoin se desploma hasta los 80.000 dólares.",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KX3dVTHdsOGlRTmRtWjltVU02QVc0Ql9rYjdseGk4aDVtRjctem1pSTNFUW0tWlI2MUZJMjAtVEZqWVlsUkFOU2g3UllyVlQtLW44UDUwVVZnY3Q2VVB1YW5pRzlPNF9sMzNR?oc=5",
-      "datetime": "2026-10-15T09:13:57.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n82",
+      "id": "n97",
       "headline": "Bitcoin cae 4% y Ethereum 6,5% por la inflación en EE.UU.",
       "summary": "Bitcoin cae 4% y Ethereum 6,5% por la inflación en EE.UU.",
       "source": "Cryptonews",
@@ -441,7 +391,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n106",
+      "id": "n107",
       "headline": "Materias primas relacionadas con el FX",
       "summary": "Materias primas relacionadas con el FX",
       "source": "FXStreet",
@@ -459,7 +409,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n109",
+      "id": "n110",
       "headline": "Déficit comercial con China crece 4.8% pese a aranceles de México",
       "summary": "Déficit comercial con China crece 4.8% pese a aranceles de México",
       "source": "El Economista",
@@ -474,6 +424,33 @@
             "Diversificación"
           ],
           "note": "Los cambios en aranceles o relaciones comerciales pueden afectar de forma desigual a distintos sectores y países, lo que conecta con la idea de diversificar entre regiones."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n21",
+      "headline": "Bitcoin cae a mínimos de un mes en 80.000 dólares por las apuestas a subidas de tipos",
+      "summary": "Bitcoin cae a mínimos de un mes en 80.000 dólares por las apuestas a subidas de tipos",
+      "source": "Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTXNGZVhnWjVGSU9lMjRremdFc0VPYm5Qb0tBUlR0SHBVM0c1NG1NQjFCYzUyYUl2LVdEOEQ4MkFGUmdvUzJQSGZIYmNuRzBYMkVuRDhIZE9KclJzWVZ0NHY3WEIxRF81WFZyVHNRdmhXN2s2TFExbkJjakhyT1EtWmNVVjlxblpMQ1p0YjdsOVdienU2bGN2czFTWVFOWnNHZUhOLVRvY0g3T1FzZTVyaTBvZDFqcEhjd1lnUnNoRWwwUHhVYnhIWllhU3RfRzk5TlRmNg?oc=5",
+      "datetime": "2026-10-15T05:55:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
         }
       ],
       "isNewScenarioCandidate": true
