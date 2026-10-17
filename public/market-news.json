@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T14:41:46.725Z",
+  "generatedAt": "2026-10-17T19:52:33.133Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,7 +11,124 @@
   ],
   "articles": [
     {
-      "id": "n48",
+      "id": "n63",
+      "headline": "¿Cuándo recuperará el precio de Bitcoin su máximo histórico? Datos del ciclo dan una pista",
+      "summary": "¿Cuándo recuperará el precio de Bitcoin su máximo histórico? Datos del ciclo dan una pista",
+      "source": "BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNEQxcFFaZVVQY3lRbWxsbmRRZFU4SzZNTFFFNndsaW8ydzd3eW1oLWltTjYxeEZIUUxtQndjZUlzU2FjdVBzNkgtSDlzYlc0WUpLVlVYNFhJbTJ4b1Q3bTJRQjFSNEwzSGpLLWw5aVRpc2VUNHF3NU5zMXAxQTIydURwdTVhRnpRb3c?oc=5",
+      "datetime": "2026-10-17T19:30:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n39",
+      "headline": "El euro digital llegará para complementar el efectivo, dice Lagarde",
+      "summary": "El euro digital llegará para complementar el efectivo, dice Lagarde",
+      "source": "CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjlnYzhPUm1uYTQ3Tm5CdFlUOVJ4RmlSV180bUhTdGdYckRqVE9SSW4xNHVDVlJaa3JyWi1nRXNwcWxwTTVoYnhxaDBIbDdCR1N5ZmpUazZHTmdnck1TMThMZ2NkaFIzeUlCbmVwNjM0bjFITFAzNnl2Wkhhc211Mk42NEJuWHFwN2d0Y3R1WHVSdmZfc3hyQlhQQVV5NjNCODNr?oc=5",
+      "datetime": "2026-10-17T18:49:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n43",
+      "headline": "Vitalik Buterin revela por qué la IA podría expulsar a los mineros de Bitcoin",
+      "summary": "Vitalik Buterin revela por qué la IA podría expulsar a los mineros de Bitcoin",
+      "source": "BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTTzA4Zkp4SDRjbkZHaG9VOXEwU3Z0RUEzN29vMWJ5NkVjVlBRTEl5V1pFTkxPSU5uYTRiMWNPVUpDWXZUcDVSeVB1NDVjTlZZNjZIWHIwbGxlM0FqV2huekJrcWZxeWdXb1FjTFJRTlhJbmtPN2lTYTdn?oc=5",
+      "datetime": "2026-10-17T18:27:36.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n58",
+      "headline": "Predicción Solana: la base de stablecoins baja a 15.960 M",
+      "summary": "Predicción Solana: la base de stablecoins baja a 15.960 M",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WeG85OTZVR3RQR09HRWxDekV0OXg5RE5td251dzNveEUxRjg4am9hZzNnSzk3OXlRaTd6ckF2cDlGZFkxMVBvMDZfc0lQUnEybmZLSnNTTG1rZ2FRMV9DeDhSTURyblFsa2dQYlFyci01YVdOR1FB?oc=5",
+      "datetime": "2026-10-17T18:22:34.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n17",
+      "headline": "Comprar bitcoin cuando nadie habla de él, la estrategia que plantea Willy Woo",
+      "summary": "Comprar bitcoin cuando nadie habla de él, la estrategia que plantea Willy Woo",
+      "source": "CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONjRISGh2OHZfMGNIWWpRcEVFcnRNcVA2OF81ZXZwWFJBaDlrRk9COFRIaDZybDhvUWF2YWVjeTRiMXBaMUdjcV9HZHhhMThlVnNjMjJsWkM5TzIzS2ZqT3ZRSnRoVzdQNTZvOVV0OEUwd0NOTktzdjkxZEVHRmdhZFdEZXRJdTZsTmZhbFJBWHg3cnpnRUVV?oc=5",
+      "datetime": "2026-10-17T18:21:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n19",
+      "headline": "Predicción de Bitcoin: 12.200 millones de dólares en opciones vencen el 30 de octubre y qué puedes hacer ahora",
+      "summary": "Predicción de Bitcoin: 12.200 millones de dólares en opciones vencen el 30 de octubre y qué puedes hacer ahora",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeEVlS0ZhZGJFNmNhbklDcTZ3T1RTS19Cc24xSXNNTW1ab0VwOEZIT1FIbXY0cUV6RG1FUnY4RmQ3ZDQwZndSN0h3cV8xMG1OZWotcGVLcWJpaENyRll5dExfYl9LRmxHNWJ2RDNLNl95bTRpQVlwYlRpbkhGLWp4Tk1hMGJaNFdQ?oc=5",
+      "datetime": "2026-10-17T15:20:50.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n55",
       "headline": "Analista de Bloomberg insiste en colapso de Bitcoin a USD $10.000 si las acciones bajan 20%",
       "summary": "Analista de Bloomberg insiste en colapso de Bitcoin a USD $10.000 si las acciones bajan 20%",
       "source": "DiarioBitcoin",
@@ -39,79 +156,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n83",
-      "headline": "Claude resuelve un misterio criptográfico de la NSA de 25 años: qué significa para Bitcoin",
-      "summary": "Claude resuelve un misterio criptográfico de la NSA de 25 años: qué significa para Bitcoin",
-      "source": "DiarioBitcoin",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdERsakh6UzlmdDh3SmtMSnhQM0RTMF9RRVJIUFdBS2oxR1pxY25wbDR6MHU2RF9mb18zLUtSNnJCckpYcEtScnVSekJBN0Nzb3phRW1PY3BscFRWMjUyclJ1Qm9vbGZtNDhVTDZlb1V5TmIzbXQ1OWIxTy1yRFpjWDdPSEc2aUtyNC1GWU1WeXd4Z1d3NE1sNzRPeHBwQ2pwVGZFSEY5MUVhV0VmVjQyVktzQ3JwOFZmTjZPMEloTUhGT0xBR0pwRGZXVQ?oc=5",
-      "datetime": "2026-10-17T14:39:21.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n36",
-      "headline": "Arthur Hayes dice que OpenAI y Anthropic no valen nada y ve al bitcoin como ganador de un rescate",
-      "summary": "Arthur Hayes dice que OpenAI y Anthropic no valen nada y ve al bitcoin como ganador de un rescate",
-      "source": "DiarioBitcoin",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYWtheFBHb19yVU9HOFNmTnZ6bEdwS3NGemRWczRYX2RaaThhRFZCd2tVYUdod2NlOTdOTVpQckcyeGtnSTVHTXB0VXJoMXNXRjVaLWxsMy1ZTjlqOVFNRkZPNkpzT2VHVFN5b2NGbXVlMHdicnc4aHFyTlpuU0ltT1Bzd2RVRHZGZUhUbndLNTlITXdTaDVhQ3A5bWFPbGNVSVhhcVFCT0pURW4yWFZRX0RlcmVPaVpManFHSUJ6ci1NU2NGcEZIUnU1X281RU1ieDRz?oc=5",
-      "datetime": "2026-10-17T14:35:19.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n68",
-      "headline": "Dos nuevas predicciones advierten sobre un colapso en el precio de bitcoin: ¿qué tal reales son?",
-      "summary": "Dos nuevas predicciones advierten sobre un colapso en el precio de bitcoin: ¿qué tal reales son?",
-      "source": "Cripto247",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORWgxRzVUdlQ4Z0lWM3RyNDZpWmtuRUNMcFoyNldEel9JZllNRHFYQVpFS2M0SUVxUnYwc2xWSmllZTVFQmFGLXdncVg1N0l1WXBSVGhrQ3dvYzhTZ1BvUm0tazBXZ3dyYU1hX0hVa2pmVHBtM3hadUhWNmlEXzFnLTluSkVFOFFwbnN3NlEwa2pDQktSRnQ1bUFyWTBXRzNLUEt2bHAxNnM4UUQ3NGo3TV9JSjktWmRBOEZoNTE2b3RMSTFQV2pDeWRyVHp0WllRczhYUlRqdUQ?oc=5",
-      "datetime": "2026-10-17T14:03:09.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n66",
-      "headline": "Binance Pool cierra el 10 de noviembre: fechas y pagos",
-      "summary": "Binance Pool cierra el 10 de noviembre: fechas y pagos",
-      "source": "Criptotendencias",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94TWkyeWFEREJqel80YWhxMTB4ZFQzZEVybDZRbXBZZWswNHEycHBKY1VXbVI0Sng5Nm1JY2pPRHNlQVA2Q1o1NjVOTnVNSHBLUjMyV2lpcmphcy16ejBBY3l4RV9YQnM5Z3dwV3V3?oc=5",
-      "datetime": "2026-10-17T14:01:38.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n46",
+      "id": "n52",
       "headline": "Precio de Bitcoin hoy: cotización en dólares y pesos este 17 de octubre",
       "summary": "Precio de Bitcoin hoy: cotización en dólares y pesos este 17 de octubre",
       "source": "Cripto247",
@@ -138,7 +183,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n47",
+      "id": "n57",
       "headline": "Acciones preferentes: Strive ofrece un 16,7% con SATS",
       "summary": "Acciones preferentes: Strive ofrece un 16,7% con SATS",
       "source": "Criptotendencias",
@@ -166,33 +211,6 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n50",
-      "headline": "SDE ep 51: los robots no van a ahorrar en dólares",
-      "summary": "SDE ep 51: los robots no van a ahorrar en dólares",
-      "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SRTBvdE5KaWltMFU1ZXM5VXZTRDFvZjVpUXAtSFpxWGt4Wkh2djZIN3hKRVdySlRoZHFLeWU5NXI2ZGV4X0d5MkpCYnZ5N3lKYUJERmg2bUZqNzZ1cnZqRFhLYjFMRnZabnljenlJMUhOcFNpQ1h1TENwb04?oc=5",
-      "datetime": "2026-10-17T08:50:00.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
       "id": "n3",
       "headline": "La inflación argentina subió al 1,9% en septiembre y acumuló un 23,6% en el año",
       "summary": "La inflación argentina subió al 1,9% en septiembre y acumuló un 23,6% en el año",
@@ -213,7 +231,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n90",
+      "id": "n86",
       "headline": "La semana en la que Donald Trump mantiene los aranceles y arranca una guerra comercial con España",
       "summary": "La semana en la que Donald Trump mantiene los aranceles y arranca una guerra comercial con España",
       "source": "Business Insider España",
@@ -242,9 +260,36 @@
       "isNewScenarioCandidate": false
     },
     {
+      "id": "n29",
+      "headline": "Bitcoin en 81.437 dólares y Deutsche Bank a semanas de su custodia: lo que hay que saber",
+      "summary": "Bitcoin en 81.437 dólares y Deutsche Bank a semanas de su custodia: lo que hay que saber",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVFpaUV4bzd3QnA4emJxOEhrTEtxeDd3Uk10UmEtWWJ1VWJnUE5ZZTk2N21uNFgwcnV3d0ptZHJNclBmUElWQlB4aFBIOWdHZU9uOVJySGNwbG5pWEN2RW4zUTYzdmpOMUN1Y2JaR2FSY0tNMGw0Zk1oa0JwTkkxYVhROA?oc=5",
+      "datetime": "2026-10-17T06:24:58.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
       "id": "n20",
-      "headline": "El precio del Bitcoin se mantiene por encima de 81.000 dólares pese a las salidas de los ETF",
-      "summary": "El precio del Bitcoin se mantiene por encima de 81.000 dólares pese a las salidas de los ETF",
+      "headline": "El precio del Bitcoin se mantiene cerca de los 81.000 dólares lastrado por las salidas de los ETF",
+      "summary": "El precio del Bitcoin se mantiene cerca de los 81.000 dólares lastrado por las salidas de los ETF",
       "source": "Investing.com España",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcjF0b3NhT0cxNkxfcEhkMS1leFFBbWRtSkhVLUxGeVdSRnh1cER6T3owT1ZEMVZFSEExQTQ3WDdMMGJlcTZJY3dnQUhnSzQwV0NjR1JkZVBrTnk2MWtrcERHaG5NYjdSRjlOTV9jei0yaGUtN0dYMUYwZW1RRjJDRTUybmtRM19XMTdoSHRza2pXa08yRjlWTUw0a2N5RDNtWEF3NTNrdEVGNW9uQ1F1c2w0SG45WXkxcEVfNDBEc2VMNDhsM3prZTRFM3NvU0JLOGxKcW9RQ2NzamJUYm5wX0xNNA?oc=5",
       "datetime": "2026-10-17T05:48:00.000Z",
@@ -290,7 +335,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n91",
+      "id": "n88",
       "headline": "Déficit comercial de EE. UU. vuelve a niveles previos a los aranceles de Donald Trump",
       "summary": "Déficit comercial de EE. UU. vuelve a niveles previos a los aranceles de Donald Trump",
       "source": "El Tiempo",
@@ -345,33 +390,6 @@
         }
       ],
       "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n40",
-      "headline": "Un estafador cripto perdió 5 millones de dólares en Bitcoin tras el ataque a Ledger",
-      "summary": "Un estafador cripto perdió 5 millones de dólares en Bitcoin tras el ataque a Ledger",
-      "source": "Cripto247",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObGNJeEQwR2tkWWdGMmJMYTdjRkJDamtWMGwxLXlRd2lxV2JVaXFzMUdGYTBKRVVjUlBiVW1LcW4tMENPSjFJejBwaUF4ZEtaYTZJVmktdDJWRXJiYmlaVy00a3ZHVTRXNXBzN3FxM2duUVdzZ0J3U0ZlWWcyRXJlaE5LMjctWFNnNi05Z3RjZGpLYjlEQ1puX3d3T3BxeG5pR0xWVUNkNUJDYUotSGFDTGZ4eUNSR0VOcDhfT2RIX1pnSHJiLVEwdDgxZzJUZTVYR2c?oc=5",
-      "datetime": "2026-10-16T23:57:19.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
     },
     {
       "id": "n8",
@@ -435,7 +453,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n87",
+      "id": "n84",
       "headline": "Los precios del petróleo se disparan de cara al fin de semana",
       "summary": "Los precios del petróleo se disparan de cara al fin de semana",
       "source": "investingLive",
@@ -451,34 +469,6 @@
         }
       ],
       "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n58",
-      "headline": "BTCUSD - Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-      "summary": "BTCUSD - Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
-      "source": "mx.advfn.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdEZ3d0ZvYVpVUVNrdDZfUWlNVDl1RUk3YnFOTFhLOU0zd2FkdmxxNE9ta2s1S2NSUDRHVElFWERzSU9tWjluaEZTZW5NWTVuV2F6TVFnUEktS013dWl3b3hHaUZ4b0xOcDdTZmVrWWdrMy1yUUJLandDQWJvTk95aTNIdkUwNS1UVjJjb2ROTEdOb2JCVHVKX2lqU0k4dVltQzRQS1AwS2ZxbVJLUlJiYkh1WnhGSFFIWFV3?oc=5",
-      "datetime": "2026-10-16T15:52:28.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
     }
   ]
 }
