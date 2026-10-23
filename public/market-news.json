@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:39:17.547Z",
+  "generatedAt": "2026-10-23T10:44:29.350Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,12 +11,12 @@
   ],
   "articles": [
     {
-      "id": "n13",
-      "headline": "Suiza aprueba el primer ETF de Bitcoin al contado para inversores minoristas",
-      "summary": "Suiza aprueba el primer ETF de Bitcoin al contado para inversores minoristas",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PRVdUM1NVSHpMb2Z6bzZKdzUtSWtpUDdrT0piWktrYjhvbC16bDN3TFM2OEVGRkZIU08xN2V4b2NUc2JpTWVTVmZFemo2SkE4dzA2RHRDaDZ0eGVJVGdSZkQwRHhvZFVqN0lRYldhUQ?oc=5",
-      "datetime": "2026-10-23T00:59:35.000Z",
+      "id": "n37",
+      "headline": "Bitcoin Cash (BCH) avanza 2,71% el 23 de octubre de 2026, pero el volumen no confirma el impulso",
+      "summary": "Bitcoin Cash (BCH) avanza 2,71% el 23 de octubre de 2026, pero el volumen no confirma el impulso",
+      "source": "DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFpnR3FKMkFqNWpmY3JmaGtaWDN2Tk9BM2N3Mzl2MVdOTUxSTVI4dGhiUzVHYnNDQlN3UFgtSWhjZTR0LV81bUhlX3JPazIxeVIxd1BVeGpEdXMxRHFWVjhrcFd0Nm1rTHNpMTNWRzlMMzI1VWxiZTQ5VVBGNDVyUVNaeWJESHhXRDRsMUhiazRZUEVabWpHNHBmS2FFSjVGOVllLTBVbW9pSklyZ2Y4NW9aeHpTQ0QzMjJiMGJRc0VYd1hNYkpKcGt0OA?oc=5",
+      "datetime": "2026-10-23T10:27:58.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -29,66 +29,66 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n39",
-      "headline": "Agentes de IA acceden a cuentas bancarias y encienden las alarmas en EE.UU.",
-      "summary": "Agentes de IA acceden a cuentas bancarias y encienden las alarmas en EE.UU.",
+      "id": "n19",
+      "headline": "¿Son estas señales del punto más bajo de Bitcoin, Ethereum y XRP?",
+      "summary": "¿Son estas señales del punto más bajo de Bitcoin, Ethereum y XRP?",
+      "source": "FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZWMxaVpNajZYNzhoQjQ1cDBzZ0xZUjBvT3NQSm9TaEVXYzFLOHVnZGhQLTZJbXItWFI2bjdiWXV0WTNKSHVZYTZHdzBDdmdsTTNaSXN5cWRkTUVNZTVxeHJWOEZ0T0RkSHNDdHN3S1EyRUhKVGxRbzhFUVlqQXEwdlpubC1XQ05XYmYxRFNubEJaU3kwanJiOFVQdHlzMXJNX1RrYmZnVnNqM0tpaHNNdkhDdjJFN1FXNVhMWTJfS09BSnNybE5ldk5PdmtfOW1aMG9YaVlDWVRwNzU5RkJRY1prel9NMmhfeFM0S3lNejNCMWJ3?oc=5",
+      "datetime": "2026-10-23T10:25:07.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n61",
+      "headline": "Bitcoin (BTC) retrocede y pone a prueba soportes el 23 de octubre de 2026",
+      "summary": "Bitcoin (BTC) retrocede y pone a prueba soportes el 23 de octubre de 2026",
+      "source": "DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObklJcllMVkxDQ0ttVVlHTldTc3ZFT282b1V1M2xqMnFyWHRmWnVVeWRjREJYa0xidUN0VUxsekJ2QjJ3Tkp3OTY5WU92OGNicGlJWGV4MV80cjdWT1phMGtWZ3ljc0hWZUdiUHNDQzRDb3huNmp0cmFWY19iZWZzWWZ0enR3Sy1kS19ydC1ZRVFuT0Y0Qy1HWFlzZGEtZmc4c2Iwc2RQZFdRZ1RHZi0wMA?oc=5",
+      "datetime": "2026-10-23T10:06:44.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n7",
+      "headline": "Criptomonedas hoy: cotización de las principales divisas digitales al 23 de octubre",
+      "summary": "Criptomonedas hoy: cotización de las principales divisas digitales al 23 de octubre",
+      "source": "La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRy1xSk43eEtIUk1CWnFzWTYzcDVwQTBIdjk4V0tQemgwM1NqbWRCVmRqZmlJTVR3cmI5NkhZaHJNdGRuUk05aWs3cm9lRjJjLVFwUzRsYkpzcjNpaklGQzFTSGlHSmlzUEJrMVd2WW1tSnB1ZVEyNDQ2LVVqRE9iY0QtQkpwTWUzN1owbGZvSGp6QmllaVZaOTJ3Ml9oZUdaVkF1ZURfZEZZOVVnR2ZZNThPZmRYTEl6OUYwaTlNMmdsTUN0Y0cydWZTUnAybjBz?oc=5",
+      "datetime": "2026-10-23T10:00:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n15",
+      "headline": "Bitcoin cae a USD 81.000 tras la mayor salida en ETF desde junio",
+      "summary": "Bitcoin cae a USD 81.000 tras la mayor salida en ETF desde junio",
       "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDY3WDg1LVVoNURIdDRhVXZLTU1FS1lUMll6OTNFdjZIWURWbzlNMEk1R3B3WmY2bW04TUdOLTdjS0xkRnpZZWRxc0tYRE1pa0JGdTR1QkZENWVkY3A3V1lzN1E2bGhLbXVXVzZUa1U0T2VXSXRmb2g2aTBFVFZEZHo0R1ZDbmZhM1htNEFXOWhXNW5lc0toS25UbzVVQ0E3NHYzaE0tM0ZnU25OSjhV?oc=5",
-      "datetime": "2026-10-23T00:57:00.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n65",
-      "headline": "Las vulnerabilidades de ciberseguridad se disparan y las criptomonedas quedan en la mira",
-      "summary": "Las vulnerabilidades de ciberseguridad se disparan y las criptomonedas quedan en la mira",
-      "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGFxZXhfTG5JV2c5VFV3OVlhZ2ViYVNQSVItVzBEMGJHcld5eUtudHJEMXpMWWJiWUpVcTJuWlhhSmdlYnNSNXpQeklNdktMUGZnNnJxQkh0YUxoVjAyY1VCUW1TMnNIVnJTRjM3RXdzWlJ6TXE1RkFQNmlwV0lkeFFWSUV0UFJMSjNWYlB3RWRkVVFXTHR6WGpkM1Q5SkhqZEFPVFdDZ2wxQQ?oc=5",
-      "datetime": "2026-10-23T00:53:00.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n36",
-      "headline": "Zcash NU7: bloque 3.543.405, activación el 6 de noviembre",
-      "summary": "Zcash NU7: bloque 3.543.405, activación el 6 de noviembre",
-      "source": "CryptoTicker",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XNkR0UEdxVUgzb1I1X2pjWUtUQ1U1aGo3Rk9GT1QzVC02eGU3TGJMOXpLS1Nadk5aaFZORGI1OFNIaVp6b0p1eGhvTUN5dG1VS1NhZl83N3BmcmhNN1FUZExuTko2TWtBU2RialhDUE8xdw?oc=5",
-      "datetime": "2026-10-23T00:18:42.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n17",
-      "headline": "ETF de bitcoin: Suiza aprueba el primero al contado",
-      "summary": "ETF de bitcoin: Suiza aprueba el primero al contado",
-      "source": "Criptotendencias",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zRFhDWmttaGZXSDRlUEpIMk9PLWYwTmtnTTR6YVRfY0xMWW4yMVZ4MW44ZUxFSkRMZFZ3UW8tWnloX2d5dmx3eFVHZGxYVU5VRFhuV0IwejRZdWRINmQtYkpSM0tKNGNZc0t3S0JIc3luR3M?oc=5",
-      "datetime": "2026-10-23T00:01:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMDVDRkwwUVc0SEo0Y0M4OVNXc3M3TVE3ZGxhY0pyTV9EcTJiUjNFalR3VGI2bUhIbFdVNXFpVjJ3SF9laFNveFJiWVFURmE1aTVFdmNKbk1NTWtnanJ2bzR5VXpNMEx0UWN0cmhFWGpKSHZGeU8zdFZTSWgwU3lYbw?oc=5",
+      "datetime": "2026-10-23T09:57:00.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -102,6 +102,204 @@
     },
     {
       "id": "n16",
+      "headline": "Altcoin season: 17 de 50 monedas ante Bitcoin",
+      "summary": "Altcoin season: 17 de 50 monedas ante Bitcoin",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMZmRuMDVDbVFnQndTeF9za25ibnBSUEFqOUVNTGZzZjFhMEpYSFFOWnUteU5YQllUVko5Um51MllneEJyS0FOQ1N2OUd4V0JQZmJkbkVXeFg3dGZ6aEtod1ZR?oc=5",
+      "datetime": "2026-10-23T09:45:37.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n32",
+      "headline": "HSBC lanza hoy su criptomoneda RedCoin",
+      "summary": "HSBC lanza hoy su criptomoneda RedCoin",
+      "source": "CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SZHFFWUtqc2NobVZGRVFGNjk2M0dGT0VzX3Y2aEhVV2R6VmdKN3JEdXBIejVzakZHY1RRQTlGcDJfUXhiUUlaSFlvUmlHTUphZWNwcW5pa2J3REZKLTF6SFgxcnVWR1lyaTQ2M29xUVBqNHVs?oc=5",
+      "datetime": "2026-10-23T09:39:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n11",
+      "headline": "Bitcoin pierde los 82.000 dólares entre liquidaciones y temores por Irán",
+      "summary": "Bitcoin pierde los 82.000 dólares entre liquidaciones y temores por Irán",
+      "source": "Benzinga España",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRWh1dVpKalJoUWNuRzVqbVRFUVdoYmpxTlA5cE80Wjc0OHV4OXZZYzNXcy1JTHNlLVhzQVRIa3FEWkFVSnRDdjl5NGU5XzYyR2syY0MybGFaNkpEVWpZTktKYXpPbGhmZE0xcm56TDlQOFQ4c2VNMFN3bVc2VVhRNThqSThIZw?oc=5",
+      "datetime": "2026-10-23T08:56:39.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n1",
+      "headline": "ECB Consumer Expectations Survey results – September 2026",
+      "summary": "",
+      "source": "Banco Central Europeo (BCE)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+      "datetime": "2026-10-23T08:00:00.000Z",
+      "topics": [
+        {
+          "id": "tipos-interes",
+          "label": "Tipos de interés",
+          "scenarioTag": "Tipos de interés",
+          "glossaryTerms": [
+            "Duración",
+            "Curva de tipos"
+          ],
+          "note": "Los cambios en los tipos de interés de referencia afectan al precio de los bonos ya emitidos: cuanto mayor es la duración de un bono o fondo de renta fija, más sensible es su precio a este tipo de noticias."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n65",
+      "headline": "Bitcoin cae por debajo de $82k por caída tech y alza del petróleo",
+      "summary": "Bitcoin cae por debajo de $82k por caída tech y alza del petróleo",
+      "source": "Investing.com México - Finanzas, Bolsa y Forex",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWxjTjU3cDE2TnlfeWJRcnNvT0FUVzc4cHNYYnlvcWd2eEFhNnVpWkFKd19qamZKUGlHMzRuV2czVlBPbmI2OEg3WE55M2c2ZlpzX21FRXZuV3E5eDVmejNVdnNwS2dOVzFIVEp2WGNfNVNlMXA2NnBqUjFlYjlpek5Sem9adkNSejlVWE5LZzhRb3UweDNENXVSajNVblpTVTQ0di1fWlMzaWowZGQydkk3TkNnb0g2aXJXQk40TQ?oc=5",
+      "datetime": "2026-10-23T07:18:49.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "materias-primas",
+          "label": "Materias primas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n13",
+      "headline": "Bitcoin cae por debajo de los 82.000 dólares por la caída tecnológica y el petróleo",
+      "summary": "Bitcoin cae por debajo de los 82.000 dólares por la caída tecnológica y el petróleo",
+      "source": "Investing.com España",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2YzVF92ZDRLSjhUOVhOODVoWEs4eGlnTnZ0aGxDUjJjZXVfLUlXZTlPb1VCTmwycmxvYUcyeGd6TFNmZUR3aWdVa2JTV1NKVUR0UHNVSWNzd3Bjem1wa25tOU9GSFRSWXE4VDc2UGFTYlZlQm9GWWthTEJOX09xOTl6RGFUajVURHZGUXhpREhzQmF2WHlhVjBZd2dXclFpR0lkZWkwNncwWGoxdDBlbWd4S0k1MXcxSnl1RklydmxhX202Q0x2OG10YVMwcmd4Y09xYU5Ndw?oc=5",
+      "datetime": "2026-10-23T07:14:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "materias-primas",
+          "label": "Materias primas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n18",
+      "headline": "Los ETF de Bitcoin pierden 635 millones de dólares mientras octubre vuelve a terreno negativo",
+      "summary": "Los ETF de Bitcoin pierden 635 millones de dólares mientras octubre vuelve a terreno negativo",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xNllSLWIzcEIyUl9WQVlGbFhOWXNEZkdNRUVFOW5fcVNySzF3MnN3eS1wQW9OYTFGZFNXYTJ6OGdWOEozemhMaUViNEJCZVFtNFNlS0lwdHJObFJGNDBoeUkwWXR4Mk10LW80c0c4Yw?oc=5",
+      "datetime": "2026-10-23T07:09:39.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n27",
+      "headline": "NEAR cae un 7,6 % con el arrastre del Nasdaq",
+      "summary": "NEAR cae un 7,6 % con el arrastre del Nasdaq",
+      "source": "CryptoTicker",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtM1dHY29xWlUtYVZGeVA3bXZYdGxqUUR3QnZ1UENxYm9TUEw1emxvSHNpaVhDakU3VXhjS05NTHlSQ0kwS0xyWFRzaEZ0NTlJWUxKQmlKNUhUU2pCamVQVXRqNFZ3aTBV?oc=5",
+      "datetime": "2026-10-23T03:19:12.000Z",
+      "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        },
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n29",
       "headline": "Bitcoin cayó por debajo de US$ 81.000: qué provocó el nuevo desplome de las criptomonedas",
       "summary": "Bitcoin cayó por debajo de US$ 81.000: qué provocó el nuevo desplome de las criptomonedas",
       "source": "Forbes Ecuador",
@@ -129,7 +327,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n15",
+      "id": "n25",
       "headline": "Petróleo sobre 112 dólares: ¿protege Bitcoin?",
       "summary": "Petróleo sobre 112 dólares: ¿protege Bitcoin?",
       "source": "CryptoTicker",
@@ -163,34 +361,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n54",
-      "headline": "Predicción de Solana: 2,57 cuentas largas por cada corta y 12,9 millones de dólares salen del mercado de futuros",
-      "summary": "Predicción de Solana: 2,57 cuentas largas por cada corta y 12,9 millones de dólares salen del mercado de futuros",
-      "source": "CryptoTicker",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV2VtRGUwMkdUZ3ZiWkRObmtPWlV4ZzhZR3RKd2xBRHI3ZWV4a3hSUExKVmRQTnI4bENwenREVXlfMmxwTzFQaXNPVmI0VEtIUEZqQld0ZjRzUkI4TGJOOGZxckdVcURlYkNBNDBDbnRyLWV3Q0ttc1BMN2hhNVpFcEw1OUJGSTJnckNB?oc=5",
-      "datetime": "2026-10-22T21:17:57.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n18",
+      "id": "n26",
       "headline": "CEO de Circle minimiza la caída de Bitcoin y promociona los dólares digitales para la era de la IA",
       "summary": "CEO de Circle minimiza la caída de Bitcoin y promociona los dólares digitales para la era de la IA",
       "source": "Yahoo",
@@ -217,54 +388,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n19",
-      "headline": "CEO de Circle minimiza la caída de Bitcoin y promociona los dólares digitales para la era de la IA",
-      "summary": "CEO de Circle minimiza la caída de Bitcoin y promociona los dólares digitales para la era de la IA",
-      "source": "BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mYVdHcmh3bDR2VWl1eXNlVkd3N0J1Z21JQVdhRnNrbWl1STZNWklSZGNNajNXMm4ySEdDWUt1VFlZRWJpZmFOMG1pOUgtaEZJM0dGb0EzR2JDc211WTJFbEZtMVEwcUFnTlFrMldzelE1bGVoRDljYg?oc=5",
-      "datetime": "2026-10-22T20:52:00.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n95",
-      "headline": "Dólar supera los $18.70 a la venta; consulta el precio del euro, otras divisas, oro y plata",
-      "summary": "Dólar supera los $18.70 a la venta; consulta el precio del euro, otras divisas, oro y plata",
-      "source": "Sociedad Noticias",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVmdGM0pLVldlNmtMNTIyZl9sYTVVM2szMzNlSWtZY05VY293eW11c3VyUG5YTjlLbnZYYmxFMi1XU25yR0t5Y3NoZkVnZWpZVkhpcHhTVGRLaFdBQmpERjA5YlZPc09vQWJzZ2diSHdkVS1qLWRWWkFzSVNKckZjTkpZVmlEY1JWREpqbEhKaFZZMVQ0dUVOVWNyZnhWdl9qZ09DQUk5RW5VcWJsZFZLM0ZnVGtPSVUzVjMzZDFYeDRvSkFHU3V0cw?oc=5",
-      "datetime": "2026-10-22T18:07:31.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n48",
+      "id": "n57",
       "headline": "Bitcoin ronda la base de costo de los ETF de 81.500 dólares mientras los comentarios de Trump sobre Irán hacen caer las acciones",
       "summary": "Bitcoin ronda la base de costo de los ETF de 81.500 dólares mientras los comentarios de Trump sobre Irán hacen caer las acciones",
       "source": "TradingView",
@@ -301,7 +425,35 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n22",
+      "id": "n77",
+      "headline": "El precio del petróleo repunta por la inestabilidad en el Golfo y agita las bolsas",
+      "summary": "El precio del petróleo repunta por la inestabilidad en el Golfo y agita las bolsas",
+      "source": "La Vanguardia",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNazBkTldJYVptZEFlNzViNnpRTHhPMFVTeklVXzY5VWpkdHhiMmw5ZEtNWm9sM3ctRk85M1RQM0Ewa1hGRTlKYi1LZWxUOF8zTTNfdXN2SlY3OE9oMjdidjRROE81SUowLVZ4d2tyUGZ6eEpRSUNvZ29LXzVDQXVZckNrV1JweHptdmRpZFM3SWdURGUwYXhpYTBvdjhldW12YnZ6ZTZodWV1SkN5bmNmQTh3WW9PM0J3UG1jeXlpWnFYb05LRmJhYVZR0gHPAUFVX3lxTE5vWG1la2htNTZMMS1IYXVybE1MV1p5N2tJV2l4ajhSU3FPVEFRMjJwWUhxYlhEamdkVGNsaU5aSV9ibkdRRFNhZFZZUnUtRHdTQzQtSE5CajBmQ0NuSl90cEcwd2Zxekw0c2tQSldRdGFDMExFSzVZUVNvMDc5cVZ3WEx0bUlKanlWMldTZl9lT0JrUnZ4S0l3V3dMcVNYMk9CQXg3Smd1YkZfZ0FEcWpoTGk2Q2hSNWd4Smp4cTVrUjF1M0F0YUlLeElCVXJPMA?oc=5",
+      "datetime": "2026-10-22T16:19:47.000Z",
+      "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        },
+        {
+          "id": "materias-primas",
+          "label": "Materias primas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n34",
       "headline": "Robinhood en Dubái: la DFSA aprueba su licencia para ofrecer bitcoin y acciones en Medio Oriente desde 2027",
       "summary": "Robinhood en Dubái: la DFSA aprueba su licencia para ofrecer bitcoin y acciones en Medio Oriente desde 2027",
       "source": "Criptotendencias",
@@ -329,7 +481,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n92",
+      "id": "n78",
       "headline": "P&G advierte de un mayor impacto en sus costes por el petróleo, pese a la resistencia del consumo",
       "summary": "P&G advierte de un mayor impacto en sus costes por el petróleo, pese a la resistencia del consumo",
       "source": "MarketScreener España",
@@ -345,165 +497,6 @@
         }
       ],
       "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n82",
-      "headline": "Bitcoin retrocede y la tensión en las bolsas del mundo arrastra a las criptomonedas",
-      "summary": "Bitcoin retrocede y la tensión en las bolsas del mundo arrastra a las criptomonedas",
-      "source": "Ambito",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTFuVjdVUDY4QzZXN1F1d1BHb1ZFX1J5TVUtaUVnbThKMnRxLVFzOTFIR1p6TWtJdnNWVFZCRFpvV3I1cjJLWDZkbnpqLVMySFhuN3BkYWNFWG8ydV9sM3RraFByZFltNVR1MlVCZFhONXVISHVPM2x2b3pPOFQ3YjZsbDdOdGZINUNweFlpd21ZWmdtcDVrbXRycVZJaWF2OFpOTHZwaFZjTGU5LXBZQTRpQXZyWkhqWEZZ0gHAAUFVX3lxTE81bl8yLVYxNGtyLTdIX3oxTmpCUFdQQ0RiTzdjV09PSmt1WTNYaFJOT2stU092OF9PbEJDTGlaTjBTdm9UMjVBejR2cVRMeXBjLVJKa21rNGVGVDUxN0JWTGdSRkRPWUE4aHd4NnY0bW5pVTZ2VlhXSkFBOF9oMGF4Nk1HYU5qMWxfRnlxdEs2eWRFWWYzRF9XanpTWVN5TlVWTGhXbUl5dDdUQTBTVWVrQ01wSjJPMDctcVlkMGdoZg?oc=5",
-      "datetime": "2026-10-22T12:25:00.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n8",
-      "headline": "El desplome del mercado bursátil chino desencadena una venta masiva de criptomonedas mientras el Bitcoin fracasa en 85.000",
-      "summary": "El desplome del mercado bursátil chino desencadena una venta masiva de criptomonedas mientras el Bitcoin fracasa en 85.000",
-      "source": "FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcHJsMTZ0amItT2NOY05sejdlam9nbXVVUzhGZ0hPSUUzY0lmbVBYdGlnZHR3cVVLZTlPSDN4ZXkyRll0c0sxcEx0eGpVdS1oMDRmSWF4U0xTUl92QmFHRGxJVGJlbGFGMEdpbHRpSkFxN3lTZ25NYnBzRGZiVG5sal9rTFVDdlQxaVhTMG52ZXRvaGlXaHFzbVBOZENUWXFOakpFSjBjdk5EN0pVWmNaQkwyc1Vvc3phVkpRWVI1RUYxNG5zSVBvb3dVamplWWdoajk1ZWdYdEc1ZlllN2hpWjEzRkJYeFE5a2xBTVRaWkRtZnhCTU9JTjU0S0hzVjJFY2szLW1pZmRDMWFU?oc=5",
-      "datetime": "2026-10-22T11:45:57.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n35",
-      "headline": "Bitcoin cae a 82.000 dólares por ventas en IA y subida del petróleo",
-      "summary": "Bitcoin cae a 82.000 dólares por ventas en IA y subida del petróleo",
-      "source": "Investing.com España",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkRXZDZQby0zOEJTV3VMeE5oeFp0NW9PRVRVWHI0MDRIZ1hZbXZNYXQ2SUQ0c0pVSWIycEZrazBSSW11OU9OZzBBOEg1MDVTR2FFVUMtOXg0NW5GcHc3U0EyY0t0aUFqb3JnbzdYMUM5bXRESExLdVRHMVZwcjFyc3c2MkRzeVROX2ZyU0NWSzJWVEFQekpsZ3kxT1J6VE1fNFA5NUhveklCQVItb29RYWtQV0x0VGJOUzJiYnlwdm1jQQ?oc=5",
-      "datetime": "2026-10-22T06:40:00.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "materias-primas",
-          "label": "Materias primas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n94",
-      "headline": "Carney afirma que aranceles de Trump perjudican a estadounidenses; EU alega injerencia",
-      "summary": "Carney afirma que aranceles de Trump perjudican a estadounidenses; EU alega injerencia",
-      "source": "Proceso",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN2dQVWlicWxqVGJ0YURzQTd4bHhzUjU2OFB4VzBPcjdZalFvTHZhcUVUSEQ3TmZ4dDRKSDhnSlBDbmtCblllcFV6cFdSUlhRMG9KbWFwM3hFb3hkcENvLUlYMDZBWDc2WUlsVnFhbVJ6NjdUdnNzMnFtY3haWUMydXFUNXRsRFROcFByajkwVEtFdzFhX2FHaUpBcFNQdmp2YkxJUXdoYzNiS2pzalM3VGxYMFl4bzBTWnBQdkNoZEpGTDVQd3NEczlnQTg0SFgtQW50NEtSX2huY3V6?oc=5",
-      "datetime": "2026-10-22T03:43:00.000Z",
-      "topics": [
-        {
-          "id": "comercio-aranceles",
-          "label": "Comercio internacional y aranceles",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Diversificación"
-          ],
-          "note": "Los cambios en aranceles o relaciones comerciales pueden afectar de forma desigual a distintos sectores y países, lo que conecta con la idea de diversificar entre regiones."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n96",
-      "headline": "El #euro rompe la barrera de los 900 pesos en el mercado informal #cubano y el resto de las principales divisas extranjeras también registran subidas, mientras la inflación domina la economía de la Isla. LEE MÁS en #DiarioDeCuba LINK en el primer comen",
-      "summary": "El #euro rompe la barrera de los 900 pesos en el mercado informal #cubano y el resto de las principales divisas extranjeras también registran subidas, mientras la inflación domina la economía de la Isla. LEE MÁS en…",
-      "source": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSDAxa3E5Z2Q5M29VckdmYkMzWVN3U3NNV2MwTUdZVUtXdzFpdW8tZXBPWjVHUUtBSnpBQklqMlVUWlB5eVAzSnhmM2V5WjVicWNLN3c3OXJHeGt1REdUZkZ1a2tzaEZGRkVNOTdHeElYQmN4M1NiVl9DUlVRNTlfb0lES1J3bkZVR0RyclJTcGdreTdqbW5rcnRlc1ZNdXdiYXFNWmdPVEh2UEVVUGR3clBEbUdHcXRjMjBJdmFZWDBvVF83OUhTNTl4RUp4bmFrLW1mc0pRbzF5QQ?oc=5",
-      "datetime": "2026-10-21T20:03:11.000Z",
-      "topics": [
-        {
-          "id": "inflacion",
-          "label": "Inflación",
-          "scenarioTag": "Inflación",
-          "glossaryTerms": [
-            "Rentabilidad histórica vs. futura"
-          ],
-          "note": "Una inflación distinta de la esperada cambia la rentabilidad real (descontada la inflación) de cualquier inversión, y puede erosionar el valor de cupones fijos pactados de antemano."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n3",
-      "headline": "Avalado por la Seguridad Social: así queda la tabla de la subida de las pensiones en enero de 2027 tras la ...",
-      "summary": "Avalado por la Seguridad Social: así queda la tabla de la subida de las pensiones en enero de 2027 tras la ...",
-      "source": "OkDiario",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHFPdjhveEFlbERweVdZaF9seWQyNzBIMk9TWG5FX1cxUzlpcnNlODF1czdoZXh5ZWJEYmc4Z0JwWlZSVk85QnZMbFpsNlNORmxtNDBZWUN0dEJac2RrQUdsR05YN25kb216ZjJmS0JjT0VzN2Z2Zk94d2htUXoyd1VNNnZubUN2VnNVY28wVndGREVvQm5tdHdTWDRjaWJ2eGN6cE1VZHFGVW4yYng4UmIzTFk3R2NGakJGWGc4cjc3Wm14SWg00gHMAUFVX3lxTFBBbzc4aTlUbkl2S1p3YXV3YXlkMmp5a2Rvd0M3ZkJNOExmRHhNdk5TSzk4Q29vRHJ2Qk0xdGF4V1BkRjdDS3FoNzVTZnZQNjIyVXYtMVBza3VwUnk0Q3Vpd3IybW43Zmo5Q3N0cFF0U0xEUnJIa1NOSG5SZVdqRVNPdkRuZW0wUmZhcFZYV3kzcldNTlAwMmlPV1liaXJudVJqYkxHWERmdTl1Y05leGQyU3BEUmhaVlJRTXhJOGdYTmxZR0JJTVpDNUEyVg?oc=5",
-      "datetime": "2026-10-21T09:00:26.000Z",
-      "topics": [
-        {
-          "id": "inflacion",
-          "label": "Inflación",
-          "scenarioTag": "Inflación",
-          "glossaryTerms": [
-            "Rentabilidad histórica vs. futura"
-          ],
-          "note": "Una inflación distinta de la esperada cambia la rentabilidad real (descontada la inflación) de cualquier inversión, y puede erosionar el valor de cupones fijos pactados de antemano."
-        }
-      ],
-      "isNewScenarioCandidate": false
     }
   ]
 }
