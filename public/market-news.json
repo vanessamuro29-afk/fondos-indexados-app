@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:18:08.811Z",
+  "generatedAt": "2026-10-25T20:10:45.549Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,12 +11,12 @@
   ],
   "articles": [
     {
-      "id": "n34",
-      "headline": "Franklin Templeton registra los primeros ETF que convierten dividendos en bitcoin",
-      "summary": "Franklin Templeton registra los primeros ETF que convierten dividendos en bitcoin",
-      "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbFNLOFBSM2hkMlpqdmpCSDJnNC14NVJVQ1dmcDh6aXU1OHFyMWM3OWZVOTVlRmdvaVR6OTJrVzdhd2xmaXNlSTRqcWFoNGZRekp4aVY4QnB5bnRBUEgtYUdodFhmQV9ZSDFNbU1DbVB6V0hwNGFjRDctdWZreHBDSDU3aVJfR2pRdmxkcG5HQjdCRzQ3M3FBQTg1c1VqVmN1UHc?oc=5",
-      "datetime": "2026-10-25T15:03:00.000Z",
+      "id": "n26",
+      "headline": "Resumen cripto del 25 de octubre: mercado mixto, Injective Protocol +7 %",
+      "summary": "Resumen cripto del 25 de octubre: mercado mixto, Injective Protocol +7 %",
+      "source": "Bit2Me News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14VVZpQjZxQkFLYVBqY0ZHYU14SGpheE9UODZEVGg2LUVDQWVXM1JDRkF3Ry1FRFZRQTNqU0dVQzhZR0tDdnFDMGFPQ3l1RVEySzRjTzF0a0xVUks0TTRqQQ?oc=5",
+      "datetime": "2026-10-25T20:00:11.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -29,48 +29,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n48",
-      "headline": "ETF de Bitcoin rompen dos semanas de pérdidas, pero octubre sigue en rojo",
-      "summary": "ETF de Bitcoin rompen dos semanas de pérdidas, pero octubre sigue en rojo",
-      "source": "DiarioBitcoin",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGQ3b0FwMmt0cE1Ja29MOGltQ1l3SXFrV29URXgyMDNTNEdLNzBuOXIzUTBEUHhmWk00bjJHWC1SWDcyMTJ6RHVlazM3ejV3R0YzaHZ0MUVxMllhUDBnc0R3bFRuLUlhT2hSY0dBaXdORkkzSWlYME9hVmRUT0dqclBPZVlCQzd1UU1naUotdzAyM3EyLVplcHdaaXJyRkZSeHdUUWpnWTNwWXhsWnJmWUFn?oc=5",
-      "datetime": "2026-10-25T14:42:29.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n10",
-      "headline": "La decisión de la Fed será decisiva para el cuarto trimestre de Bitcoin según datos de Nexo",
-      "summary": "La decisión de la Fed será decisiva para el cuarto trimestre de Bitcoin según datos de Nexo",
-      "source": "Bitfinanzas",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Tc1FKZ05jVlJRdlJzT1BXdkFTMlBPcVAwdUMxS0tTMHFlZUF5Y1cyOUJTcC16dlBENFpVZF92Q0xDZnhCNWZPSS1MSmhiQ0dFaXZjYkszNDJpdDYxend2dzJMMDcwaHY5b3NTb3FWcFVxY25VYkE?oc=5",
-      "datetime": "2026-10-25T14:30:14.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n54",
+      "id": "n45",
       "headline": "Criptomonedas hoy: cotización de las principales divisas digitales al 25 de octubre",
       "summary": "Criptomonedas hoy: cotización de las principales divisas digitales al 25 de octubre",
       "source": "La Nación",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmZSemdpYzBldmxjN2ttcDNHaHY1M3oxY09ua1B1UlNpaTMwandnVlQyTmNaaGxHTzlsNVBJTUNKY3k4VDB0allvUE4yMVZiRU1YaFV3ci15bHFrUFl1djFoRUU0VU5kRVljSnFBd0JwTjhCMHdRdWRRQl9ZUlcya3JOQUtLVWFzU21wUnhVUWFDVFIweG5Ib2lVZmh0TTFiQm8yQVVHQ3IxdFY1c2V2Xy1wOFl0MGQ0U0pWWkNKRzhkQ1FUT2pYSzRFNnVUc1Aw?oc=5",
-      "datetime": "2026-10-25T14:00:00.000Z",
+      "datetime": "2026-10-25T19:00:00.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -83,12 +47,30 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n47",
-      "headline": "Operativo deja más de 2.000 equipos mineros de Bitcoin incautados en África",
-      "summary": "Operativo deja más de 2.000 equipos mineros de Bitcoin incautados en África",
+      "id": "n35",
+      "headline": "Semana movida para los mercados: ¿qué sigue para bitcoin?",
+      "summary": "Semana movida para los mercados: ¿qué sigue para bitcoin?",
+      "source": "CriptoTendencia",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMS13RVNtOFRCSEh0V2VXUXB0endQS1plbUltTnE0aXhGOTh5SlZEc1hFS3lvdm5nSUNKM3l4clF0T1EzVlBZV25CbmpzZzBkb2dzSDEzT05LU2tzai1rT2htUlJ6cTdOWURXNXBNYS1ybjlPdE85aW5xdjRDcGM5c2Q1NXY3amd5bnNscDg0SEY0ckNhRmR3WlFiUjQ?oc=5",
+      "datetime": "2026-10-25T18:46:59.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n46",
+      "headline": "Latinoamérica, más expuesta que Europa y Norteamérica a las fallas críticas de PHP",
+      "summary": "Latinoamérica, más expuesta que Europa y Norteamérica a las fallas críticas de PHP",
       "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXNOVHVtY1JROEFBYTBwMVkzVk9kWW5tYzZjMDczNG80cFFCOTNpeVY5eGZkd29VUXNNLUl4dkxMVVFqZWN2MlFLOVJSZDl4TUFnUWFqRDZrTllFaHY5c21nYmd1SlAyaExxN0JkbFRzR2FxYVhnbF9Na2JTeVhZR2tVWUpKazA4WTdXZjFB?oc=5",
-      "datetime": "2026-10-25T13:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmozdDhOYjhqWmZuOUx2MEdFVHNWYWVFdndvcE1UTndHbjZVeHVoS3FnZkRZRzc2NVdCUVhhSE9WdEV2SHlwSUdIR0c1dHBrUThwWGZ1RGhRcWJ5aDJRZms4dTRKTHg5eThHYUV0eXhMZV9PT0FaclRDT01jdnBKa3VIT3l5ejgwSy15TTBZU0xPUEo5UDM4Vy1RTWs?oc=5",
+      "datetime": "2026-10-25T17:32:00.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -101,7 +83,52 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n13",
+      "id": "n21",
+      "headline": "¿Por qué los exchanges de criptomonedas pagan para que sigas haciendo trading?",
+      "summary": "¿Por qué los exchanges de criptomonedas pagan para que sigas haciendo trading?",
+      "source": "BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjBSRldUeVlVZmdOczlGWEl5QWZuZkg4bjh4RmxVNl91dUx2bzJKb1NIbGtMSlhuTmdqaDJTQk03UGo5TnZDYlJyT3FQYUFFQlN4N25raG4wUTd6UU1TU0d2Umc3WlY3ckRvT051OVhESjVQUGF6SFh1V2JVWDdHWHBsendLeHZo?oc=5",
+      "datetime": "2026-10-25T15:59:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n6",
+      "headline": "Bitcoin: 635 millones de dólares se evaporan de los ETF, Coinbase teme una nueva caída",
+      "summary": "Bitcoin: 635 millones de dólares se evaporan de los ETF, Coinbase teme una nueva caída",
+      "source": "Cointribune",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGtrOTZMbGphVmg4WTJVdFBselNsV1hmLUJUd0E0eXZmdWlQWWZsTXVaRVpnUno2eTlYeHJfRkd4OFZUeHFQZlAydjdjTzdUXzV1SzRzb3dPdGVqSzlHSDQ4QnRqRjNPaVpCREhObzR1WHJzRUczTlN3blYzWXlsakNtcXhWMWsyaTRqMEppOGdrMF9VTlVQZXVYR1lPNU1Gd1lnV2h0NkVndjA?oc=5",
+      "datetime": "2026-10-25T10:10:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n11",
       "headline": "El Banco de Israel frena a Netanyahu: las criptomonedas no esquivarán las sanciones",
       "summary": "El Banco de Israel frena a Netanyahu: las criptomonedas no esquivarán las sanciones",
       "source": "Negocios.com",
@@ -128,9 +155,9 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n12",
-      "headline": "El precio del Bitcoin hoy: el BTC se recupera hasta los 80.800 dólares antes de la reunión de la Fed",
-      "summary": "El precio del Bitcoin hoy: el BTC se recupera hasta los 80.800 dólares antes de la reunión de la Fed",
+      "id": "n10",
+      "headline": "Bitcoin se estabiliza cerca de 80.400 dólares tras la caída del fin de semana",
+      "summary": "Bitcoin se estabiliza cerca de 80.400 dólares tras la caída del fin de semana",
       "source": "Investing.com España",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeEVSUFBZbGpXanI3YkVQcG5VQ2pLcm01VmlDODI4Qm9qUjZJYngyRTBxTzkyZnpKS0lSMjUxakJKbHdzZms3WUVXX2FWMGJZMFRCMXU2UHY0YkVRWTBPMVk0UkRET0cxYlQ0NFRGMmd3Q0dHN3VieF9wU3BURTNEQVZ6Y1BLRlM2OXZfdVNMNG9FZ3dINUhOaWNZR3l1T2NYYWxmYXY0MTh6VVpOMDlUd2s4bGROLWdab09yU09YbU45dG9tOVdxamM1VV84VDBfYUdXQnpNUGZ2VnhXY2xoQjBVa2VqN1FqaEMtSQ?oc=5",
       "datetime": "2026-10-25T03:54:00.000Z",
@@ -155,7 +182,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n66",
+      "id": "n59",
       "headline": "Así cierra el mercado informal en Cuba: el dólar y el euro suben al fin de la jornada",
       "summary": "Así cierra el mercado informal en Cuba: el dólar y el euro suben al fin de la jornada",
       "source": "CiberCuba",
@@ -175,7 +202,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n62",
+      "id": "n56",
       "headline": "Trump suspende aranceles a Canadá: ¿cuáles y por qué?",
       "summary": "Trump suspende aranceles a Canadá: ¿cuáles y por qué?",
       "source": "Líder Empresarial",
@@ -195,34 +222,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n51",
-      "headline": "Bitcoin cae por debajo de 80.000 dólares y provoca liquidaciones de 670 millones",
-      "summary": "Bitcoin cae por debajo de 80.000 dólares y provoca liquidaciones de 670 millones",
-      "source": "Cointribune",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDRXMWV1dlhMbTU5cmxkQThTRG5VUDVnYzlBUC01MlVxY3JCLWxvYXk3b08wamhLLUVOdVZLYURrMmNKU3lhaTFveUsxRk5wU0s3SEVWNy1qcG1TVXA2d2hvRWRabU5xazJTeDRGdEJreFgwOXR6RV9tdEZWR2x2YURuTjNIY3c1MnNtbmZVb29nN1d5eHJ5REh5aWVrQkZEYTNpY2E2QTM3ZG4zeUY4RURn?oc=5",
-      "datetime": "2026-10-24T18:20:07.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n29",
+      "id": "n40",
       "headline": "Ether bajo 2.300 dólares: más débil que Bitcoin",
       "summary": "Ether bajo 2.300 dólares: más débil que Bitcoin",
       "source": "CryptoTicker",
@@ -249,7 +249,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n67",
+      "id": "n60",
       "headline": "Dólar cotiza en 18.66 pesos; así están las divisas y el oro en México",
       "summary": "Dólar cotiza en 18.66 pesos; así están las divisas y el oro en México",
       "source": "Sociedad Noticias",
@@ -269,7 +269,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n49",
+      "id": "n42",
       "headline": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
       "summary": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
       "source": "BeInCrypto",
@@ -297,7 +297,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n33",
+      "id": "n28",
       "headline": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
       "summary": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
       "source": "Yahoo",
@@ -325,7 +325,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n65",
+      "id": "n57",
       "headline": "Aranceles, shocks de oferta y la paradoja global: por qué la inflación mundial no da tregua",
       "summary": "Aranceles, shocks de oferta y la paradoja global: por qué la inflación mundial no da tregua",
       "source": "El Cronista",
@@ -354,7 +354,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n43",
+      "id": "n37",
       "headline": "Bitcoin: las acciones preferentes podrían atraer capital del mercado de bonos",
       "summary": "Bitcoin: las acciones preferentes podrían atraer capital del mercado de bonos",
       "source": "Benzinga España",
@@ -382,7 +382,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n63",
+      "id": "n54",
       "headline": "Donald Trump modificó el alcance de los aranceles del 50% aplicados a las importaciones canadienses",
       "summary": "Donald Trump modificó el alcance de los aranceles del 50% aplicados a las importaciones canadienses",
       "source": "El Esquiu",
@@ -402,7 +402,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n61",
+      "id": "n53",
       "headline": "Canadá está notando las consecuencias de los aranceles de Trump, pero esta guerra comercial no empezó de la noche a la mañana",
       "summary": "Canadá está notando las consecuencias de los aranceles de Trump, pero esta guerra comercial no empezó de la noche a la mañana",
       "source": "Fox News",
@@ -452,12 +452,12 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n4",
-      "headline": "KKR, un gigante que vale 74.000 millones de euros en bolsa y gestiona activos por 700.000 millones",
-      "summary": "KKR, un gigante que vale 74.000 millones de euros en bolsa y gestiona activos por 700.000 millones",
-      "source": "Plaza Deportiva",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVExmNTJHY1liOC12OXVoZFMyMXRzS0drWHVVQVdjUTY2QlRkRWdibmhGX2h0dzlfd3RPQ0pLeHN1cHlaM21mM3YxRDhmZWp4Z09hTUxtWGFDNmo2d0NCcW5iYTdHVGhPZUZKa3ptc2psU3pDZ3RuQ3lRSzJqd21CS19uSnhJZzhySkowbDhvX1I1NkJ3RGNxRnBPa0c5aklTeGlDQ095OTBxb1JfTHF3eDRxLXlIZGhMOTA1SzBzc0x4YVVLWGVuMXNrQ2hlak5uMnhPeEpHNWxrc0VXNlFfclFOV3kzTTVZQ3lFQkMwak9sOUJW?oc=5",
-      "datetime": "2026-10-24T04:02:58.000Z",
+      "id": "n2",
+      "headline": "Precios de acciones y noticias de los mercados de renta variable",
+      "summary": "Precios de acciones y noticias de los mercados de renta variable",
+      "source": "FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9xM3RTUHhsQnN3bGVQTkR3VnM4dEpyRU96WERzSWNxdTk4RFVDR3hmaUFqMTlfRHI3OXVuQ0pTdGVabjRHa0hR?oc=5",
+      "datetime": "2026-10-23T22:14:44.000Z",
       "topics": [
         {
           "id": "renta-variable",
