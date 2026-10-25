@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:26:12.406Z",
+  "generatedAt": "2026-10-25T15:18:08.811Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,12 +11,30 @@
   ],
   "articles": [
     {
-      "id": "n51",
-      "headline": "SEC autoriza la cotización de ETF 3x de Bitcoin y Ethereum, pero el reinicio diario puede erosionar su valor",
-      "summary": "SEC autoriza la cotización de ETF 3x de Bitcoin y Ethereum, pero el reinicio diario puede erosionar su valor",
+      "id": "n34",
+      "headline": "Franklin Templeton registra los primeros ETF que convierten dividendos en bitcoin",
+      "summary": "Franklin Templeton registra los primeros ETF que convierten dividendos en bitcoin",
+      "source": "CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbFNLOFBSM2hkMlpqdmpCSDJnNC14NVJVQ1dmcDh6aXU1OHFyMWM3OWZVOTVlRmdvaVR6OTJrVzdhd2xmaXNlSTRqcWFoNGZRekp4aVY4QnB5bnRBUEgtYUdodFhmQV9ZSDFNbU1DbVB6V0hwNGFjRDctdWZreHBDSDU3aVJfR2pRdmxkcG5HQjdCRzQ3M3FBQTg1c1VqVmN1UHc?oc=5",
+      "datetime": "2026-10-25T15:03:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n48",
+      "headline": "ETF de Bitcoin rompen dos semanas de pérdidas, pero octubre sigue en rojo",
+      "summary": "ETF de Bitcoin rompen dos semanas de pérdidas, pero octubre sigue en rojo",
       "source": "DiarioBitcoin",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWi1RRTdjYXRZMWNvUmdfOUVqVGFXVzZGZEExSThVaHlIZEZqa2p5blUweTJPOVd0cTRZOEEwdjUyOUxnNll0ZTRYSWtiRjhDVGptbzB6QTYtODl2dUY2RGZUbU9GNWtXM1VpdlZhWUpwUUJNaU1zdFlDZVJqanJVT2pzYm10UTlLaTBwVlNyRm1VYUxSWnB4X09GZ05WTG8tU2NqVFN2VnZkMWNoT3lKUDhBRnotRFdqdHpreE5Odjc2MWR4NWlXRUZBd253M1N5b2RkMnptTml2YVRyNkFHaEtuSQ?oc=5",
-      "datetime": "2026-10-25T09:42:29.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGQ3b0FwMmt0cE1Ja29MOGltQ1l3SXFrV29URXgyMDNTNEdLNzBuOXIzUTBEUHhmWk00bjJHWC1SWDcyMTJ6RHVlazM3ejV3R0YzaHZ0MUVxMllhUDBnc0R3bFRuLUlhT2hSY0dBaXdORkkzSWlYME9hVmRUT0dqclBPZVlCQzd1UU1naUotdzAyM3EyLVplcHdaaXJyRkZSeHdUUWpnWTNwWXhsWnJmWUFn?oc=5",
+      "datetime": "2026-10-25T14:42:29.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -29,12 +47,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n2",
-      "headline": "Desde Vigo hasta las billeteras virtuales de dos albaneses: así se resolvió una compleja estafa de criptomonedas",
-      "summary": "Desde Vigo hasta las billeteras virtuales de dos albaneses: así se resolvió una compleja estafa de criptomonedas",
-      "source": "Faro de Vigo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEhDRUlGU3hlMkRwSlZzYXpWZ3VNVWRFWS1HeUdpRHhPMHo3YmZyVDdwQS1fNDhWQTdqWkZzNmtyZWlFUHE2Z0RUZkZnMFBQcE1acGlFX3N1WVNxT3YzbzVfOEdzVnZEWGpRTm1zWmxpQVhMdWp2UXFMMkJpbDJMbHlZSTlsQVdFemlQZUFBcWdtTDBFeVpNY0lpTWlxcEh6STZsSGIxb3RUUdIBrwFBVV95cUxQZjJ1Z3J2MWZHajAxRkhXS1dyTDU1NGlDZkI3dHJiSXFLUDZlaUh5dHY0TGtlQ0QxUjRiRjVhS1Jpb1l6bUd5RU9aZkx5RUpZYXdmVWptSzhyTTdiOG1ZUDZEYTBTNk1BbjJqa3o3RUhDUHdQdVF3Wm1GbFV2cEFTZlV3YzJSN2lVQ0QxWTdpR1VBekFjNE1vLVNlcUR0S3g2eVcwNlZ2Y1U0ZWJvSkd3?oc=5",
-      "datetime": "2026-10-25T09:00:32.000Z",
+      "id": "n10",
+      "headline": "La decisión de la Fed será decisiva para el cuarto trimestre de Bitcoin según datos de Nexo",
+      "summary": "La decisión de la Fed será decisiva para el cuarto trimestre de Bitcoin según datos de Nexo",
+      "source": "Bitfinanzas",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Tc1FKZ05jVlJRdlJzT1BXdkFTMlBPcVAwdUMxS0tTMHFlZUF5Y1cyOUJTcC16dlBENFpVZF92Q0xDZnhCNWZPSS1MSmhiQ0dFaXZjYkszNDJpdDYxend2dzJMMDcwaHY5b3NTb3FWcFVxY25VYkE?oc=5",
+      "datetime": "2026-10-25T14:30:14.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -47,12 +65,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n59",
+      "id": "n54",
       "headline": "Criptomonedas hoy: cotización de las principales divisas digitales al 25 de octubre",
       "summary": "Criptomonedas hoy: cotización de las principales divisas digitales al 25 de octubre",
       "source": "La Nación",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmZSemdpYzBldmxjN2ttcDNHaHY1M3oxY09ua1B1UlNpaTMwandnVlQyTmNaaGxHTzlsNVBJTUNKY3k4VDB0allvUE4yMVZiRU1YaFV3ci15bHFrUFl1djFoRUU0VU5kRVljSnFBd0JwTjhCMHdRdWRRQl9ZUlcya3JOQUtLVWFzU21wUnhVUWFDVFIweG5Ib2lVZmh0TTFiQm8yQVVHQ3IxdFY1c2V2Xy1wOFl0MGQ0U0pWWkNKRzhkQ1FUT2pYSzRFNnVUc1Aw?oc=5",
-      "datetime": "2026-10-25T09:00:00.000Z",
+      "datetime": "2026-10-25T14:00:00.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -65,12 +83,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n7",
-      "headline": "BlackRock propone un ETF de Bitcoin que busca amortiguar las caídas",
-      "summary": "BlackRock propone un ETF de Bitcoin que busca amortiguar las caídas",
-      "source": "Benzinga España",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdEVOZFVITWR2Y3BPZk5SR29ZV0ZjQ25VTURPd1hBNUl2Mm5iaGp2RzNYX1VfT1FjWWI0WGpmMWV1YTZzMVF4TkRHLU9yMFhwS2gyNkpkZzM2ZTNRaC1VVnczRFE4Q3d2aTg2Nm5GYk5Na2dpQXVIWTdNMEF6UVRiMFN1Qk5tNjk5cTJTNUU2UXE1ejhkYVU1UQ?oc=5",
-      "datetime": "2026-10-25T08:00:38.000Z",
+      "id": "n47",
+      "headline": "Operativo deja más de 2.000 equipos mineros de Bitcoin incautados en África",
+      "summary": "Operativo deja más de 2.000 equipos mineros de Bitcoin incautados en África",
+      "source": "CriptoNoticias",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXNOVHVtY1JROEFBYTBwMVkzVk9kWW5tYzZjMDczNG80cFFCOTNpeVY5eGZkd29VUXNNLUl4dkxMVVFqZWN2MlFLOVJSZDl4TUFnUWFqRDZrTllFaHY5c21nYmd1SlAyaExxN0JkbFRzR2FxYVhnbF9Na2JTeVhZR2tVWUpKazA4WTdXZjFB?oc=5",
+      "datetime": "2026-10-25T13:45:00.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -83,7 +101,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n4",
+      "id": "n13",
       "headline": "El Banco de Israel frena a Netanyahu: las criptomonedas no esquivarán las sanciones",
       "summary": "El Banco de Israel frena a Netanyahu: las criptomonedas no esquivarán las sanciones",
       "source": "Negocios.com",
@@ -110,7 +128,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n3",
+      "id": "n12",
       "headline": "El precio del Bitcoin hoy: el BTC se recupera hasta los 80.800 dólares antes de la reunión de la Fed",
       "summary": "El precio del Bitcoin hoy: el BTC se recupera hasta los 80.800 dólares antes de la reunión de la Fed",
       "source": "Investing.com España",
@@ -137,7 +155,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n71",
+      "id": "n66",
       "headline": "Así cierra el mercado informal en Cuba: el dólar y el euro suben al fin de la jornada",
       "summary": "Así cierra el mercado informal en Cuba: el dólar y el euro suben al fin de la jornada",
       "source": "CiberCuba",
@@ -157,7 +175,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n67",
+      "id": "n62",
       "headline": "Trump suspende aranceles a Canadá: ¿cuáles y por qué?",
       "summary": "Trump suspende aranceles a Canadá: ¿cuáles y por qué?",
       "source": "Líder Empresarial",
@@ -177,7 +195,34 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n16",
+      "id": "n51",
+      "headline": "Bitcoin cae por debajo de 80.000 dólares y provoca liquidaciones de 670 millones",
+      "summary": "Bitcoin cae por debajo de 80.000 dólares y provoca liquidaciones de 670 millones",
+      "source": "Cointribune",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWDRXMWV1dlhMbTU5cmxkQThTRG5VUDVnYzlBUC01MlVxY3JCLWxvYXk3b08wamhLLUVOdVZLYURrMmNKU3lhaTFveUsxRk5wU0s3SEVWNy1qcG1TVXA2d2hvRWRabU5xazJTeDRGdEJreFgwOXR6RV9tdEZWR2x2YURuTjNIY3c1MnNtbmZVb29nN1d5eHJ5REh5aWVrQkZEYTNpY2E2QTM3ZG4zeUY4RURn?oc=5",
+      "datetime": "2026-10-24T18:20:07.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n29",
       "headline": "Ether bajo 2.300 dólares: más débil que Bitcoin",
       "summary": "Ether bajo 2.300 dólares: más débil que Bitcoin",
       "source": "CryptoTicker",
@@ -204,7 +249,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n72",
+      "id": "n67",
       "headline": "Dólar cotiza en 18.66 pesos; así están las divisas y el oro en México",
       "summary": "Dólar cotiza en 18.66 pesos; así están las divisas y el oro en México",
       "source": "Sociedad Noticias",
@@ -224,7 +269,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n33",
+      "id": "n49",
       "headline": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
       "summary": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
       "source": "BeInCrypto",
@@ -252,34 +297,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n38",
-      "headline": "La IA selecciona 2 criptomonedas que podrían convertir 10 dólares en 1.000",
-      "summary": "La IA selecciona 2 criptomonedas que podrían convertir 10 dólares en 1.000",
-      "source": "Bitfinanzas",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zTzJEWWlqaGxEUWhUeldhYzM4NEpUakJ4OGNveGNob2x0ejRnU0s4dlVxMWtoamw5cXN3WURtcUl2TWZXUVNFZ2dSVmo4cFZNNk5CclQ5bDUta1VmNUxsTV9Zb1RETDIwQ3c3MjRZQWQybVdpSjExanoxRQ?oc=5",
-      "datetime": "2026-10-24T14:31:01.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n14",
+      "id": "n33",
       "headline": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
       "summary": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
       "source": "Yahoo",
@@ -307,7 +325,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n70",
+      "id": "n65",
       "headline": "Aranceles, shocks de oferta y la paradoja global: por qué la inflación mundial no da tregua",
       "summary": "Aranceles, shocks de oferta y la paradoja global: por qué la inflación mundial no da tregua",
       "source": "El Cronista",
@@ -336,7 +354,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n27",
+      "id": "n43",
       "headline": "Bitcoin: las acciones preferentes podrían atraer capital del mercado de bonos",
       "summary": "Bitcoin: las acciones preferentes podrían atraer capital del mercado de bonos",
       "source": "Benzinga España",
@@ -364,7 +382,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n68",
+      "id": "n63",
       "headline": "Donald Trump modificó el alcance de los aranceles del 50% aplicados a las importaciones canadienses",
       "summary": "Donald Trump modificó el alcance de los aranceles del 50% aplicados a las importaciones canadienses",
       "source": "El Esquiu",
@@ -384,7 +402,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n66",
+      "id": "n61",
       "headline": "Canadá está notando las consecuencias de los aranceles de Trump, pero esta guerra comercial no empezó de la noche a la mañana",
       "summary": "Canadá está notando las consecuencias de los aranceles de Trump, pero esta guerra comercial no empezó de la noche a la mañana",
       "source": "Fox News",
@@ -413,26 +431,6 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n65",
-      "headline": "Los vinos del Valle de Napa sufren los aranceles de Trump",
-      "summary": "Los vinos del Valle de Napa sufren los aranceles de Trump",
-      "source": "Yahoo Finanzas",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZlJxOXMzbWJ3c3c3Y1lWZ1doWWdFTzIzaml0cXRwWUFPaHEwQUtVRXk5WGVrZ19hMlI4TmY5aG02ZTFWUVpTbW14MFpMV0pPZVlqc29YZi1LMU5oN1Axc1lFTUJJcUliNm42Q0JUMnVleF9qRURHWHdQVmdTOGVmMndEZUJhUFV6N3hkQlZJU2ZQRXg5?oc=5",
-      "datetime": "2026-10-24T07:46:16.000Z",
-      "topics": [
-        {
-          "id": "comercio-aranceles",
-          "label": "Comercio internacional y aranceles",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Diversificación"
-          ],
-          "note": "Los cambios en aranceles o relaciones comerciales pueden afectar de forma desigual a distintos sectores y países, lo que conecta con la idea de diversificar entre regiones."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
       "id": "n1",
       "headline": "Piero Cipollone: Interview with Milano Finanza",
       "summary": "",
@@ -454,22 +452,25 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n63",
-      "headline": "MATERIAS PRIMAS AGRÍCOLAS-El azúcar sin refinar registra su primera subida en seis sesiones gracias al alza del petróleo",
-      "summary": "MATERIAS PRIMAS AGRÍCOLAS-El azúcar sin refinar registra su primera subida en seis sesiones gracias al alza del petróleo",
-      "source": "MarketScreener España",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZXlRdmtGTHN0bVUwV201bGFBRUxpODlrRnc0MjdWUnBvSlRQUE5oR1VCLVRxQnlTcHplQ3N6TWNxSjVZdWw1UEh1SGZZODFGNWF6anB0ZDJJRXAwWmpQcHlDNVBQUm1QUnhqMklCM3pmYkk5YVZZVDBlSFNVVThYNUlnRzV2dG5BN2dpU1BEM3JRbUJhbDdMRzd0R1hocExKbWtWWHhYQ3BOVVhlVDR5RENkZW5hemEtLTQtTC1uR0NhTTRaN1A1c0NicnBjNGU1VVFYY21qaWRvNzlZU1o2aTI3NHVHdGJnYzhv?oc=5",
-      "datetime": "2026-10-23T20:00:18.000Z",
+      "id": "n4",
+      "headline": "KKR, un gigante que vale 74.000 millones de euros en bolsa y gestiona activos por 700.000 millones",
+      "summary": "KKR, un gigante que vale 74.000 millones de euros en bolsa y gestiona activos por 700.000 millones",
+      "source": "Plaza Deportiva",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVExmNTJHY1liOC12OXVoZFMyMXRzS0drWHVVQVdjUTY2QlRkRWdibmhGX2h0dzlfd3RPQ0pLeHN1cHlaM21mM3YxRDhmZWp4Z09hTUxtWGFDNmo2d0NCcW5iYTdHVGhPZUZKa3ptc2psU3pDZ3RuQ3lRSzJqd21CS19uSnhJZzhySkowbDhvX1I1NkJ3RGNxRnBPa0c5aklTeGlDQ095OTBxb1JfTHF3eDRxLXlIZGhMOTA1SzBzc0x4YVVLWGVuMXNrQ2hlak5uMnhPeEpHNWxrc0VXNlFfclFOV3kzTTVZQ3lFQkMwak9sOUJW?oc=5",
+      "datetime": "2026-10-24T04:02:58.000Z",
       "topics": [
         {
-          "id": "materias-primas",
-          "label": "Materias primas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
         }
       ],
-      "isNewScenarioCandidate": true
+      "isNewScenarioCandidate": false
     }
   ]
 }
