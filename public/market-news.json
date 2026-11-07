@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:33:16.333Z",
+  "generatedAt": "2026-11-07T03:50:06.584Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,12 +11,32 @@
   ],
   "articles": [
     {
-      "id": "n98",
-      "headline": "Rusia habilita bitcoin, ether y USDT para inversores minoristas",
-      "summary": "Rusia habilita bitcoin, ether y USDT para inversores minoristas",
-      "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1E4SzZ6ZTVEemZvRndZZFlpdmlGSGNBYnM0REhRb0dRQkUwODBaNGxmUXJubkQwWWt4aF9LVXNiNl9rajMwcFFwcXRIYk5zUWpVQ2xaRl9nTXNUcWw1X2lMMENlSE5nRDJCOW5UN2NjcjZYVTdvLVRNTXlMU3hFbUx5TEM1YXZZVXVOZ1RxZzdYTU1ha2FhZm5jTzc5YTQ?oc=5",
-      "datetime": "2026-11-06T22:09:00.000Z",
+      "id": "n132",
+      "headline": "Dólar al alza y euro congelado: así termina el día en el mercado informal cubano",
+      "summary": "Dólar al alza y euro congelado: así termina el día en el mercado informal cubano",
+      "source": "CiberCuba",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZXB6bWlKbkJfcGJEaU5raDhXSUxRNG5RTjZwU09WN0VMcS1xeFJwNklBdVhrMzhTWFp0X1NpYkFzdnZ6MEFLZ1FVY0ZUWW41S1FEaE5ublpLMEc3X0djdkxiamZSVDJTSUVoSHVtTEZUN2g5LVdBS2wyaUk5ekZGOGNxOXE5d0VKcUlMUC1LNGIxejFOWVowejQ5SThkU3lzLXJZeElOZ3ZQTnh4aWxUVi12Z2JSSWR1ckwyTW5CQWRHZi1f0gHEAUFVX3lxTE9lcHptaUpuQl9wYkRpTmtoOFdJTFE0blFONnBTT1Y3RUxxLXF4UnA2SUF1WGszOFNYWnRfU2liQXN2dnowQUtnUVVjRlRZbjVLUURoTm5uWkswRzdfR2N2TGJqZlJUMlNJRWhIdW1MRlQ3aDktV0FLbDJpSTl6RkY4Y3E5cTl3RUpxSUxQLUs0YjF6MU5ZWjB6NDlJOGRTeXMtcll4SU5ndlBOeHhpbFRWLXZnYlJJZHVyTDJNbkJBZEdmLV8?oc=5",
+      "datetime": "2026-11-07T02:48:13.000Z",
+      "topics": [
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n66",
+      "headline": "Pérdidas en bitcoin: 2.000 millones en 3 días",
+      "summary": "Pérdidas en bitcoin: 2.000 millones en 3 días",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5idTJXMmhVSmNBMWp1aHd2SHBENDI2U252T21qNTE1ZTdSNF9KY19yeU50RllYUFNmQ3JjR3U0VGNJN0NfcUtyeHlGdW5fNm1TQkhqdzJwLTlFUW1DMUNBRWdJTzE4ZWkxOWNJdkhR?oc=5",
+      "datetime": "2026-11-07T01:01:36.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -29,12 +49,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n72",
-      "headline": "EverValue amplía su ecosistema respaldado por Bitcoin con el lanzamiento de EVA Locker",
-      "summary": "EverValue amplía su ecosistema respaldado por Bitcoin con el lanzamiento de EVA Locker",
+      "id": "n81",
+      "headline": "Bitcoin podría alcanzar los USD $150.000 en 2027, pero su recuperación aún es frágil",
+      "summary": "Bitcoin podría alcanzar los USD $150.000 en 2027, pero su recuperación aún es frágil",
       "source": "DiarioBitcoin",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN3J3ZGdVbENCWTJsb0dqb0xzbzQ3QThnMWFOQ29DcUh6Wmd5ZElLQ0V5VWNjSzhPZHJySktaMXNneUZYRDJuM0J0ZEVqelp1dGljTmRNUDEwelluV1MwSTl6ZFdiUWhOazB1NDUtQkdfSVNvT1dYYkVrZ09OTndpRzdwUjI4bzhIbnR4S0lOLUVMNllCOGZvME1wYm00NHBONmVZdnJiTC1ZbHZHaWlPZFYtWFFTX1JpbXpJYWgtU3VBRjhwcnBYMkMxeGJSQQ?oc=5",
-      "datetime": "2026-11-06T21:48:17.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDVYWDYxUmttSU1DZ3dDS2djRnZROXNWLWlWUGw1ZWNkSWhWWWtFM0FSM1NKN0hCa0hqVElrbHRjM2l5ZWNzSmU3TEM2cDZINkxTMWVydFVwa2cyQ0ktWkZEUGltWUJVVDlBR0JSOGx1ZkMyQVUzOHR5WlhfMWttaWlZUzRnVlVleWRWQjhkc2NWVUpYZ2tLV3RSYy1IRGFoRjVxVGNJU2RvTW1FZGxBQnhUMTYyOEMzMmlwM1RlTUotZkhCelhN?oc=5",
+      "datetime": "2026-11-07T00:11:38.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -47,7 +67,154 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n24",
+      "id": "n78",
+      "headline": "Ola de ataques a WordPress: tres amenazas activas y lo que deben revisar los sitios y comercios cripto",
+      "summary": "Ola de ataques a WordPress: tres amenazas activas y lo que deben revisar los sitios y comercios cripto",
+      "source": "Criptoinforme",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkk4aWxTdWRzbWIwTVIyRXNpQVFLYWNDT0thZjF6UkxEVnJZdHJKSVFpOWxMbkZ5NFY2ZVVqc25TZU5IdGgwaHRyeW5RZnNSd3VoXzJpaFhHN1JaZTlOVU9janVtOWZaeFNMcDRNYnBhYnd3bm1TalZOYXVBZThxVVFYbEJNa3RxSHE0V3A1d0xXZHRoVUpTUHBVeW4?oc=5",
+      "datetime": "2026-11-07T00:08:18.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n29",
+      "headline": "Michael Saylor: cómo Strategy acumuló 849.327 bitcoins",
+      "summary": "Michael Saylor: cómo Strategy acumuló 849.327 bitcoins",
+      "source": "CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5idHo5OTJqemh3TlVWWWNROVRGLWpTOXh5ZDg4eXp2U1lQRy1fcHdCSDh3T0tzT0ZBNkFsLUFCOW5MLUV2UnJydlRGQXBvMXh3cF9xdVc1dUlKUHI2QzlmNGQ1MFh0Wms2MU5JRGlVcjNadmRvVXc?oc=5",
+      "datetime": "2026-11-06T23:23:06.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n120",
+      "headline": "Quiebra el banco más grande de Paraguay: la vez que pasó lo mismo en Perú",
+      "summary": "Quiebra el banco más grande de Paraguay: la vez que pasó lo mismo en Perú",
+      "source": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1N0R3RSSTdNQzlNT2ZyclBVRW1lXzN4N0Itb3FzOWR2N3hHLXpOWTJCajBxOTBWNjM2R1lXNFZIZldES3F0T2NBeHdYbnhXcHFpdVI5X21Wb0Ftb2I4aFByeGxiZGZGQ21GNTg0bTVnVGhqQVM0T2ZjSDRHTWh5RERPMnlBQWxlWlI3ZF9rdzhLWlZOcFNyYnJlS3JSM0FtN3IzWkNERVZ1enMxc21FY1NMQdIBzgFBVV95cUxPUXZ3YlRQT0ZtbzBGNHQ5TlMyaGRKYXRycUdqZTQxM3dYT1ozaW1SNGlTZENocVJOYXU2aGpkMW5PbTdxTjdfWmtmbkIyQlFOYVpSUjRtWWZYR09keVBqZW9wM21tbkFGUjJEbmJTUGZXM3FMaVhhdjdEZTRyWmlMMXAwbTRVMW1zaVppR0paVXFkVDVVX1RodnJySnBxTUJyTmJMeTgxU0M2LURpUl9XSjI2OFFsMFdscXBZeTRMTndzUVl5NmRfc0dUbUFRUQ?oc=5",
+      "datetime": "2026-11-06T23:22:00.000Z",
+      "topics": [
+        {
+          "id": "sector-bancario",
+          "label": "Sector bancario",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de contraparte",
+            "Diversificación"
+          ],
+          "note": "Los problemas en entidades bancarias concretas pueden relacionarse con el riesgo de contraparte visto en réplica sintética, y recuerdan la importancia de no concentrar el riesgo en un único emisor."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n73",
+      "headline": "BeInCrypto y Coinhold Wallet organizarán AMA sobre stablecoins e inflación en Latinoamérica",
+      "summary": "BeInCrypto y Coinhold Wallet organizarán AMA sobre stablecoins e inflación en Latinoamérica",
+      "source": "BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2hiUVlsN1dOQ192TWNTWjdxYmxZSDZKWjNZRlY1SEZjUHZWSDFXTVdMYm8xM1o1cktvWF9ic2xYYzJrc3ZQYUlzaXM1MER6ajZpOU1tX2dEYTFsSzFVd3JveUZiSEpwUDFRZXFvYjBlODVzQ2RneVpoOE0xQjFNMVFmUkI?oc=5",
+      "datetime": "2026-11-06T23:15:05.000Z",
+      "topics": [
+        {
+          "id": "inflacion",
+          "label": "Inflación",
+          "scenarioTag": "Inflación",
+          "glossaryTerms": [
+            "Rentabilidad histórica vs. futura"
+          ],
+          "note": "Una inflación distinta de la esperada cambia la rentabilidad real (descontada la inflación) de cualquier inversión, y puede erosionar el valor de cupones fijos pactados de antemano."
+        },
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n18",
+      "headline": "Resumen semanal del mercado bursátil #6Nov",
+      "summary": "Resumen semanal del mercado bursátil #6Nov",
+      "source": "El Impulso",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVh2aFpLTDJBdjkyam1ubnhMYm9EamlEb19EVU1hOVVtODRNUzFIVUxuMGxuMDJhTDVUMU5neHFiVG5fdDI2U3ZoTVhON0E1eW1KNkZVNFNIbjR0bW52RWJjSUhkdmM4bGd3VlpxOE1mX0loM0JuVU1uTnVpT1hEMTdXWGE3QQ?oc=5",
+      "datetime": "2026-11-06T22:45:00.000Z",
+      "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n118",
+      "headline": "Las claves de la quiebra de Ueno, el banco que le costó la presidencia de Paraguay a Santiago Peña",
+      "summary": "Las claves de la quiebra de Ueno, el banco que le costó la presidencia de Paraguay a Santiago Peña",
+      "source": "EL PAÍS",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZUttYk9zZnRnTkRaZm1ienB1VHFjT01zUXh1UFhNVkZZM09QVXpaandGOVAtekJRbHd2cGJHWUlMakRORWFRdHM1SVljMkpTd0NHYjk1b0Z1RHd2TlowZHVTVVVISHh1ajRJY0VnRF9DaVRMcUlPYVRXRHRoUDY1T0VYeGRDNHJMYnBUV2owSmhqUS1sa01sbllienFlYUlsOGRtdi1CRXhad0xpQjk0d1d3NnU4WFNzeXdpaHZZaHltaXhoQWhfUTVKNkFRM2hGRHlfbVhLZ9IB6wFBVV95cUxQdXpLdUFpN0pnTHViR2hhc1hGRmpzbFBFVV9FYUZ6OVNzQ3RCN3J2MHhmVkZLY2tDS3ZZMzBpVGpFQ0NWM2s2cDZEWG9vX0h0OU5EVmhfMzRkN2FtYWhtYzg4a0tZS0I5a0JSeUJlSzFuMF84SmRxT0VWYldaZWhELVJ3cFlHdjBFcTBRNjI5TF9wU3p3RlN2WGN0LUpNdkplMnB3OWw5WDNMZFVURy05UGF6RVZ6Z0VRUzl5el85d3VOdk8wc2tsNDM3OS1aZ2pLMUd5dm1JSWNSQU9vc2x3Y1pEbS1wZm9XZ0o4?oc=5",
+      "datetime": "2026-11-06T22:41:15.000Z",
+      "topics": [
+        {
+          "id": "sector-bancario",
+          "label": "Sector bancario",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de contraparte",
+            "Diversificación"
+          ],
+          "note": "Los problemas en entidades bancarias concretas pueden relacionarse con el riesgo de contraparte visto en réplica sintética, y recuerdan la importancia de no concentrar el riesgo en un único emisor."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n125",
+      "headline": "Senado de Paraguay aprobó por unanimidad la destitución de Santiago Peña por la quiebra de Ueno Bank",
+      "summary": "Senado de Paraguay aprobó por unanimidad la destitución de Santiago Peña por la quiebra de Ueno Bank",
+      "source": "Diario Financiero",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMU9mdnRRV3pGbUlwbmNNVHJpdmpvLU5peXh0dUUxTlNaVy1tcFJJRk5qem1UeFdvR1NMLUZ2M3otVEF4NHR4emttMzhqQVlPVlZ6WHF6TEwwd05KTDRseUl3U2ZSOWJnZ1FWRXVxRVFDNTBmQjZJU3YtR1lzeklLMWk1ekdDZEo4bVA0YXZIc1N3QWtybUJYaVJrd3l3RHVuYkdBdV9oQnYwbXNmV2M5aFRB?oc=5",
+      "datetime": "2026-11-06T22:20:00.000Z",
+      "topics": [
+        {
+          "id": "sector-bancario",
+          "label": "Sector bancario",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de contraparte",
+            "Diversificación"
+          ],
+          "note": "Los problemas en entidades bancarias concretas pueden relacionarse con el riesgo de contraparte visto en réplica sintética, y recuerdan la importancia de no concentrar el riesgo en un único emisor."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n35",
       "headline": "Predicción de Bitcoin: una salida de 430 millones de dólares deja en negativo el saldo de los ETF en 2026",
       "summary": "Predicción de Bitcoin: una salida de 430 millones de dólares deja en negativo el saldo de los ETF en 2026",
       "source": "CryptoTicker.io",
@@ -74,7 +241,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n127",
+      "id": "n137",
       "headline": "Precio del euro hoy en Canadá: cotización de cierre del 6 de noviembre",
       "summary": "Precio del euro hoy en Canadá: cotización de cierre del 6 de noviembre",
       "source": "Infobae",
@@ -94,33 +261,43 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n136",
-      "headline": "Euro hoy en Argentina: a cuánto cotiza la moneda hoy viernes 6 de noviembre",
-      "summary": "Euro hoy en Argentina: a cuánto cotiza la moneda hoy viernes 6 de noviembre",
-      "source": "La Nación",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3hKN1BWb3VMVV81RXd4STNCeDJvV0lNMGZwR0ZNek1ka21PMjY5NHNBSmtuQ1h5UXd1ZjcxSmRPSWgzZlpPN0p2QVlvUW5yck94MWR4ZEtNM0M3V0g3Zzc0YnA2VmdIa3Bhak1aOElDdm1OdXpfcGJlVkdHaXFOWGE3RXN0eHJoNnZnc05CbGJfbVVaRUNXbDFyX3lNc29Nek9xRFVESTZZYVhXWGpZXzRlbFdjTENnQlZYT1VVNlV1UDlDTURSd29B?oc=5",
-      "datetime": "2026-11-06T20:20:00.000Z",
+      "id": "n5",
+      "headline": "IPC: inflación anual podría alcanzar el 4,8% y economistas anticipan aumento de la tasa de interés",
+      "summary": "IPC: inflación anual podría alcanzar el 4,8% y economistas anticipan aumento de la tasa de interés",
+      "source": "Universidad de Chile",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU2d0bmFWbzYzYVBsWk82UldONnNKN2I1WFlrQzZmN3BOSlotRkVCVWpBY0VwaUQ4UzNZOFA2cTI4cF90eE95am9SMlN5S1E5R2JucURWRklhaEFUaWlJamJVVnVUTlo1VHBPc1JjT1drQnlBb3k0VXRyODFMSURBN04tNE9QcldleXZ4YjlmOHQ3LXZTR3FuVlJqUzB1bjdCLUczQ3lRLXRLbkkxUUJUSUZtU2ZhQWFwamFMNnNWYU5WMUhUTVNXdWVOVQ?oc=5",
+      "datetime": "2026-11-06T20:46:17.000Z",
       "topics": [
         {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
+          "id": "inflacion",
+          "label": "Inflación",
+          "scenarioTag": "Inflación",
           "glossaryTerms": [
-            "Riesgo de divisa"
+            "Rentabilidad histórica vs. futura"
           ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+          "note": "Una inflación distinta de la esperada cambia la rentabilidad real (descontada la inflación) de cualquier inversión, y puede erosionar el valor de cupones fijos pactados de antemano."
         }
       ],
-      "isNewScenarioCandidate": true
+      "isNewScenarioCandidate": false
     },
     {
-      "id": "n23",
-      "headline": "La propuesta estadounidense para los planes 401(k) deja la puerta abierta a las altcoins, pero persisten los obstáculos",
-      "summary": "La propuesta estadounidense para los planes 401(k) deja la puerta abierta a las altcoins, pero persisten los obstáculos",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyWDd5QWJNdlBEcDl5ZUNOOUh2cThlS2l2aS1fNW4wNTlPeDFha2w0X09JVmU1NTR3VmtTVmdkZWtGcTYyWWxGcllxY0pINHhuTmc3dk1hMmZ4bXd1RkRjc3VmQlQyM1poSEhlSHBpSQ?oc=5",
-      "datetime": "2026-11-06T20:04:27.000Z",
+      "id": "n42",
+      "headline": "Apple y Meta rechazan los planes de acciones tokenizadas de OKX–ICE, dejando a las empresas de criptomonedas como las que hay que seguir",
+      "summary": "Apple y Meta rechazan los planes de acciones tokenizadas de OKX–ICE, dejando a las empresas de criptomonedas como las que hay que seguir",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUjVQS3FGeGtYSUVaWHNJM3p6U3B0aE1OWjhWVWt2bU5DbWc1TmdzRXhiVDMtM09KbjU1U1JHUUFLZGEwUlNkT29mazl6dTRvUkZTZmw5VDgzN0pKSkdDdkxwWTBWczJIUWtWTGc4ejdibUhDU1VnU3JMX3A0VmFTb1otYTR4MFdwWTI3dkU0ODVDRFNkWS1Wbzk5S1F3TktraFNUZmhHcTQyT1RWaWkwMmYwR2x3YnlTRFlzNkxhSGpfNm9nWVlULUJTNl95RDhL?oc=5",
+      "datetime": "2026-11-06T20:09:18.000Z",
       "topics": [
+        {
+          "id": "renta-variable",
+          "label": "Renta variable",
+          "scenarioTag": "Renta variable",
+          "glossaryTerms": [
+            "Volatilidad",
+            "Diversificación"
+          ],
+          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
+        },
         {
           "id": "criptomonedas",
           "label": "Criptomonedas",
@@ -129,10 +306,10 @@
           "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
         }
       ],
-      "isNewScenarioCandidate": true
+      "isNewScenarioCandidate": false
     },
     {
-      "id": "n128",
+      "id": "n138",
       "headline": "Euro hoy en Cuba: cotización de cierre del 6 de noviembre",
       "summary": "Euro hoy en Cuba: cotización de cierre del 6 de noviembre",
       "source": "Infobae",
@@ -152,7 +329,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n133",
+      "id": "n142",
       "headline": "Euro hoy en Panamá: cotización de cierre del 6 de noviembre",
       "summary": "Euro hoy en Panamá: cotización de cierre del 6 de noviembre",
       "source": "Infobae",
@@ -172,25 +349,27 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n95",
-      "headline": "Ladrón de criptomonedas usó a ChatGPT para planear inversiones y mudanza",
-      "summary": "Ladrón de criptomonedas usó a ChatGPT para planear inversiones y mudanza",
-      "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFgyQjVDVHRyZTRkMmJkX1VSMUFULV9LWmFCblZwYVh3YVNSc0FwR2RwTWtvQ0VHU0xmR3ZIMjZ4MXNTa0JMbjl1ejM4QjdOT2RYVm1RTF9Ma2JIZUEwQk9RTmJwdll2eUVlOHh1WWtCUWd4SkN1SzQwWVdGZXE5a0pyU2xELV9BT2tzYW5HLUlGNTZVYW53TEJfMnQtc3VOZzhrTVZjbXMwZw?oc=5",
-      "datetime": "2026-11-06T20:00:00.000Z",
+      "id": "n8",
+      "headline": "Diésel y alimentos impulsan inflación: IPC sube un 0,5% en octubre",
+      "summary": "Diésel y alimentos impulsan inflación: IPC sube un 0,5% en octubre",
+      "source": "El Día",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMklPS3d0bnBoZF9aTnlhYU1zckh6SFkycjVqREh6MC13YkdvN1pESFpyY0RUWnZjcnN3NUZyMy00cUJiUlB1UXJnOG9aYUx6cWdPZlVHYlIwS1RzeU92eVQ2eHhMVDBENDBiV3p3UmxXSUJoZmZhZ243cTFOM0VSQjk0UEQ1ME1FV2VVNkc1cEJmNEtiM3BGMlVnazc2YWxhYkFDREdRalNBMG5VSFVtaWxISUt5dm9TVVMxRmNyaG1abjJoNUxF?oc=5",
+      "datetime": "2026-11-06T18:40:59.000Z",
       "topics": [
         {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+          "id": "inflacion",
+          "label": "Inflación",
+          "scenarioTag": "Inflación",
+          "glossaryTerms": [
+            "Rentabilidad histórica vs. futura"
+          ],
+          "note": "Una inflación distinta de la esperada cambia la rentabilidad real (descontada la inflación) de cualquier inversión, y puede erosionar el valor de cupones fijos pactados de antemano."
         }
       ],
-      "isNewScenarioCandidate": true
+      "isNewScenarioCandidate": false
     },
     {
-      "id": "n114",
+      "id": "n121",
       "headline": "Crisis en Japón: más de 100 bancos paralizados por un apagón masivo",
       "summary": "Crisis en Japón: más de 100 bancos paralizados por un apagón masivo",
       "source": "Negocios.com",
@@ -211,7 +390,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n16",
+      "id": "n28",
       "headline": "El precio de Bitcoin cae por debajo de los 75.000 $ mientras los mercados de criptomonedas no logran replicar el repunte de las acciones tecnológicas",
       "summary": "El precio de Bitcoin cae por debajo de los 75.000 $ mientras los mercados de criptomonedas no logran replicar el repunte de las acciones tecnológicas",
       "source": "TradingView",
@@ -239,7 +418,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n117",
+      "id": "n127",
       "headline": "Bonos de Banco Ueno se desploman a niveles críticos tras quiebra bancaria en Paraguay: IFR",
       "summary": "Bonos de Banco Ueno se desploman a niveles críticos tras quiebra bancaria en Paraguay: IFR",
       "source": "El Economista",
@@ -258,188 +437,6 @@
         }
       ],
       "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n111",
-      "headline": "Cambiar los aranceles de Trump no será una tarea fácil para el Congreso demócrata",
-      "summary": "Cambiar los aranceles de Trump no será una tarea fácil para el Congreso demócrata",
-      "source": "El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON1NDWHlheGd5eEN3ZG1uUXR6c21nalNsUWs2TkRQZUZLUV9VNndCd3VXYmpRS2EzUm9uNXNrcDZEQm9XbXVDLU5UNGxWcl8xV1N6QUFfekpGUDJRTDA5VFJYd3B0UUM4UzBHRjhqM2lpazY2RnBCOGlZUkFZZHdDMGxPVmQwUGFTTk0wbGJRR3JSOWc2TTl3VmR2TXFUbmZLQXRxZjVpb19yaURtTndDQTNqRk5aWXNOY0dQVDlLbDlTaF9FbzV4OHR3TzVvOEHSAeMBQVVfeXFMT2lFc3pBOVYzYWplYWFza1B2Q1FQQ0cwRjRxYVp0bWQxUE9UU25oZ3VCcFdQRXY0eEZWVXBLSXRNZWlsX2RhcUlfalFuYnhtRExUTTRjdTYxRVBxaTRiWU5nZW1rU2tDallnUUVkSmI5dE85ODd4dzZLZkRPMWgzVHRrMzNwNTg0REtxTWx1VUxKWUZFN1hhZkEzcm9UbTg3bEVwRHRYajJOLW5KYm53OGRyVEtyUmV4eks3WUJ3MDJBdmZMVklBdFNFTkhlcU9fUVNTUWx5RmVfVXVqek5NWU5sN1U?oc=5",
-      "datetime": "2026-11-06T16:24:01.000Z",
-      "topics": [
-        {
-          "id": "comercio-aranceles",
-          "label": "Comercio internacional y aranceles",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Diversificación"
-          ],
-          "note": "Los cambios en aranceles o relaciones comerciales pueden afectar de forma desigual a distintos sectores y países, lo que conecta con la idea de diversificar entre regiones."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n42",
-      "headline": "Bitcoin cae a US$75.000 arrastrado por el desplome de las acciones de IA",
-      "summary": "Bitcoin cae a US$75.000 arrastrado por el desplome de las acciones de IA",
-      "source": "Criptoinforme",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbFpKUEpXXzNScV9xRDQ0Ykl1cEJGSmR0VzhiQjVKbnVDbE02M1F1SUZyOWdQZjRKM0tGcTR6SUhLd0RLY1NGaWd1Z0ZqblRicGxJU2kxRnIzQ3FadDlvYldSWnJIMndoMWhlSWd1Uy1KcXhlUmRBeU1BT3RXam9pUl9tZm00cllZaXhBdDh3?oc=5",
-      "datetime": "2026-11-06T15:49:56.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n100",
-      "headline": "Materias primas en Canadá: signo dispar en el petróleo ante los ataques a petroleros y la reactivación diplomática en Oriente Próximo",
-      "summary": "Materias primas en Canadá: signo dispar en el petróleo ante los ataques a petroleros y la reactivación diplomática en Oriente Próximo",
-      "source": "MarketScreener España",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUFRENDNjb0lWMzNLaUR6T0hJa2xqMy10YllxSFFRQjRjYk83Slo3cGg0TWpwb2F5OVhZSFE1eGdnUE9ZUGxLYmtkRGFIRlBnc2NOSEd4X3VfZHNleUhEaGMycmxWX0M5WFFlcFVvTklsX0ZpTXdKT1B6OExvRXozXzR2LWdIU2s3R2tpZEhaRG96Y0NaR0w5eVpYdmxmQ3J1MEJwcTd2bXpoQXNYRE1KWDl6YTczN0JrWFlKQmNBUzhyM0FQb2pEUmZqLXB4ZjV4S1JPZS1WZGZSaWx5YXVHdzUwNlY5eUw5N0E?oc=5",
-      "datetime": "2026-11-06T15:08:12.000Z",
-      "topics": [
-        {
-          "id": "materias-primas",
-          "label": "Materias primas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n51",
-      "headline": "Bitcoin podría caer a $58,000 tras el crash del Nasdaq, advierte Benjamin Cowen",
-      "summary": "Bitcoin podría caer a $58,000 tras el crash del Nasdaq, advierte Benjamin Cowen",
-      "source": "BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NOFd4ZnVOUXdFcEFWOVhGb3hsdzhrZGlCUzZJUlZNdjMwLTVJaFJXeHM1TGtEMGx3VXVnTnp0bGRTcHRJcklVZlk3ajdJQkpsWUlGZEFLcGFyajlUdkZUYkZQRHBWY1dfODhueXRVNGhuZDZjeGhJVA?oc=5",
-      "datetime": "2026-11-06T13:02:00.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n7",
-      "headline": "Los inversores ajustan su apetito por el riesgo mientras la renta fija recupera impulso",
-      "summary": "Los inversores ajustan su apetito por el riesgo mientras la renta fija recupera impulso",
-      "source": "Estrategias de Inversión",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTZzemRhZnFNZlA4NEVpcVRyNVhuODJhVnQxUEZqV0tHSmYyZkl3ZTVRRENVMmlZNlI5R19uRUtoYXNIbV9OZy1RZ3RITGdxYnVaY3RjanVJVF9ZdEc1cHdkc21fanBHOEthaXFRNVBFcEFsU2lPVEE1NFJUcXBPa1lfb3ZJNDl2M2hWZ0JPRGpPeTk0RkR3cFVHVkRLSm1Ga2lBUtIBoAFBVV95cUxQdllSNjN3U2RZNTR3dXpZMTJTeVN1bHR4WDhZVk5MQ2JWM0dva2xHU1A2aWpjazdONkY2TnhqMWY1Q2FpXy1Xb2xWY3Q5VVhhdHZnb1VtU2dreGR1R3dyNHh2MUYwSkNlZjhSYzUxajB3M1FSbGRwc1RpemVyaEhkYlNfQ29LX2xRc0NiQ1c0cHZhSGZQckUybzVoMGxQeHVS?oc=5",
-      "datetime": "2026-11-06T12:00:00.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n45",
-      "headline": "El Bitcoin está en una encrucijada mientras el Oro retrocede por debajo de 4.100$ y la bolsa coreana activa una suspensión de negociación del 8.55%",
-      "summary": "El Bitcoin está en una encrucijada mientras el Oro retrocede por debajo de 4.100$ y la bolsa coreana activa una suspensión de negociación del 8.55%",
-      "source": "FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZlNCQjR5UG1PUmg4SDdib1hhZHhWdWczbzUwdE9ROVJDVjJQbW9CTWhoSDBISWZZVUVzbDNLY29QUVpWdDd0eHVHQUV2ejRyd0tfS3hGV182c3UyNEFscDZKNjYxNmxoRGs4RGM1cGl6bE5mT082TERKNkN4LXFlVDRGV0NlR0N6alBnVDlsRm1xTHdEZG5xVWtDRU9KdXhzY1pWdExwcFo2cjhzNDRuRVd2ampieGRiOWJCZ29nTFRQb2pJTnd3T3NZdllxbUdNdHR4MUY5Z2xfbU1OU1lZd3NhSTlqLXF4VUhPUnlrTlltRV95SWVjc2NielhJZFBBdExZckpSOEVkOVFib01vTThsdDJYQXk1?oc=5",
-      "datetime": "2026-11-06T11:31:45.000Z",
-      "topics": [
-        {
-          "id": "renta-variable",
-          "label": "Renta variable",
-          "scenarioTag": "Renta variable",
-          "glossaryTerms": [
-            "Volatilidad",
-            "Diversificación"
-          ],
-          "note": "Los movimientos bruscos en los mercados de acciones son episodios de volatilidad: recuerda que la diversificación reduce el riesgo específico de un activo, pero no el riesgo de mercado en general."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n104",
-      "headline": "Incertidumbre EE.UU.-Irán limita la caída del petróleo a la espera de nuevos acontecimientos",
-      "summary": "Incertidumbre EE.UU.-Irán limita la caída del petróleo a la espera de nuevos acontecimientos",
-      "source": "investingLive",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3hNTktrN0VSM281YVJoZGl2RWhrUmJhS2JNcFlDa0ZNVUl0NXIwMXpjQTRwQk1jV2pfNTVpV1YyQzVqQVB5RUVFZEZ5NzgzVjZOMGlqcm90WFk3MWktOHZLOFpKREw5ZDU2UG9ldGNZZlVNTXZKU2wzZGZSX3pBMjFVRGJxRzZmd2hNdGkxVjNQMW03bTlkQ0FId2hvTU1seDM0TGFkbWdSWlRyR19NdDRVWHU4T3A1Vm9JRE9ZYUNYZXhhc01TMXpQT0JvR1c5UHc?oc=5",
-      "datetime": "2026-11-06T11:03:41.000Z",
-      "topics": [
-        {
-          "id": "materias-primas",
-          "label": "Materias primas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Las materias primas pueden afectar indirectamente a la inflación y a sectores concretos de la renta variable, pero no se explican en detalle en esta app."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n1",
-      "headline": "ECB publishes consolidated banking data for end-June 2026",
-      "summary": "",
-      "source": "Banco Central Europeo (BCE)",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
-      "datetime": "2026-11-06T09:00:00.000Z",
-      "topics": [
-        {
-          "id": "tipos-interes",
-          "label": "Tipos de interés",
-          "scenarioTag": "Tipos de interés",
-          "glossaryTerms": [
-            "Duración",
-            "Curva de tipos"
-          ],
-          "note": "Los cambios en los tipos de interés de referencia afectan al precio de los bonos ya emitidos: cuanto mayor es la duración de un bono o fondo de renta fija, más sensible es su precio a este tipo de noticias."
-        }
-      ],
-      "isNewScenarioCandidate": false
     }
   ]
 }
