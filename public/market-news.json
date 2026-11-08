@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:14:52.848Z",
+  "generatedAt": "2026-11-08T03:31:03.537Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,12 +11,68 @@
   ],
   "articles": [
     {
-      "id": "n118",
-      "headline": "Qué está pasando en el mercado de divisas: las reglas empiezan a fallar",
-      "summary": "Qué está pasando en el mercado de divisas: las reglas empiezan a fallar",
-      "source": "El Boletín",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXlKMVk4blFQU1ZMWUo3WDlvX3puY25pQzZGUEJBX0dscjBkTnJNZkJxbU5KTHJsYmZZSTk1S2VydlYtR1kycnhWQjVILVhNcDZTWmprT0lNWGtUTGNfeG5jQUhCT0xqc2ZoYXRELXBnVDJFUk1BN3pYQW9ncWJVTUZOYWhrOGRKMUxwSVFxdXVCN0ctcW94bVhKRndqQdIBowFBVV95cUxQMmlLUmhtUFprcU0waVNLTzdZcUNEa3c0d0ZXN2ROdVRybGw1d1VTYmJSV2gtQkc3ZjV1bkxTdkp5eFUtVHI5NUhheEpaU1drVjJuZlNBa2tyaWl3WGxLN2N2RzhtTXR2ay1XS282bmVRcnNaOHNQUkhLcEVzQi02WjNhNlZVWVh0eWF0c1ZLR0VRUkNhR1ViXzQyM1pRcmpSMFNR?oc=5",
-      "datetime": "2026-11-07T20:40:43.000Z",
+      "id": "n75",
+      "headline": "La UE crea un grupo de trabajo de 12 meses para frenar la evasión cripto de sanciones rusas",
+      "summary": "La UE crea un grupo de trabajo de 12 meses para frenar la evasión cripto de sanciones rusas",
+      "source": "DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVdjeWEzQUVxVnVkeUREdktISHNEazJaWjk2d19jcjMzQnNZREZaTS1IVDVDcERmc0hxRFRyVnB3bkVrMFlldElfamI5aVo5SmFvOFdHZTNjNEg3SVFjY01LbE5aTDFjMG8zamR0eUxrQXRlS0ZfeUxmQy1aNDc4dVZkVk11UzByTGV0YVltNnNlTlpzMmRWZDZZc0J3RDRUelpVX1g1Z3dEb2hOZ2ZNVnJDcXp4eXBUZ0FFYVllNmQxQ194d2pwMGJsRkRzQQ?oc=5",
+      "datetime": "2026-11-08T02:34:10.000Z",
+      "topics": [
+        {
+          "id": "geopolitica",
+          "label": "Volatilidad geopolítica",
+          "scenarioTag": "Volatilidad",
+          "glossaryTerms": [
+            "Volatilidad"
+          ],
+          "note": "Los eventos geopolíticos inesperados suelen traducirse en un aumento temporal de la volatilidad: oscilaciones de precio más amplias de lo habitual en varias clases de activos a la vez."
+        },
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n105",
+      "headline": "¡Sigue la guerra comercial! China mantiene aranceles de hasta 267.4% a importaciones de EE.UU.",
+      "summary": "¡Sigue la guerra comercial! China mantiene aranceles de hasta 267.4% a importaciones de EE.UU.",
+      "source": "Informativo Entre Todos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ3ItY3l1emJObkFtaVk4NkNscjNzQk5CakloYXVDeTBNbkF6TXBiTHZCVWpCNmRlMDNIRlFYdUM5WkhGdEo3eGtDaGJVbU5RTklxSDRVeC1NOC1TM1VjUHpGdVFWY2pjZF9pUFpjVU05NXg5UEw4UlowX0VPYXU3aUZZSmVReTRyUjZKYUxHQUNqMm04WmJlLVVuRjZPYWNYWjNSZUp3SEN6RHRSOUxrcEFXc3BvWENYajVma0otQjY0azBX?oc=5",
+      "datetime": "2026-11-08T02:32:30.000Z",
+      "topics": [
+        {
+          "id": "geopolitica",
+          "label": "Volatilidad geopolítica",
+          "scenarioTag": "Volatilidad",
+          "glossaryTerms": [
+            "Volatilidad"
+          ],
+          "note": "Los eventos geopolíticos inesperados suelen traducirse en un aumento temporal de la volatilidad: oscilaciones de precio más amplias de lo habitual en varias clases de activos a la vez."
+        },
+        {
+          "id": "comercio-aranceles",
+          "label": "Comercio internacional y aranceles",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Diversificación"
+          ],
+          "note": "Los cambios en aranceles o relaciones comerciales pueden afectar de forma desigual a distintos sectores y países, lo que conecta con la idea de diversificar entre regiones."
+        }
+      ],
+      "isNewScenarioCandidate": false
+    },
+    {
+      "id": "n119",
+      "headline": "El peso cubano sigue perdiendo terreno: euro alcanza los 1,010 pesos y el dólar los 933",
+      "summary": "El peso cubano sigue perdiendo terreno: euro alcanza los 1,010 pesos y el dólar los 933",
+      "source": "CiberCuba",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXdDWjdKRmpxb0xKenA3UGIwRE8ycUNjUGxSaHdDNTh1Wi1GTHBMQi04N1hJcTFpWjczUEtkZWpZcm9jRndHNU5CWXdPNDA5eFU2R3ZtU0prdGFnZ1k5MW9kNElyeDZpZ3FkVmFrYnBnZGNGVzZVU2VwWnNMX3ZjVXo5V1M4SEtFOHNOSmZTUks0dEV5UW1IVmF1NklSallPS196c29YQVUtS0hDNkhQODl0cEY3cTZ3dE0ybnNCZ9IBvwFBVV95cUxQbXdDWjdKRmpxb0xKenA3UGIwRE8ycUNjUGxSaHdDNTh1Wi1GTHBMQi04N1hJcTFpWjczUEtkZWpZcm9jRndHNU5CWXdPNDA5eFU2R3ZtU0prdGFnZ1k5MW9kNElyeDZpZ3FkVmFrYnBnZGNGVzZVU2VwWnNMX3ZjVXo5V1M4SEtFOHNOSmZTUks0dEV5UW1IVmF1NklSallPS196c29YQVUtS0hDNkhQODl0cEY3cTZ3dE0ybnNCZw?oc=5",
+      "datetime": "2026-11-08T02:23:25.000Z",
       "topics": [
         {
           "id": "divisas",
@@ -31,12 +87,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n55",
-      "headline": "¿Quién es Julian Hosp? La polémica sobre bitcoin, explicada",
-      "summary": "¿Quién es Julian Hosp? La polémica sobre bitcoin, explicada",
+      "id": "n41",
+      "headline": "Vitalik Buterin: biografía, patrimonio y hoja de ruta",
+      "summary": "Vitalik Buterin: biografía, patrimonio y hoja de ruta",
       "source": "CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDMzQ4Vmw3NGNENWVWbFdtMmltc2ljSDM0VUJqUGdmRFY4aHJUZkUtY0RHZUo0d25yQUFtSjlBRVhVTWxYb3g5VXFMWE5RNGhzQUV2aUVfakJReGNVTGZWcDlUSkRjR05DNlZvLUdlbTJPYUk?oc=5",
-      "datetime": "2026-11-07T19:49:33.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbTJla2V4eG15Y3BTY2Q0aFhGVHBxaHdKdWZJQjlsX1J2ZERpaDZKX01hWHh4RWVlOXJUZW9pWTVNZEg5cFJ2U0ZHaEZWTW9KTklPck4xNDhVRE8zam1vam1DUQ?oc=5",
+      "datetime": "2026-11-08T01:16:14.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -49,12 +105,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n52",
-      "headline": "Leopold Aschenbrenner: el colapso de su fondo de IA",
-      "summary": "Leopold Aschenbrenner: el colapso de su fondo de IA",
-      "source": "CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUNIbUIxeUFvbm9vaFk4dFpBMl9kZmRweHNkU21HSzZ4N1pHU1RmZ0xJT1l0UDk4TDljUmNGNHVVMkl6cU5yN2M2NnNLc0pPSVp4RUlMSUhvZDhMblY4eWU5UFBoM3hsT255cGMtcFlzVjYzSUhVNERBdXk1aXVIcTNXQjVJQmlrMk1WQ0hGMA?oc=5",
-      "datetime": "2026-11-07T19:39:42.000Z",
+      "id": "n48",
+      "headline": "Peter Schiff se burla de Saylor: la tesorería de bitcoin de Strategy vuelve a su precio de costo",
+      "summary": "Peter Schiff se burla de Saylor: la tesorería de bitcoin de Strategy vuelve a su precio de costo",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zZmNQeWV6VHQwQzlpakR2S1c2OGFNQ19kRkZXRHVPZjZrSlJEeU5nTExxTnVqLV8xQ3h6N191MVQ2b1lKbUxFU2lWYzBKclZmNTd6YW5TY1ZITmFlZHo5N2xjYWlsOXJBZ2xKbGRfbHg?oc=5",
+      "datetime": "2026-11-08T01:01:26.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -67,12 +123,12 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n40",
-      "headline": "Precio de CoinTracking 2026: planes de 39 a 769 euros",
-      "summary": "Precio de CoinTracking 2026: planes de 39 a 769 euros",
-      "source": "CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uY0dzeVRPV1FUQUdpQ3M0bklrRU4tQVpmLUxSVmhkcjFmLTU4d3ZiNjBMQ0xJVlRpNWFJTTZBX0lCVms4UzhxRVFhRmlJS3dHX0VpUFU0LUxZWFo0VjlCclR4S0VSajVrdWpNN2ZtTQ?oc=5",
-      "datetime": "2026-11-07T19:22:31.000Z",
+      "id": "n91",
+      "headline": "El Bitcoin se estabiliza tras el ciberataque sin precedentes y la volatilidad de las elecciones estadounidenses.",
+      "summary": "El Bitcoin se estabiliza tras el ciberataque sin precedentes y la volatilidad de las elecciones estadounidenses.",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWDJmSUdPeU9OZXFaNmdnbDRKNE5LSWRzM1pqMkQyRHBwdXVGM1RsOXlKX3N5VHlFaEFNUjhMekZZSlBPRjlGUUhwUTRmeU1NMHhzd2dQUjhxTlQwWW1nTkgtdHM1X25yLUpzUGRtRmdoZVp3eFk5NkJnQ3NWQ0ROWUYzLXMwX2Y2ME9n?oc=5",
+      "datetime": "2026-11-08T00:44:45.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -80,6 +136,44 @@
           "scenarioTag": null,
           "glossaryTerms": [],
           "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n65",
+      "headline": "BCH cae con fuerza y enfrenta una prueba decisiva el 7 de noviembre de 2026",
+      "summary": "BCH cae con fuerza y enfrenta una prueba decisiva el 7 de noviembre de 2026",
+      "source": "DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaHNONGREb0JHMm9ocGdVdkU0MkFJYmo5YzhDZkY2MmFYb1V0SzYyWUdGMEJBZHdfT3d1WmdXa1F4Zm1BRHJLcEFDa3ZjTGstbWZ5VXVpb1pYaGdLQUxuQlVGNDhRckkwZEtCdmhHZWJzVENNdFV2aEU3bW15azhQampTc0NFYzdTVndKV0JRYkh4ZTZCZkN2Wm9YbXhsM2U5aW04UC0xN3Bqa09NUUtQcmdmU0pYQQ?oc=5",
+      "datetime": "2026-11-07T23:27:03.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n117",
+      "headline": "Qué está pasando en el mercado de divisas: las reglas empiezan a fallar",
+      "summary": "Qué está pasando en el mercado de divisas: las reglas empiezan a fallar",
+      "source": "El Boletín",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXlKMVk4blFQU1ZMWUo3WDlvX3puY25pQzZGUEJBX0dscjBkTnJNZkJxbU5KTHJsYmZZSTk1S2VydlYtR1kycnhWQjVILVhNcDZTWmprT0lNWGtUTGNfeG5jQUhCT0xqc2ZoYXRELXBnVDJFUk1BN3pYQW9ncWJVTUZOYWhrOGRKMUxwSVFxdXVCN0ctcW94bVhKRndqQdIBowFBVV95cUxQMmlLUmhtUFprcU0waVNLTzdZcUNEa3c0d0ZXN2ROdVRybGw1d1VTYmJSV2gtQkc3ZjV1bkxTdkp5eFUtVHI5NUhheEpaU1drVjJuZlNBa2tyaWl3WGxLN2N2RzhtTXR2ay1XS282bmVRcnNaOHNQUkhLcEVzQi02WjNhNlZVWVh0eWF0c1ZLR0VRUkNhR1ViXzQyM1pRcmpSMFNR?oc=5",
+      "datetime": "2026-11-07T20:40:43.000Z",
+      "topics": [
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
         }
       ],
       "isNewScenarioCandidate": true
@@ -124,43 +218,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n90",
-      "headline": "EE. UU. sanciona a 8 exchanges canadienses por mover criptomonedas hacia Irán",
-      "summary": "EE. UU. sanciona a 8 exchanges canadienses por mover criptomonedas hacia Irán",
-      "source": "CriptoNoticias",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLWtaM2RXOWZJMHZ6aDh2cW53dVpHUjV0Ty1fYXRJNjMyR3Y3M0gtOGZua1VDbktMbmxKclRBOHpWX1RacDZtSnJ4M0VkTTlFTkRpcHRJMzR5QU1fb094eXlndm14QWxFMUtKRWtXN2MxRUl2cEN2bkNUeC1mWTZQWndKYzRZcjVFNlRnRUpuOG4?oc=5",
-      "datetime": "2026-11-07T18:35:00.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n51",
-      "headline": "Zcash muestra una señal de advertencia para Bitcoin y Ethereum",
-      "summary": "Zcash muestra una señal de advertencia para Bitcoin y Ethereum",
-      "source": "BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UWFBhdUdwZkUxeG95bFBpcFYxb2wxZEhHUVNYeFNTZGxfZ0hFT1ZjcElHUnNwM1NvVk8zbEs2Q05hVGpLSVlhVXVnWlNvaFRUcm5GSUstYkcyYzEyT3ozdW5qejRUQ3VyWW5kQksyU1Y?oc=5",
-      "datetime": "2026-11-07T18:12:00.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n29",
+      "id": "n32",
       "headline": "Carlos Lozano alerta sobre el desplome técnico en Bitcoin: “Nos están tirando un cuchillo del cuarto piso”",
       "summary": "Carlos Lozano alerta sobre el desplome técnico en Bitcoin: “Nos están tirando un cuchillo del cuarto piso”",
       "source": "Negocios.com",
@@ -188,9 +246,9 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n67",
-      "headline": "Correlación bitcoin oro y S&P 500: qué dice la historia",
-      "summary": "Correlación bitcoin oro y S&P 500: qué dice la historia",
+      "id": "n85",
+      "headline": "Bitcoin, oro y S&P 500: cómo se relacionan y por qué su correlación cambia",
+      "summary": "Bitcoin, oro y S&P 500: cómo se relacionan y por qué su correlación cambia",
       "source": "Criptotendencias",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWxYZkQxVm5PV2N0QjFtekU1RFRqcERkZkFzRWk5XzcwZ3AybGxGVHlXY0ZHZGs2eGpMeDlaNEV2cEYxVmVLMG9iejJldDBacUVuOXFRVm5PcnVuLU9MZk1HYzBSankzZ0MtV3V5TE5IWmp2MFF2OFhOLUdIWGNWZFM0emY4a3M?oc=5",
       "datetime": "2026-11-07T18:01:58.000Z",
@@ -216,52 +274,12 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n114",
-      "headline": "¿Cuánto vale el dólar hoy en el mercado negro en Cuba? Así amanecen las divisas",
-      "summary": "¿Cuánto vale el dólar hoy en el mercado negro en Cuba? Así amanecen las divisas",
-      "source": "CiberCuba",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN29mbV82eWNsUjFUN1FDOUFDMlU0T3psY2dJR29TNnAzbU41MGNXcVZFdU95VVR0aEs5a0JGVFlsejFlZHB6NzMxQmt0RGpkSndQSFBZelVxdEt0M0h5czgxQUREUmJ1d0pCS09ndEhPZGxUUjhFN0xNTVFJaUhfbElxaDQ5NGZDbVFzUXByVHR4eUpqR09mc1RHQXdRZlJTNUFROGZxN0pQU1o5MUNWbTlGMFFienFOV3fSAboBQVVfeXFMTTdvZm1fNnljbFIxVDdRQzlBQzJVNE96bGNnSUdvUzZwM21ONTBjV3FWRXVPeVVUdGhLOWtCRlRZbHoxZWRwejczMUJrdERqZEp3UEhQWXpVcXRLdDNIeXM4MUFERFJidXdKQktPZ3RIT2RsVFI4RTdMTU1RSWlIX2xJcWg0OTRmQ21Rc1FwclR0eHlKakdPZnNUR0F3UWZSUzVBUThmcTdKUFNaOTFDVm05RjBRYnpxTld3?oc=5",
-      "datetime": "2026-11-07T15:52:33.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n126",
-      "headline": "Dólar blue: a cuánto cotizan hoy en Mendoza 7 noviembre 2026",
-      "summary": "Dólar blue: a cuánto cotizan hoy en Mendoza 7 noviembre 2026",
-      "source": "Infocampo",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFZYanhuMHk0LW9Zd0hwUDcwX3BnWFZFRU9pa2o5T1lqSnpqd2V3b2tBc1JrUnFuZ3ltM2xfZmlOV3ZUNHFmNkstWFN6QTF4WFlaT2R5VHZxUHVReEpJQmNZM1dMVmJYdURjdUVGME5BczRNcXVUU1FXaUx6Z0tLMjlBcFlXaWU5RHRXUkxFNk5tUQ?oc=5",
-      "datetime": "2026-11-07T14:35:06.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n48",
-      "headline": "Bitcoin y la Fed: BTC aguanta en 75.800 dólares pese a 165.000 empleos y un 80% de opciones de subida de tipos",
-      "summary": "Bitcoin y la Fed: BTC aguanta en 75.800 dólares pese a 165.000 empleos y un 80% de opciones de subida de tipos",
-      "source": "Criptotendencias",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JbUZlZ2RHMlEyUy1ILU5JT3JQUW82OEJuU1JLS21aanFDTlppd042eFZKamlIMFA0QVpkM0JQQXM5a3YtT1FaVHBmR2V1RW80MXVjSlhLcnBGMHJ1YXgtUVVSNHE3WTRHNGMxUA?oc=5",
-      "datetime": "2026-11-07T14:01:41.000Z",
+      "id": "n29",
+      "headline": "El Tesoro de EE. UU. toma medidas para cortar a la casa de cambio de criptomonedas MEXC por más de 16 mil millones de dólares en supuestos flujos ilícitos",
+      "summary": "El Tesoro de EE. UU. toma medidas para cortar a la casa de cambio de criptomonedas MEXC por más de 16 mil millones de dólares en supuestos flujos ilícitos",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLWR5MXFWLTk3clJ3Y1NWXzFfQ2FKZGt2T1plRGQ5Uy1qYmhLZTluLTFZcHRiOGVRLXBGOHBPd0h6aENEUUpkeW5HZDhUamtLeEEtZ1RrUU1aSkd4Nl9YZjllaFVuWDZaMHFkSFpvdVFWaWFJRE5xaUtVWDNrWmdacWRjckFFS0lhRlZuNEFlRFlSUHFOYktNRzZQTzFhci1VZ1hNRERWcmExSzdRc29DVktzdVh1SUFSaWR1VWVkMEVWaUFqYXozRnRDQTJ4TmJBWEpla3hQSFlKUQ?oc=5",
+      "datetime": "2026-11-07T17:36:46.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -270,6 +288,26 @@
           "glossaryTerms": [],
           "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
         },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n115",
+      "headline": "¿Cuánto vale el dólar hoy en el mercado negro en Cuba? Así amanecen las divisas",
+      "summary": "¿Cuánto vale el dólar hoy en el mercado negro en Cuba? Así amanecen las divisas",
+      "source": "CiberCuba",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN29mbV82eWNsUjFUN1FDOUFDMlU0T3psY2dJR29TNnAzbU41MGNXcVZFdU95VVR0aEs5a0JGVFlsejFlZHB6NzMxQmt0RGpkSndQSFBZelVxdEt0M0h5czgxQUREUmJ1d0pCS09ndEhPZGxUUjhFN0xNTVFJaUhfbElxaDQ5NGZDbVFzUXByVHR4eUpqR09mc1RHQXdRZlJTNUFROGZxN0pQU1o5MUNWbTlGMFFienFOV3fSAboBQVVfeXFMTTdvZm1fNnljbFIxVDdRQzlBQzJVNE96bGNnSUdvUzZwM21ONTBjV3FWRXVPeVVUdGhLOWtCRlRZbHoxZWRwejczMUJrdERqZEp3UEhQWXpVcXRLdDNIeXM4MUFERFJidXdKQktPZ3RIT2RsVFI4RTdMTU1RSWlIX2xJcWg0OTRmQ21Rc1FwclR0eHlKakdPZnNUR0F3UWZSUzVBUThmcTdKUFNaOTFDVm05RjBRYnpxTld3?oc=5",
+      "datetime": "2026-11-07T15:52:33.000Z",
+      "topics": [
         {
           "id": "divisas",
           "label": "Divisas",
@@ -324,7 +362,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n113",
+      "id": "n114",
       "headline": "La crisis bancaria que derrocó al presidente también afecta a los servicios públicos en Paraguay",
       "summary": "La crisis bancaria que derrocó al presidente también afecta a los servicios públicos en Paraguay",
       "source": "Jetss Latam",
@@ -345,7 +383,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n105",
+      "id": "n107",
       "headline": "El presidente de Paraguay Santiago Peña pierde el poder tras la quiebra del banco ueno",
       "summary": "El presidente de Paraguay Santiago Peña pierde el poder tras la quiebra del banco ueno",
       "source": "The New York Times",
@@ -366,7 +404,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n107",
+      "id": "n109",
       "headline": "Quiebra el banco más grande de Paraguay: la vez que pasó lo mismo en Perú",
       "summary": "Quiebra el banco más grande de Paraguay: la vez que pasó lo mismo en Perú",
       "source": "Infobae",
@@ -408,33 +446,12 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n104",
+      "id": "n106",
       "headline": "Las claves de la quiebra de Ueno, el banco que le costó la presidencia de Paraguay a Santiago Peña",
       "summary": "Las claves de la quiebra de Ueno, el banco que le costó la presidencia de Paraguay a Santiago Peña",
       "source": "EL PAÍS",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZUttYk9zZnRnTkRaZm1ienB1VHFjT01zUXh1UFhNVkZZM09QVXpaandGOVAtekJRbHd2cGJHWUlMakRORWFRdHM1SVljMkpTd0NHYjk1b0Z1RHd2TlowZHVTVVVISHh1ajRJY0VnRF9DaVRMcUlPYVRXRHRoUDY1T0VYeGRDNHJMYnBUV2owSmhqUS1sa01sbllienFlYUlsOGRtdi1CRXhad0xpQjk0d1d3NnU4WFNzeXdpaHZZaHltaXhoQWhfUTVKNkFRM2hGRHlfbVhLZ9IB6wFBVV95cUxQdXpLdUFpN0pnTHViR2hhc1hGRmpzbFBFVV9FYUZ6OVNzQ3RCN3J2MHhmVkZLY2tDS3ZZMzBpVGpFQ0NWM2s2cDZEWG9vX0h0OU5EVmhfMzRkN2FtYWhtYzg4a0tZS0I5a0JSeUJlSzFuMF84SmRxT0VWYldaZWhELVJ3cFlHdjBFcTBRNjI5TF9wU3p3RlN2WGN0LUpNdkplMnB3OWw5WDNMZFVURy05UGF6RVZ6Z0VRUzl5el85d3VOdk8wc2tsNDM3OS1aZ2pLMUd5dm1JSWNSQU9vc2x3Y1pEbS1wZm9XZ0o4?oc=5",
       "datetime": "2026-11-06T22:41:15.000Z",
-      "topics": [
-        {
-          "id": "sector-bancario",
-          "label": "Sector bancario",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de contraparte",
-            "Diversificación"
-          ],
-          "note": "Los problemas en entidades bancarias concretas pueden relacionarse con el riesgo de contraparte visto en réplica sintética, y recuerdan la importancia de no concentrar el riesgo en un único emisor."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n109",
-      "headline": "Senado de Paraguay aprobó por unanimidad la destitución de Santiago Peña por la quiebra de Ueno Bank",
-      "summary": "Senado de Paraguay aprobó por unanimidad la destitución de Santiago Peña por la quiebra de Ueno Bank",
-      "source": "Diario Financiero",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMU9mdnRRV3pGbUlwbmNNVHJpdmpvLU5peXh0dUUxTlNaVy1tcFJJRk5qem1UeFdvR1NMLUZ2M3otVEF4NHR4emttMzhqQVlPVlZ6WHF6TEwwd05KTDRseUl3U2ZSOWJnZ1FWRXVxRVFDNTBmQjZJU3YtR1lzeklLMWk1ekdDZEo4bVA0YXZIc1N3QWtybUJYaVJrd3l3RHVuYkdBdV9oQnYwbXNmV2M5aFRB?oc=5",
-      "datetime": "2026-11-06T22:20:00.000Z",
       "topics": [
         {
           "id": "sector-bancario",
