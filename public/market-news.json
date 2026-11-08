@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T12:29:10.894Z",
+  "generatedAt": "2026-11-08T21:29:49.004Z",
   "status": "ok",
   "feedFailures": [],
   "coveredScenarioTags": [
@@ -11,12 +11,12 @@
   ],
   "articles": [
     {
-      "id": "n24",
-      "headline": "¿Cómo se han comportado las criptomonedas hoy? Análisis de su volatilidad y tendencias",
-      "summary": "¿Cómo se han comportado las criptomonedas hoy? Análisis de su volatilidad y tendencias",
-      "source": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMXNqRGJMd3p5X3pXUFdlOXVlb1VVU3FqOG1FbTNocVdyWVh0V0IxZ25GbmUycVFTRHlibF9EZkhUcGJSRWx0eDRnZVpDcElfODFWWTIwWTlQcEtlRjlMUm1pOUZENUJzRnFsRktGaWo1OVBwWTZLcGdLcktJc0FzNG9mMDhQa2trdk9xZlJOYnl1SzkzZGMxMVFiTWZuMEhRTUVta0dtMWk5emVzSlNZd1ZZblF1c2V1VTlvQmpQQVRuVlRI0gHfAUFVX3lxTE1OQTVjQ0w5MmJ3WTlQR0YxZUNfd1hKQ2JGb09sekxvbW8xdFFlYnAzWkFXZUM5cUZFWDVxMUZLWVRuQUJHX3lQV1FuSmdfMm8zbFA0RGdPWXU0NlgzM0xZcGIwRFZKcG5pZzhjbExuam5vNmlpT3pURVk0NHlaRzF5RVpRUFpfd0o1MXY5a0JUbWFMWVptdDYwSVltLVpVZ3hwdlNsY1Y1WnJVUm5tR1hvRGw1czBpc0dhdmtkTkZkZF9tYlZlV3VpZGJnd0Y3TFlUcXByU05YczlLejNOR28?oc=5",
-      "datetime": "2026-11-08T11:31:00.000Z",
+      "id": "n26",
+      "headline": "LNbits pide apagar sus servidores tras reportes de fondos drenados",
+      "summary": "LNbits pide apagar sus servidores tras reportes de fondos drenados",
+      "source": "DiarioBitcoin",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXFQbUZpRHIzMndZaEZLYTU2WEJiM01yTXNfaE8xTHZ4aFc5YUpiTWstb2Y5MnpEbmMyVFg1a0dDTW5Zc2ozWVdLWkJ3NWQweUpjNFI5SmxVUkVWeGhmYTQyUUdfYVBsUVFHX0RpUXlqWi1FeXl0Y2w4NWRWeTBTbmt3d2lFUk5Rck8xTVJ2NExiMTlzREEwYjVKaEx0X2pwbW5Oa1E1YlJNcUhYd291Wg?oc=5",
+      "datetime": "2026-11-08T20:09:14.000Z",
       "topics": [
         {
           "id": "criptomonedas",
@@ -29,7 +29,200 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n3",
+      "id": "n63",
+      "headline": "Criptomonedas hoy: cotización de las principales divisas digitales al 8 de noviembre",
+      "summary": "Criptomonedas hoy: cotización de las principales divisas digitales al 8 de noviembre",
+      "source": "La Nación",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdmpPLXZ6OHRYYVVzLVlHSWhXX2ZydThTbnRzN3BiejF1R2NHTFJzQkttdUJJaThnZDZaU0ttTG9yR1NUTjNhalVLRWZBX01XRDVFZ0xtVkNLeEx4TFZkSFVxNTh5ZHNmZ3VKUlJiVS1BbVF6Ulptd2FBZ19QR2dtS2liRVBxOTlTQU9VYk55cGFPSzJ1Znk5YkJmZW10Mk1Ea0otYjBWb2tPWTRuc3Z4WjR5bnZLNEpSTnNyV2pOalJuUHNzSXZuLWM0ZC12N0FYbHc?oc=5",
+      "datetime": "2026-11-08T20:00:00.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n25",
+      "headline": "Bitcoin se mantiene fuerte: Por qué $76,000 es el nivel que importa ahora",
+      "summary": "Bitcoin se mantiene fuerte: Por qué $76,000 es el nivel que importa ahora",
+      "source": "Cointribune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUtLNVZwQ003Y3RuWFlINWE2WkJMVjhLS0JzU3JBV1lpUzc4YllEbmZJWEJYcUZycHoxU1RxSGU0RVREWUpyOEc1eGV2TU4yMXRjN19XWlVvUFpzTnVjQ0F6NEwyUGE2YTRqUHpWaXYwOGoxNlV0VjBETjlPdEFrcDV0aEcwRFNOZ0dIcTRkZWRJbkpPcmpob1NZajBTbDAyS19VLQ?oc=5",
+      "datetime": "2026-11-08T19:26:06.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n10",
+      "headline": "FOMO y FUD en cripto: qué significan y el índice del miedo",
+      "summary": "FOMO y FUD en cripto: qué significan y el índice del miedo",
+      "source": "CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqRldXNmNHQ1AwRjM4V2ZnNkk5alhLZzZHUHQzcDY2ZVUxZDloTEttUFU1MG84QlBzb1FkVVZnTVJwUWlQV0dObXd0MVNzWFVuUmxaSU5yZzdWX3pQeXhydVhNWQ?oc=5",
+      "datetime": "2026-11-08T19:23:41.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n18",
+      "headline": "Predicción de Ethereum: 2.982 ETH nuevos en un día y solo 10 quemados",
+      "summary": "Predicción de Ethereum: 2.982 ETH nuevos en un día y solo 10 quemados",
+      "source": "CryptoTicker.io",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdm9DaE1Gb3RhSHpyZU1WbFh0TUw4dXIxVmozSzZVaExtWlFGS2MxdkJXRTJMblVDVkYwNUhDcWpodU5MNWZsMVhkTGFONk1FYzYwTXFfWVhnM0RsVVZFa1dWMDhOamprcE5Ma3Fvd2xMaEtDNl9ZNGp3U0d5bVBEQV9mZw?oc=5",
+      "datetime": "2026-11-08T19:16:19.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n49",
+      "headline": "El bitcoin cae por debajo de los 75.000 dólares por primera vez desde septiembre",
+      "summary": "El bitcoin cae por debajo de los 75.000 dólares por primera vez desde septiembre",
+      "source": "El Digital Panamá",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR2FPNWdqd09NdUNxM0laREt5Xzd2QVhnN3NGTTFiZ0Z2dTduSklSS2pxOGw2dTlxSTJlemZYbVZ6bzFISHlUREI3OTdpb01tS3RRNDhsOEh4bENfb2tnWnJHblZWa0tHcWxzaFVfaVphVlhyLU92eDhDYTNLalJMQVBmVFYzSm5YM3gxOEhwZE1rLWYySkZUT1pzdmVZUENpY1ZoUTFYUWhNeGVPOUE?oc=5",
+      "datetime": "2026-11-08T17:29:53.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n83",
+      "headline": "Descienden dólar y euro en mercado informal de divisas en Cuba",
+      "summary": "Descienden dólar y euro en mercado informal de divisas en Cuba",
+      "source": "Cubita NOW",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNF9UeDB3dG9RcDdURzE4alBnYTY2aXZuRlp6Sm1yX1pMcl92UzBPYTV4bktlWFZ5aHZrVEoyUVRobWZCMjF1MjZtOWVPa19rdU1ENHRRSEdqX2JEQzJVY3RZcVFvOVVuWFdJeG15S1llall0eUFtZk01bGkzdDJLMW96QjJmT0xfdHJzU3o2cnRRZ2xWbW5j0gGXAUFVX3lxTE00X1R4MHd0b1FwN1RHMThqUGdhNjZpdm5GWnpKbXJfWkxyX3ZTME9hNXhuS2VYVnlodmtUSjJRVGhtZkIyMXUyNm05ZU9rX2t1TUQ0dFFIR2pfYkRDMlVjdFlxUW85VW5YV0l4bXlLWWVqWXR5QW1mTTVsaTN0Mksxb3pCMmZPTF90cnNTejZydFFnbFZtbmM?oc=5",
+      "datetime": "2026-11-08T16:06:54.000Z",
+      "topics": [
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n19",
+      "headline": "Binance en Europa cierra cuentas mientras bitcoin se mantiene bajo los 76.000 dólares",
+      "summary": "Binance en Europa cierra cuentas mientras bitcoin se mantiene bajo los 76.000 dólares",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3l3MEVZeEJXV0lPSElVelYzekpVcEc3VkF0cjBPM3ZkMm1KTW1yNFV1WHhuMWJSWWRxRFVMR2dqR0dxaVJmYnY3WW1JcnZOQmlycTg3UkQzT0M3cVkybmoxYk1tY2F5bGtVSi10c09fNGZ6U1hWNURpV2RpZl9hZnpIMA?oc=5",
+      "datetime": "2026-11-08T16:01:28.000Z",
+      "topics": [
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        },
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n76",
+      "headline": "Sorpresa en el mercado informal de divisas en Cuba: el dólar cambia de rumbo este domingo",
+      "summary": "Sorpresa en el mercado informal de divisas en Cuba: el dólar cambia de rumbo este domingo",
+      "source": "CiberCuba",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGU0LU5JWUoyNkFCTU9SNF9zVjJzMkgyZGpQYXlBcTdXb1NoTlhRNUZpYk9xdmd5NlRYVGJUYVduSUlESjhHNnpBamNwSl9rYnNRYzlKUmo0bWNOU2NzS3JqbUtKYW9XNmNva2xQekViZjlWYTgxRkN4eDg4YVl4UlNGVUtMWmlZUjZvSlFQUGRBSjdVdnhzSGJaUTJ0Q3JiNlhBTUVGVkluaWVha3dwM2o3SjV1WGJHRnRWS20td0dCZ3PSAcMBQVVfeXFMTnBlNC1OSVlKMjZBQk1PUjRfc1YyczJIMmRqUGF5QXE3V29TaE5YUTVGaWJPcXZneTZUWFRiVGFXbklJREo4RzZ6QWpjcEpfa2JzUWM5SlJqNG1jTlNjc0tyam1LSmFvVzZjb2tsUHpFYmY5VmE4MUZDeHg4OGFZeFJTRlVLTFppWVI2b0pRUFBkQUo3VXZ4c0hiWlEydENyYjZYQU1FRlZJbmllYWt3cDNqN0o1dVhiR0Z0VkttLXdHQmdz?oc=5",
+      "datetime": "2026-11-08T15:24:56.000Z",
+      "topics": [
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n53",
+      "headline": "Dólar cripto: una startup argentina se alía con MoneyGram para conectar pesos y stablecoins",
+      "summary": "Dólar cripto: una startup argentina se alía con MoneyGram para conectar pesos y stablecoins",
+      "source": "Criptotendencias",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTGhjU0xsdGR3OHZfZkRlS05kODlWQjJNSzJyU3daWV9EcnE0TmlRRmxtSTZBSUJ4c25FaElZMk02c3E3SXNBVHk1LWVsN3kxbTNxNTNNMmwzUjg1VnM3SmlyckNUeHhGYUNEd2ROWksxbzB2dEI4?oc=5",
+      "datetime": "2026-11-08T14:01:28.000Z",
+      "topics": [
+        {
+          "id": "divisas",
+          "label": "Divisas",
+          "scenarioTag": null,
+          "glossaryTerms": [
+            "Riesgo de divisa"
+          ],
+          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
+        },
+        {
+          "id": "criptomonedas",
+          "label": "Criptomonedas",
+          "scenarioTag": null,
+          "glossaryTerms": [],
+          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
+        }
+      ],
+      "isNewScenarioCandidate": true
+    },
+    {
+      "id": "n2",
       "headline": "Inflación: qué espera el mercado para los precios en año electoral y el riesgo latente para el IPC",
       "summary": "Inflación: qué espera el mercado para los precios en año electoral y el riesgo latente para el IPC",
       "source": "El Cronista",
@@ -49,81 +242,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n65",
-      "headline": "Precio de T1 Energy xStock, precio de TEX, gráficos en tiempo real y capitalización de mercado - Coinbase México",
-      "summary": "Precio de T1 Energy xStock, precio de TEX, gráficos en tiempo real y capitalización de mercado - Coinbase México",
-      "source": "Coinbase",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVJCcVJITGQ2WGtUaWxxcFdWdWJ0cmQtNGh1M2d4dFFNeVdlWU1QSzhCVWNvSi1kQ1lqTk1Gd3p1a2VHdXNCVDV3Y01LTVlXN2hSYU16T0dtVi1pU2FPS1BzNzczaDh4REVNT2JSRXNFaDU5VTl5WVgxeTdWTm0wWTBCZGYzYW81SWZlVzdtc3haRXR6TVowWUIwZnpSMUVJMEU1MjlhZ2IwOW5j?oc=5",
-      "datetime": "2026-11-08T11:26:32.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n109",
-      "headline": "Dólar y euro siguen con precios récord en Cuba. Así está el mercado informal hoy",
-      "summary": "Dólar y euro siguen con precios récord en Cuba. Así está el mercado informal hoy",
-      "source": "Directorio Cubano",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXh2Sm80R1E3SUxEMkI0LW5fbFRsenZjcnh2NnE4YUNwVDJncXlXODhTM21NR1Ytbmd0UXFuSjltZGhsNVhObW84SEtTYmdKWW1KbzNNVnBnMXVFR0NnaDdlYjZIU1RtU3haMFVmYzhXaVllaGZPMmxBc1p0UTkxYnR1ZWpjd1ZJX1ZIMmNTdTdqUU1tSVdwRFU4aGNtUG5pMjIyc1ZiYUMtNzFl?oc=5",
-      "datetime": "2026-11-08T11:24:15.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n32",
-      "headline": "Predicción de Shiba Inu: amenaza la sexta semana bajista",
-      "summary": "Predicción de Shiba Inu: amenaza la sexta semana bajista",
-      "source": "CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYWd5b0l3bEM5ZmFJQ3h0MTVuNl9fSWE4NGp3aUExZzAwUXh0QkdXN2N1TFRlYkxFS0p5aFBYRlZPd1RZVV8tZzVYX1MzRjNqNzNHZ3E5UVpybEFLMnc2QnlBZUVWNVA1MTVET1lmeUFsaFM4allQMndYN1Z2bUdXZncxQ0lyeEV0d0EyWk9mYw?oc=5",
-      "datetime": "2026-11-08T11:17:23.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n38",
-      "headline": "Nubank y Mercado Pago paran las transferencias de cripto",
-      "summary": "Nubank y Mercado Pago paran las transferencias de cripto",
-      "source": "Observatorio Blockchain",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORk5PY1Qza0FoMDRUTUhQOWQ2N21LTHFGblpaT1phOHM1OU5QRUVRUXNYRHFnU3pVNkZjNXZYVzNKNXROUnJlU0p6aXlTREEySmxYRGdVeUwtSEVWOVpwSFFyRE45V1ZFbDY1cG5hVERmMG8tWTJqNTI0Y014SGx6SFVKekpQRmZzVEhybVdVaFRIWUpzMVdxakg1U3dnQQ?oc=5",
-      "datetime": "2026-11-08T11:00:55.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n60",
+      "id": "n55",
       "headline": "Bitcoin podría rendir más que el oro y las acciones, según JPMorgan",
       "summary": "Bitcoin podría rendir más que el oro y las acciones, según JPMorgan",
       "source": "iProUP",
@@ -151,61 +270,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n35",
-      "headline": "Los ETF de Bitcoin pierden 1.280 millones de dólares en una semana crítica",
-      "summary": "Los ETF de Bitcoin pierden 1.280 millones de dólares en una semana crítica",
-      "source": "Cointribune",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcnh5NEkzaHdvaGhkQjhjV0thS3VhSmhvb1k2RmVQWTZCeFdjblkzbVRXZkRjWlgyQ2NGZDh1THRMN1l2T0M0Vm1oRDBFMEZqUHB6YXUtcFVjX1JFZlA1WXRFSXR0dUxUSFlyVjE1MEJoUDRkaEFydEpkTDI3YzkzcHd3OGgyWkQtbGc1N3l6SmNiUzdHQ1dLZEdIYmlMODNsSjZQZzE5bWt1QQ?oc=5",
-      "datetime": "2026-11-08T08:32:31.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n44",
-      "headline": "Un exagente del FBI admite haber robado 2,47 millones de dólares en criptos",
-      "summary": "Un exagente del FBI admite haber robado 2,47 millones de dólares en criptos",
-      "source": "Cointribune",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkQ3UUgxQjZROG0zVVNNZmVwbElrTUt6N0w5VVdsTm4ySG15cEZhMjhZLUhKNTV0Sk9lN1poT2Vzdkk4eHlZT0V0TW5DeUtwY0tyTHhNS016WmY0enBndmQzZ3JWNTctUmNsVEJlaU1FeFZ6dXVERUQ0c3l0dHhPZDJOWEFuMDJtS29CVXVhb1RZOGxhcWVfV3Y4ektHbDB4cXBLQUpiMzd0dw?oc=5",
-      "datetime": "2026-11-08T08:14:28.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        },
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n88",
+      "id": "n70",
       "headline": "¿Están seguros tus ahorros si quiebra tu banco? Entendiendo la garantía de depósitos trás Ueno Bank y Japón",
       "summary": "¿Están seguros tus ahorros si quiebra tu banco? Entendiendo la garantía de depósitos trás Ueno Bank y Japón",
       "source": "Negocios.com",
@@ -226,54 +291,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n19",
-      "headline": "Bitcoin: 75.938 dólares y sin impulso para sostener el rebote",
-      "summary": "Bitcoin: 75.938 dólares y sin impulso para sostener el rebote",
-      "source": "El blog del Euríbor",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWUU5V2pZY2xLaEl4Y0xEaUF4bllZQkhiTWJWVXUwa0haSElDY0dnVHFZTEVIWlQ5MjBNNkh6NUZiWV91TUhkZ2lza3Q1bzBpdEpoanQ0Wm8zM19fTXdqR0lBZ01WSldPdS1FbFR4eFM4aDVQVER2TUZSSWI3c1NnS1oyQnYybFNQbGRlQk1hYXFHS1hJMnF5XzVoeDFSTXNl?oc=5",
-      "datetime": "2026-11-08T07:50:25.000Z",
-      "topics": [
-        {
-          "id": "criptomonedas",
-          "label": "Criptomonedas",
-          "scenarioTag": null,
-          "glossaryTerms": [],
-          "note": "Esta app no cubre criptomonedas: no forman parte de los fondos indexados de renta fija o variable explicados aquí, y tienen una dinámica de riesgo propia no tratada en esta teoría."
-        },
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n105",
-      "headline": "Tipo de cambio del USD hoy, 8 de noviembre: El dólar estadounidense se mantiene estable tanto en los bancos como en el mercado negro. ¿Debería comprar USD ahora?",
-      "summary": "Tipo de cambio del USD hoy, 8 de noviembre: El dólar estadounidense se mantiene estable tanto en los bancos como en el mercado negro. ¿Debería comprar USD ahora?",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUVRrR2dsbUI3VEV3UDZpV0t1OTNzYTlpcGRUdkZlSnQxQUlLYUR1M2p5SDFEUERYZXFwNHpacm9tMlJNOFVpZ2hadDR1ZmNqUmFMelVraTJkMkdoMU1FNThLaTNsSTVLeEVRalc2VzM3NHd4N0g2OE94VzNVbEp2SUhvVGdpRVZwaVFHTG1XS21sbjlzRUpRLWlIdUVuM2dTWmVGbUJVTjFaeFN4ZG9RazhwUm1FZnRKS2tiMmM4VG15TUU?oc=5",
-      "datetime": "2026-11-08T07:09:44.000Z",
-      "topics": [
-        {
-          "id": "divisas",
-          "label": "Divisas",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de divisa"
-          ],
-          "note": "Los movimientos de tipo de cambio afectan al valor, en tu propia divisa, de cualquier inversión hecha en una divisa distinta — es lo que en el glosario se llama riesgo de divisa."
-        }
-      ],
-      "isNewScenarioCandidate": true
-    },
-    {
-      "id": "n95",
+      "id": "n74",
       "headline": "¿Cómo se produjo la quiebra del Banco Ueno en Paraguay?",
       "summary": "¿Cómo se produjo la quiebra del Banco Ueno en Paraguay?",
       "source": "شبكة تواصل الإخبارية",
@@ -294,7 +312,7 @@
       "isNewScenarioCandidate": true
     },
     {
-      "id": "n79",
+      "id": "n65",
       "headline": "La UE crea un grupo de trabajo de 12 meses para frenar la evasión cripto de sanciones rusas",
       "summary": "La UE crea un grupo de trabajo de 12 meses para frenar la evasión cripto de sanciones rusas",
       "source": "DiarioBitcoin",
@@ -321,7 +339,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n87",
+      "id": "n68",
       "headline": "¡Sigue la guerra comercial! China mantiene aranceles de hasta 267.4% a importaciones de EE.UU.",
       "summary": "¡Sigue la guerra comercial! China mantiene aranceles de hasta 267.4% a importaciones de EE.UU.",
       "source": "Informativo Entre Todos",
@@ -350,7 +368,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n12",
+      "id": "n4",
       "headline": "IBC de la Bolsa de Caracas sigue sobre la inflación y la devaluación con alza de 301,06% este año",
       "summary": "IBC de la Bolsa de Caracas sigue sobre la inflación y la devaluación con alza de 301,06% este año",
       "source": "Banca y Negocios",
@@ -389,7 +407,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n36",
+      "id": "n51",
       "headline": "Carlos Lozano alerta sobre el desplome técnico en Bitcoin: “Nos están tirando un cuchillo del cuarto piso”",
       "summary": "Carlos Lozano alerta sobre el desplome técnico en Bitcoin: “Nos están tirando un cuchillo del cuarto piso”",
       "source": "Negocios.com",
@@ -438,7 +456,7 @@
       "isNewScenarioCandidate": false
     },
     {
-      "id": "n6",
+      "id": "n3",
       "headline": "Inflación: los alimentos dieron una señal de alivio, pero hay un factor que relativiza la baja",
       "summary": "Inflación: los alimentos dieron una señal de alivio, pero hay un factor que relativiza la baja",
       "source": "El Cronista",
@@ -456,27 +474,6 @@
         }
       ],
       "isNewScenarioCandidate": false
-    },
-    {
-      "id": "n97",
-      "headline": "La crisis bancaria que derrocó al presidente también afecta a los servicios públicos en Paraguay",
-      "summary": "La crisis bancaria que derrocó al presidente también afecta a los servicios públicos en Paraguay",
-      "source": "Jetss Latam",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVjRPbk5Cd3hWZ3JabG5uZjlFVmpoSUFtTVp1NWJIckdRdUYwQmdzZ2MwSWFHby1iNHZBNW1CZVA3a2RlUW1vZlgtVV9scGVtLTFQR21XV2xQU2tqOVRIajFuYzBic3djSWlrT1hrbUlDVGV6SzBtVmNfMHl6NVNYdTZ5cHJ6ZDVybVlfSmprZjVnRWJxeFJKLXlTRm9MRXlkN2c2MVBPMzBxY2o5WXBsSVM1V1ozcHlPWlozOVQ0M3RaZ05FVm1jVA?oc=5",
-      "datetime": "2026-11-07T09:56:10.000Z",
-      "topics": [
-        {
-          "id": "sector-bancario",
-          "label": "Sector bancario",
-          "scenarioTag": null,
-          "glossaryTerms": [
-            "Riesgo de contraparte",
-            "Diversificación"
-          ],
-          "note": "Los problemas en entidades bancarias concretas pueden relacionarse con el riesgo de contraparte visto en réplica sintética, y recuerdan la importancia de no concentrar el riesgo en un único emisor."
-        }
-      ],
-      "isNewScenarioCandidate": true
     }
   ]
 }
